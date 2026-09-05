@@ -1,0 +1,56 @@
+# Site settings
+title: "健康无抗抑郁药"
+description: "Health Without Antidepressants 中文翻译合集"
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+
+# Navigation
+navigation:
+  - title: 首页
+    url: /
+  - title: 入门与决策
+    url: /入门与决策/
+  - title: 减量方法
+    url: /减量方法/
+  - title: 停药症状与应对
+    url: /停药症状与应对/
+  - title: 副作用与危害
+    url: /副作用与危害/
+  - title: 社区经验
+    url: /社区经验/
+  - title: 健康生活
+    url: /健康生活/
+  - title: 支持与资源
+    url: /支持与资源/
+
+# Exclude
+exclude:
+  - README.md
+  - LICENSE
