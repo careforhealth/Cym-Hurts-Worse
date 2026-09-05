@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="article-page">
+  <div class="article-container">
+    <div class="article-header">
+      <div class="article-meta">
+        <a href="{{ '/' | relative_url }}" class="back-link">&larr; 返回首页</a>
+      </div>
+      <h1 class="article-title">{{ page.title }}</h1>
+    </div>
+    <div class="article-content">
+      {{ content }}
+    </div>
+    <div class="article-footer">
+      <div class="article-nav">
+        <a href="{{ '/' | relative_url }}" class="nav-btn">&larr; 返回首页</a>
+      </div>
+    </div>
+  </div>
+</article>

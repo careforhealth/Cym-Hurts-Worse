@@ -1,0 +1,28 @@
+<header class="site-header">
+  <div class="header-container">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="logo-icon">&#x1F3E5;</span>
+      <span class="logo-text">健康无抗抑郁药</span>
+    </a>
+    <nav class="main-nav">
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-list">
+        {% for item in site.navigation %}
+        <li class="nav-item">
+          <a href="{{ item.url | relative_url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">
+            {{ item.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
+<script>
+document.querySelector('.nav-toggle').addEventListener('click', function() {
+  document.querySelector('.nav-list').classList.toggle('open');
+  this.classList.toggle('active');
+});
+</script>
