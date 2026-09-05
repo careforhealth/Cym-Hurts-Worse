@@ -80,7 +80,7 @@
 
 **完全自愿，不影响阅读。** 先照顾好自己最重要。
 
-<img src="sharing/coffee.jpg" width="250" alt="微信鼓励码">
+<img src="sharing/coffee.jpg" width="200" alt="微信鼓励码">
 
 感谢一路相伴 🙏
 

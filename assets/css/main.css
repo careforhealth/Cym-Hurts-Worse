@@ -257,7 +257,7 @@ img{max-width:100%;height:auto;border-radius:var(--radius-sm)}
 .support-card h2{font-family:var(--serif);font-weight:900;font-size:clamp(1.4rem,3vw,1.9rem);margin-bottom:12px}
 .support-card p{color:var(--muted);font-size:.93rem;max-width:560px;margin:0 auto}
 .support-card .support-note{margin-top:8px;color:var(--ink);font-weight:600}
-.support-card img{width:220px;margin:22px auto 10px;display:block;border:1px solid var(--line)}
+.support-card img{width:160px;margin:22px auto 10px;display:block;border:1px solid var(--line)}
 .support-thanks{font-size:.9rem}
 
 /* ---------- Responsive ---------- */
