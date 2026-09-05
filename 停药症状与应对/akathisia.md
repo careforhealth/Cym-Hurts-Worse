@@ -4,13 +4,13 @@ title: "静坐不能"
 category: 停药症状与应对
 original_url: https://healthwithoutantidepressants.com/akathisia/
 ---
-# 静坐不能（Akathisia）
+## 静坐不能（Akathisia）
 
 > 原文链接：https://healthwithoutantidepressants.com/akathisia/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-# 什么是静坐不能？
+## 什么是静坐不能？
 
 静坐不能（akathisia）是一种运动障碍，其特征是主观上感到内心烦躁不安或紧张坐立，并伴有强烈的移动冲动（compelling urge to move），由此导致内心不安、重复性动作，如双腿交叉、摆腿，或持续在两脚之间来回倒换重心。
 
@@ -26,7 +26,7 @@ original_url: https://healthwithoutantidepressants.com/akathisia/
 
 - **急性**（Acute）静坐不能：在开始服药后不久出现。
 - **迟发性**（Tardive）静坐不能：在开始服药数月后出现。
-- **撤药性**（Withdrawal）静坐不能：在停药时出现。
+- **戒断性**（Withdrawal）静坐不能：在停药时出现。
 - **慢性**（Chronic）静坐不能：任何持续超过六个月的静坐不能类型。
 
 **所有类型静坐不能的症状可能包括：**
@@ -49,7 +49,7 @@ original_url: https://healthwithoutantidepressants.com/akathisia/
 
 参考：[克利夫兰诊所：静坐不能](https://my.clevelandclinic.org/health/diseases/23954-akathisia)
 
-## 静坐不能有多常见？
+### 静坐不能有多常见？
 
 出现明显静坐不能症状的人群比例：
 
@@ -68,7 +68,7 @@ King 及其同事开展的一项健康志愿者服用氟哌啶醇（haloperidol�
 
 Healy 及其同事得出了与 King 研究相似的结果，不同之处在于，一些志愿者在一周后仍明显存在不适和烦躁情绪[[**2**](https://rxisk.org/akathisia/#ref2)–[**4**](https://rxisk.org/akathisia/#ref4)]。其他研究也发现了类似的效应[[**5**](https://rxisk.org/akathisia/#ref5)、[**6**](https://rxisk.org/akathisia/#ref6)]。
 
-## 参考文献
+### 参考文献
 
 1. King DJ, Burke M, Lucas RA. [抗精神病药引起的烦躁不快（Antipsychotic drug-induced dysphoria）](https://rxisk.org/wp-content/uploads/2018/08/antipsychotic_druginduced_dysphoria.pdf). Br J Psychiatry 1995; 167:480-482.
 2. Healy D, Farquhar G. [氟哌利多的即时效应（Immediate effects of droperidol）](https://davidhealy.org/wp-content/uploads/2012/05/1998-The-immediate-effects-of-droperidol.pdf). Hum Psychopharm 1998; 13:113-120.
@@ -77,7 +77,7 @@ Healy 及其同事得出了与 King 研究相似的结果，不同之处在于�
 5. Belmaker RH, Wald D. Haloperidol in normals. Br J Psychiatry 1977; 131:222-223.
 6. Kendler KS. A medical student's experience with akathisia. Am J Psychiatry 1976; 133:454.
 
-## 诊断：警示
+### 诊断：警示
 
 尽管静坐不能的发病率很高且后果严重，但患者和医生往往对这种问题缺乏了解。大多数医疗保健专业人员可能从未听说过静坐不能。
 
@@ -93,15 +93,15 @@ Healy 及其同事得出了与 King 研究相似的结果，不同之处在于�
 - 精神崩溃
 - 精神病性失代偿（psychotic decompensation）
 
-## 你可以怎么说
+### 你可以怎么说
 
 如果你怀疑自己可能正在遭受这种副作用，那么在与医生交谈时，特意使用"akathisia（静坐不能）"这一术语可能会有所帮助。你还可以要求把这个术语记入病历，以表明你明确认定该问题是一种药物副作用。
 
-## 你不应该说什么
+### 你不应该说什么
 
 提到"激越"或"焦虑"这类笼统的词语，更容易被误认为是一种心境障碍。静坐不能不是一种心境障碍（mood disorder）！
 
-## 警示：需要留意什么
+### 警示：需要留意什么
 
 如果你的朋友或家人最近开始服用抗抑郁药、抗精神病药，甚至抗生素，你可能需要注意观察静坐不能的迹象。
 
@@ -122,7 +122,7 @@ Healy 及其同事得出了与 King 研究相似的结果，不同之处在于�
 
 因此，正在长期服药且目前状况良好的人，如果治疗方案发生任何改变，仍然可能面临风险。
 
-# 治疗
+## 治疗
 
 治疗静坐不能时必须格外谨慎。它是由药物诱发的。
 
@@ -132,7 +132,7 @@ Healy 及其同事得出了与 King 研究相似的结果，不同之处在于�
 
 如果你长期服用抗抑郁药或抗精神病药，停药后可能需要数月或更长时间，静坐不能才会消退。对一些人来说，它可能会无限期地持续下去，使患者无法完全放松或获得情绪上的满足。
 
-# 延伸阅读
+## 延伸阅读
 
 静坐不能是许多精神类药物一种潜在但极其可怕的副作用。要完全理解它有多可怕，几乎是不可能的。
 
@@ -170,9 +170,9 @@ Healy 及其同事得出了与 King 研究相似的结果，不同之处在于�
 - "在那段时间里，我在自己的身体里是如此地极不舒服，以至于我只想逃离（OUT）。它让人感觉危险，并带来大量不受欢迎的念头。我做什么都不舒服。站着、走路、坐下：每一件事都会带来一波又一波焦躁不安的焦虑，而我醒着的每一分钟都在试图驱散它。
 - 等待我的只有毁灭和不祥预感，睡眠是唯一的喘息。在清醒的时候，我一天到晚都在试图找到一个能让接下来几分钟好受一点的姿势。我并不亢奋。事实上，我抑郁得无法集中精力去做任何实质性的正事。"
 
-# 抗抑郁药、暴力、自杀
+## 抗抑郁药、暴力、自杀
 
-关于为什么有些人会死于自杀——这或许能帮助人们理解，尤其是那些因亲人死于 SSRIs 而愤怒、悲痛和困惑的人——最好的描述来自大卫·福斯特·华莱士，他多年来一直服用 Nardil（苯乙肼）接受治疗。有人推测，正是 Nardil 的撤药反应（withdrawal）导致了他的自杀：
+关于为什么有些人会死于自杀——这或许能帮助人们理解，尤其是那些因亲人死于 SSRIs 而愤怒、悲痛和困惑的人——最好的描述来自大卫·福斯特·华莱士，他多年来一直服用 Nardil（苯乙肼）接受治疗。有人推测，正是 Nardil 的戒断反应（withdrawal）导致了他的自杀：
 
 > *"所谓'精神病性抑郁'的人试图自杀，并非出于所谓的'绝望'，也不是出于任何抽象的信念——认为生命的资产和负债无法对平。当然也不是因为死亡突然显得诱人。*
 >
@@ -190,7 +190,7 @@ Healy 及其同事得出了与 King 研究相似的结果，不同之处在于�
 *同上，第 16 页*
 *《精神病学中的大脑致残治疗》（Brain-Disabling Treatments in Psychiatry），作者 Peter Breggin，第二版，Springer Publishing，2008 年，第 48 页*
 
-# 其他参考资料
+## 其他参考资料
 
 [静坐不能教育联盟（Akathisia Alliance for Education）](https://www.facebook.com/akathisiaalliance/)
 

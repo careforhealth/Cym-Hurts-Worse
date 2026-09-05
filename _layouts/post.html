@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign related = site.pages | where: "category", page.category | sort: "title" %}
+{% assign related = site.pages | where: "category", page.category | where_exp: "p", "p.published != false" | sort: "title" %}
 <article class="article-page">
   <div class="container narrow">
     <nav class="crumbs">

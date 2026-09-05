@@ -11,7 +11,7 @@ layout: default
   <div class="hero-container">
     <div class="hero-badge">
       <span class="pulse-dot"></span>
-      38 篇中文翻译 · 7 大主题 · 持续更新
+      37 篇中文翻译 · 7 大主题 · 持续更新
     </div>
     <h1 class="hero-title">科学减量，<em>温柔康复</em><br>重获健康生活</h1>
     <p class="hero-subtitle">Health Without Antidepressants 中文翻译合集 — 从做决策、定计划、应对停药症状，到重建身心，一步一步陪你走。</p>
@@ -20,13 +20,13 @@ layout: default
       <div class="search-box">
         <span class="search-icon">{% include icon.html name='search' %}</span>
         <input type="search" id="homeSearch" placeholder="搜索：静坐不能 / 数微丸 / 失眠 / 体重增加…" autocomplete="off" aria-label="搜索文章">
-        <kbd>38 篇</kbd>
+        <kbd>37 篇</kbd>
       </div>
       <ul class="search-results" id="searchResults" hidden></ul>
     </div>
 
     <div class="hero-stats">
-      <div class="stat"><strong>38</strong><span>翻译文章</span></div>
+      <div class="stat"><strong>37</strong><span>翻译文章</span></div>
       <div class="stat-divider"></div>
       <div class="stat"><strong>7</strong><span>主题分类</span></div>
       <div class="stat-divider"></div>
@@ -87,7 +87,7 @@ layout: default
     </div>
     <div class="categories-grid">
       {% for meta in site.categories_meta %}
-      {% assign cat_pages = site.pages | where: "category", meta.name | sort: "title" %}
+      {% assign cat_pages = site.pages | where: "category", meta.name | where_exp: "p", "p.published != false" | sort: "title" %}
       <article class="category-card color-{{ meta.color }}">
         <a class="card-top" href="{{ '/' | append: meta.slug | append: '/' | relative_url }}">
           <span class="card-icon">{% include icon.html name=meta.icon %}</span>
@@ -115,7 +115,7 @@ layout: default
     <div class="about-text">
       <span class="eyebrow">关于本站</span>
       <h2>一座中文的<br>减量知识小图书馆</h2>
-      <p>本站收录 <a href="https://healthwithoutantidepressants.com/browse-site-contents" target="_blank" rel="noopener">Health Without Antidepressants</a> 全部 38 篇文章的简体中文翻译，原站面向抗抑郁药 / 度洛西汀（Cymbalta）使用者，关注安全减量与替代疗法。</p>
+      <p>本站收录 <a href="https://healthwithoutantidepressants.com/browse-site-contents" target="_blank" rel="noopener">Health Without Antidepressants</a> 全部 37 篇正文的简体中文翻译，原站面向抗抑郁药 / 度洛西汀（Cymbalta）使用者，关注安全减量与替代疗法。</p>
       <div class="about-tags">
         <span>翻译 2026-08-05</span>
         <span>校对 2026-08-17</span>

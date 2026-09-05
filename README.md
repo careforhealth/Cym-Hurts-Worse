@@ -1,115 +1,109 @@
-# 健康无抗抑郁药 - Health Without Antidepressants 中文翻译
+# 💚 健康无抗抑郁药 · Health Without Antidepressants 中文版
 
-> ⚠️ **免责声明**：所有内容仅供信息参考，不构成医疗建议。任何停药/用药决策请务必咨询专业医生。
+> 科学减量 · 温柔康复 · 重获健康生活
 
-## 关于本站
+[![GitHub Pages](https://img.shields.io/badge/在线阅读-GitHub%20Pages-2ea44f?logo=github)](https://careforhealth.github.io/Cym-Hurts-Worse/)
+[![Jekyll](https://img.shields.io/badge/构建-Jekyll-red?logo=jekyll)](https://jekyllrb.com/)
+[![License](https://img.shields.io/badge/翻译-仅供学习交流-lightgrey)](#-版权与致谢)
+![文章数](https://img.shields.io/badge/文章-37篇-blue)
 
-本站点收录了 [Health Without Antidepressants](https://healthwithoutantidepressants.com/browse-site-contents) 网站全部 38 篇文章的简体中文翻译。该网站面向抗抑郁药/度洛西汀(Cymbalta)使用者，关注减量与替代疗法。
+**🌐 在线网站（推荐直接阅读）：https://careforhealth.github.io/Cym-Hurts-Worse/**
 
+这是 [Health Without Antidepressants](https://healthwithoutantidepressants.com/browse-site-contents) 全部文章的**简体中文翻译合集**，面向抗抑郁药 / 度洛西汀（Cymbalta / Duloxetine）使用者，陪你从「做决策 → 定计划 → 应对停药症状 → 重建生活」一步一步走。
+
+> ⚠️ **重要提醒**：本站所有内容仅供信息参考，**不构成医疗建议**。任何用药 / 停药 / 减量决策，请务必和专业医生一起做。如果你现在感到危机，请立即寻求帮助 → [危机与安全计划](https://careforhealth.github.io/Cym-Hurts-Worse/支持与资源/crisis-and-safety-planning/)。
+
+---
+
+## ✨ 这个网站适合谁？
+
+- 正在考虑「要不要吃 / 要不要停」抗抑郁药，想多了解一点的你
+- 正在服用 Cymbalta（度洛西汀），想了解副作用和减量方法的你
+- 正在经历停药症状（波动、失眠、静坐不能、脑电击感等），想找到应对方法的你
+- 想支持家人、朋友平稳减量的你
+
+如果你是第一次来，不用全读完，跟着下面的「四步路径」走就行。
+
+## 🧭 新手四步路径（不知道从哪开始就看这里）
+
+| 步骤 | 主题 | 解决什么问题 | 入口 |
+|------|------|--------------|------|
+| 01 | **了解与决策** | 药的作用、争议、替代选择，先想清楚 | [📖 进入「入门与决策」](https://careforhealth.github.io/Cym-Hurts-Worse/入门与决策/) |
+| 02 | **制定减量计划** | 数微丸法、称重法、计算器，找到慢而稳的节奏 | [📉 进入「减量方法」](https://careforhealth.github.io/Cym-Hurts-Worse/减量方法/) |
+| 03 | **应对停药症状** | 波动与窗口期、静坐不能、恢复用药，提前有准备 | [💊 进入「停药症状与应对」](https://careforhealth.github.io/Cym-Hurts-Worse/停药症状与应对/) |
+| 04 | **重建健康生活** | 营养、睡眠、疼痛管理、情绪照顾，长久滋养自己 | [🌿 进入「健康生活」](https://careforhealth.github.io/Cym-Hurts-Worse/健康生活/) |
+
+## 📚 全部内容一览（37 篇 · 7 大主题）
+
+| 主题 | 篇数 | 讲什么 | 直达网站 |
+|------|------|--------|----------|
+| 🧭 入门与决策 | 4 | 考虑服药 / 停药的决策参考、FAQ、研究资料 | [去看看 →](https://careforhealth.github.io/Cym-Hurts-Worse/入门与决策/) |
+| 📉 减量方法 | 5 | 数微丸法、称重法、高剂量减量、计算器 | [去看看 →](https://careforhealth.github.io/Cym-Hurts-Worse/减量方法/) |
+| 💊 停药症状与应对 | 5 | 波动窗口期、静坐不能、恢复用药、血清素综合征 | [去看看 →](https://careforhealth.github.io/Cym-Hurts-Worse/停药症状与应对/) |
+| ⚠️ 副作用与危害 | 6 | Cymbalta 副作用、双相、肠道、甲状腺、妊娠、体重 | [去看看 →](https://careforhealth.github.io/Cym-Hurts-Worse/副作用与危害/) |
+| 💬 社区经验 | 5 | CHW 社区真实经历：错误减量、突然停药、成功故事 | [去看看 →](https://careforhealth.github.io/Cym-Hurts-Worse/社区经验/) |
+| 🌿 健康生活 | 6 | 营养、饮食、纤维肌痛、失眠、快乐、管理抑郁 | [去看看 →](https://careforhealth.github.io/Cym-Hurts-Worse/健康生活/) |
+| 🤝 支持与资源 | 6 | 家人朋友、医生互助、医保、补剂、危机安全 | [去看看 →](https://careforhealth.github.io/Cym-Hurts-Worse/支持与资源/) |
+
+> 🔍 网站右上角有**全文搜索**，直接搜「失眠」「称重」「窗口期」就能找到对应文章。
+
+## 💡 网站有什么特点？
+
+- 📱 **手机友好**：响应式设计，床上、通勤路上都能读
+- 🔍 **可搜索**：全站搜索 + 7 大分类，找文章不用翻半天
+- 🔗 **可溯源**：每篇保留原文标题结构、表格和超链接，文件名沿用原文 slug
+- 🌐 **中英对照**：医学 / 药学术语首次出现附英文原文，方便和医生或英文资料对照
+- 💌 **语气温柔**：翻译时尽量保留原站的鼓励和陪伴感
+
+## 📖 关于翻译
+
+- **原文来源**：[healthwithoutantidepressants.com/browse-site-contents](https://healthwithoutantidepressants.com/browse-site-contents)
 - **翻译日期**：2026-08-05（2026-08-17 校对修订）
-- **来源**：https://healthwithoutantidepressants.com/browse-site-contents
-- **部署方式**：GitHub Pages
+- **翻译规范**：
+  - 保留原文 `#` / `##` / `###` 标题层级、列表、引用块、表格与链接
+  - 专有名词用「中文译名 + 英文原文」形式
+  - 原文 URL 保留英文原样，方便溯源
 
-## 目录结构
+发现翻译错误或想帮忙校对？欢迎提 [Issue](https://github.com/careforhealth/Cym-Hurts-Worse/issues) 或 Pull Request。
 
-```
-HWA/
-├── _config.yml                    # Jekyll 配置
-├── index.md                       # 首页
-├── README.md                      # 本文件
-├── 入门与决策/                    # 4 篇 - 入门指南与决策参考
-├── 减量方法/                      # 5 篇 - 安全减量的实操指南
-├── 停药症状与应对/                # 5 篇 - 了解和应对停药症状
-├── 副作用与危害/                  # 7 篇 - 抗抑郁药可能带来的风险
-├── 社区经验/                      # 5 篇 - CHW 社区真实经历分享
-├── 健康生活/                      # 6 篇 - 替代疗法、营养和生活方式
-└── 支持与资源/                    # 6 篇 - 获取帮助和支持的渠道
-```
+## 🛠 给开发者：本地预览 & 自己部署
 
-## 快速导航
+本站基于 **Jekyll + GitHub Pages**，主题为自定义简约主题。
 
-| 分类           | 文章数 | 说明                                                |
-| -------------- | ------ | --------------------------------------------------- |
-| 入门与决策     | 4      | 考虑服药/停药的决策参考、FAQ、研究资料              |
-| 减量方法       | 5      | 数微丸法、称重法、高剂量减量、计算器                |
-| 停药症状与应对 | 5      | 波动窗口期、静坐不能、恢复用药、血清素综合征        |
-| 副作用与危害   | 7      | Cymbalta 副作用、双相、肠道、甲状腺、妊娠、体重增加 |
-| 社区经验       | 5      | CHW 社区的错误减量、突然停药、成功经验等            |
-| 健康生活       | 6      | 营养、饮食、纤维肌痛、失眠、快乐、管理抑郁          |
-| 支持与资源     | 6      | 家人朋友、医生互助、医保、补剂、危机安全、参考资源  |
-
-## 部署到 GitHub Pages
-
-### 方法一：直接推送到 main 分支
-
-1. 在 GitHub 创建新仓库（如 `hwa-zh`）
-2. 将此目录内容推送到仓库
-3. 在仓库 Settings → Pages → Source 选择 `main` 分支
-4. 几分钟后访问 `https://<username>.github.io/hwa-zh/`
-
-### 方法二：使用 GitHub Actions（推荐）
-
-在仓库根目录创建 `.github/workflows/jekyll.yml`：
-
-```yaml
-name: Deploy Jekyll site to GitHub Pages
-
-on:
-  push:
-    branches: ["main"]
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-```
-
-## 本地预览
-
-安装 Jekyll 后运行：
+**本地预览：**
 
 ```bash
-cd HWA
 bundle install
 bundle exec jekyll serve
+# 访问 http://localhost:4000/Cym-Hurts-Worse/
 ```
 
-访问 http://localhost:4000 预览站点。
+**目录结构：**
 
-## 内容说明
+```
+├── _config.yml        # Jekyll 配置
+├── _layouts/          # 页面模板（home / post / category / page）
+├── _includes/         # 页头页脚、图标
+├── assets/            # CSS / JS
+├── index.md           # 首页
+├── 入门与决策/        # 4 篇
+├── 减量方法/          # 5 篇
+├── 停药症状与应对/    # 5 篇
+├── 副作用与危害/      # 6 篇
+├── 社区经验/          # 5 篇
+├── 健康生活/          # 6 篇
+└── 支持与资源/        # 6 篇
+```
 
-- 每篇文档均保留原网页的标题层级（`#`/`##`/`###`）、列表、引用块、表格与超链接
-- 医学/药学专有名词在首次出现处采用"中文译名 + 英文原文（括号）"形式
-- 原文中的 URL 链接保留英文原样
-- 所有文件名沿用原文 URL slug 以便溯源
+想部署一份自己的？Fork 本仓库 → Settings → Pages → Source 选 `main`（或 GitHub Actions 的 `jekyll.yml`），几分钟即可上线。详见 [Actions 配置](./.github/workflows/)。
+
+## 🙏 版权与致谢
+
+- 原创内容版权归 [Health Without Antidepressants](https://healthwithoutantidepressants.com/) 及原作者所有，本仓库仅做**中文翻译、学习交流用**。
+- 特别感谢原站作者和 `Cymbalta Hurts Worse` 社区分享真实经验的朋友们：[CHW Facebook 群组](https://www.facebook.com/groups/Cymbaltahurtsworse/)。
+- 如原作者对翻译有异议，请提 Issue 联系，我们会及时处理。
+
+---
+
+<p align="center">如果你觉得这个网站对你有帮助，欢迎 ⭐ Star 分享给需要的人。<br/>愿你缓慢、平稳、被温柔以待。💚</p>
+<p align="center"><a href="https://careforhealth.github.io/Cym-Hurts-Worse/">🌐 立即开始阅读 →</a></p>

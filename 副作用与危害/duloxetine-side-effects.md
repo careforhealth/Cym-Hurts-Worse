@@ -4,7 +4,7 @@ title: "Cymbalta/度洛西汀的副作用"
 category: 副作用与危害
 original_url: https://healthwithoutantidepressants.com/duloxetine-side-effects/
 ---
-# Cymbalta/度洛西汀的副作用（Side effects of Cymbalta/duloxetine）
+## Cymbalta/度洛西汀的副作用（Side effects of Cymbalta/duloxetine）
 
 > 原文链接：https://healthwithoutantidepressants.com/duloxetine-side-effects/
 > 翻译日期：2026-08-05
@@ -12,17 +12,17 @@ original_url: https://healthwithoutantidepressants.com/duloxetine-side-effects/
 
 Cymbalta（中文名"欣百达"）是 duloxetine（度洛西汀）的商品名。关于度洛西汀副作用的药物学信息，可在 [Drugs.com 的 Cymbalta Side Effects 页面](https://www.drugs.com/sfx/cymbalta-side-effects.html)查阅。
 
-# 风险
+## 风险
 
 [抗抑郁药](https://www.drugs.com/drug-class/antidepressants.html)会增加任何人——尤其是儿童、青少年和青年——出现自杀想法与自杀行为的风险。事实上，每一种抗抑郁药都附有针对自杀意念的**黑框警告（black box warning）**。
 
 请注意，人们容易倾向于或忍不住把一切都归咎于这种药。同时也请注意，副作用的范围其实极其广泛！
 
-# 来自 Drugs.com 的内容
+## 来自 Drugs.com 的内容
 
 感谢 Drugs.com 提供的下列经编辑整理的 Cymbalta/度洛西汀副作用清单。
 
-## 若出现以下副作用，请立即就医
+### 若出现以下副作用，请立即就医
 
 - 腹部或胃部疼痛
 - 局部皮疹
@@ -63,7 +63,7 @@ Cymbalta（中文名"欣百达"）是 duloxetine（度洛西汀）的商品名�
 - 呕血
 - 眼睛和皮肤发黄——黄疸
 
-## 若在服用度洛西汀期间出现以下过量症状，请立即寻求急救
+### 若在服用度洛西汀期间出现以下过量症状，请立即寻求急救
 
 - 激越
 - 腹泻
@@ -83,7 +83,7 @@ Cymbalta（中文名"欣百达"）是 duloxetine（度洛西汀）的商品名�
 - 异常疲倦或乏力
 - 呕吐
 
-## 无需立即就医的副作用
+### 无需立即就医的副作用
 
 _较常见_
 
@@ -133,4 +133,4 @@ _较少见_
 - 关节肿胀
 - 手部或足部震颤或颤抖
 
-注：以上为原文实际提供的完整内容。原文为简洁的副作用清单页（信息主要源自 Drugs.com 编辑整理），未包含停药反应、戒断症状、半衰期等其他深入内容。如需这些主题的详细信息，请参阅本站"欣百达停药"、"戒断症状"等专题文章。
+注：以上为原文实际提供的完整内容。原文为简洁的副作用清单页（信息主要源自 Drugs.com 编辑整理），未包含戒断反应、戒断症状、半衰期等其他深入内容。如需这些主题的详细信息，请参阅本站"欣百达停药"、"戒断症状"等专题文章。

@@ -4,14 +4,7 @@ title: "妊娠与 Cymbalta/度洛西汀"
 category: 副作用与危害
 original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-duloxetine/
 ---
-
----
-layout: post
-title: "妊娠与 Cymbalta/度洛西汀"
-category: 副作用与危害
-original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-duloxetine/
----
-# 妊娠与 Cymbalta/度洛西汀（Pregnancy and Cymbalta/duloxetine）
+## 妊娠与 Cymbalta/度洛西汀（Pregnancy and Cymbalta/duloxetine）
 
 > 原文链接：https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-duloxetine/
 > 翻译日期：2026-08-05
@@ -21,11 +14,11 @@ original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-du
 
 大多数怀孕的女性都想为宝宝做对所有事情，比如合理饮食、规律运动、接受良好的产前护理。但是，如果您是众多正在服用抗抑郁药、并且刚刚发现怀孕的女性之一，您可能会问自己很多问题。
 
-医生常常会告诉怀孕的女性在妊娠期间停用抗抑郁药之类的药物。这让许多准妈妈陷入两难——如何在不因快速减量而承受撤药反应（withdrawal）的情况下停用抗抑郁药。
+医生常常会告诉怀孕的女性在妊娠期间停用抗抑郁药之类的药物。这让许多准妈妈陷入两难——如何在不因快速减量而承受戒断反应（withdrawal）的情况下停用抗抑郁药。
 
 在理想情况下，人们应当在尝试怀孕前就安全地逐渐停用所有抗抑郁药，但我们并非生活在理想世界。考虑到这一点，我们为您整理了最新文章清单，帮助您了解在妊娠期间服用抗抑郁药的利弊以及各种"如果"。
 
-如果您已经怀孕，由于发生严重撤药反应的高风险，立即开始逐步减量（gradual taper）可能是明智之举。
+如果您已经怀孕，由于发生严重戒断反应的高风险，立即开始逐步减量（gradual taper）可能是明智之举。
 
 务必告诉您的医生或产科医生您正在服用的所有处方药、非处方药以及任何保健品。建议使用 [药物相互作用检查工具](https://www.drugs.com/drug_interactions.html) 来检查所有药物之间是否存在不良相互作用。
 
@@ -35,7 +28,7 @@ original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-du
 - [《化学品有其后果——抗抑郁药与妊娠：Adam Urato 医生访谈》](https://www.madinamerica.com/2023/02/chemicals-have-consequences-antidepressants-pregnancy-adam-urato/) — 主持人：James Moore  
   这是一期非常精彩的播客！Adam Urato 医生与我们一同讨论了关于抗抑郁药对婴儿和母亲影响中已知与未知的内容，并强调咨询辅导在帮助家庭做出重要用药决定时的重要性。
 - [《抗抑郁药与妊娠：来自专家的建议》](https://www.hopkinsmedicine.org/health/wellness-and-prevention/antidepressants-and-pregnancy-tips-from-an-expert) — 评估您的风险 — 作者：Lauren Osborne 医生
-- [《母亲使用抗抑郁药对婴儿的健康风险》](https://www.madinamerica.com/2022/10/health-risks-babies-antidepressants/) — 一项发表于《Psychological Medicine》的新研究发现，母亲在妊娠期服用抗抑郁药所生的婴儿，发生新生儿撤药综合征（neonatal withdrawal syndrome，包括呼吸问题、易激惹/躁动、震颤、喂养困难和癫痫发作）的几率是服用其他药物母亲所生婴儿的六倍以上。超过 80% 的报告症状被归类为严重。
+- [《母亲使用抗抑郁药对婴儿的健康风险》](https://www.madinamerica.com/2022/10/health-risks-babies-antidepressants/) — 一项发表于《Psychological Medicine》的新研究发现，母亲在妊娠期服用抗抑郁药所生的婴儿，发生新生儿戒断综合征（neonatal withdrawal syndrome，包括呼吸问题、易激惹/躁动、震颤、喂养困难和癫痫发作）的几率是服用其他药物母亲所生婴儿的六倍以上。超过 80% 的报告症状被归类为严重。
 - [Mother To Baby 关于 Cymbalta 的情况说明书](https://mothertobaby.org/fact-sheets/duloxetine/?fbclid=IwAR2pzY2023k8wSvNTd7q0hBIffsMzm5RLbNZhbzyHdL18oNaara6k-LxxP0)
 - Levinson‐Castiel R, Merlob P, Linder N, Sirota L, Klinger G. [《足月儿宫内暴露于选择性 5-羟色胺再摄取抑制剂后的新生儿戒断综合征》](https://pubmed.ncbi.nlm.nih.gov/16461873/) Arch Pediatr Adolesc Med 2006; 160: 173–6。**结论：** 30% 的宫内暴露于 SSRI 的新生儿会发生新生儿戒断综合征。这些新生儿应在出生后至少监测 48 小时。长期暴露于 SSRI 的远期影响，尤其是在发生严重症状的新生儿中，尚未确定。
 - [《抗抑郁药、感染与神经发育障碍相关》](https://newsroom.uvahealth.com/2022/12/19/antidepressants-infection-linked-to-neurodevelopmental-disorders/) — _研究人员 Kristine Zengeler 和 John Lukens 博士发现，妊娠期使用抗抑郁药可能与炎症共同作用，升高神经发育障碍的风险。_
@@ -44,7 +37,7 @@ original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-du
 
 ---
 
-## [Cymbalta 药品说明书（Package Insert）](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021427s055s057lbl.pdf)
+### [Cymbalta 药品说明书（Package Insert）](https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/021427s055s057lbl.pdf)
 
 最新一版 Cymbalta 药品说明书的日期为 2023 年 8 月。FDA 持续更新关于 Cymbalta 的所有数据，可[在此处查阅](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021427)。
 
@@ -70,7 +63,7 @@ original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-du
 
 ---
 
-## Cymbalta Hurts Worse 成员的真实经历留言：
+### Cymbalta Hurts Worse 成员的真实经历留言：
 
 > _"我女儿整个孕期都在服用 30 mg，现在孩子是个非常爱说话的 2 岁小孩。如果您决定在整个孕期都继续服用这种药，**请打印一份所有相互作用的药物清单**。我很庆幸自己打印了，因为我们去看麻醉师时，**确实发现有些药物如果需要使用会与它发生相互作用**。"_ — Cymbalta Hurts Worse 成员
 
@@ -78,7 +71,7 @@ original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-du
 
 > _"我当时非常担心，这也是我加入 Cymbalta Hurts Worse 的原因，在我提问时我听到了很多妈妈的反馈。"_ — Cymbalta Hurts Worse 成员
 
-> _"医生们想让她换成另一种药，但研究之后我女儿拒绝了。我很欣慰她继续服用 Cymbalta，虽然宝宝可能会有撤药反应，他们必须对宝宝进行监测。我外孙一切正常，没有任何反应，**但我觉得这种情况并非对每个人都一样**。"_ — Cymbalta Hurts Worse 成员
+> _"医生们想让她换成另一种药，但研究之后我女儿拒绝了。我很欣慰她继续服用 Cymbalta，虽然宝宝可能会有戒断反应，他们必须对宝宝进行监测。我外孙一切正常，没有任何反应，**但我觉得这种情况并非对每个人都一样**。"_ — Cymbalta Hurts Worse 成员
 
 ---
 

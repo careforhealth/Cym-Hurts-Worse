@@ -4,7 +4,7 @@ title: "权威资料与参考资源"
 category: 支持与资源
 original_url: https://healthwithoutantidepressants.com/authorities/
 ---
-# 权威资料与参考资源（Authorities）
+## 权威资料与参考资源（Authorities）
 
 > 原文链接：https://healthwithoutantidepressants.com/authorities/
 > 翻译日期：2026-08-05
@@ -14,19 +14,19 @@ original_url: https://healthwithoutantidepressants.com/authorities/
 
 我们方法的正式化离不开超过 45,000 名 CHW 成员——十多年来，他们为本群组及本网站所记载的方法提供了反馈与指导。他们或许构成了有史以来参与验证减量流程的最大群体。
 
-# 研究与出版物（STUDIES & PUBLICATIONS）
+## 研究与出版物（STUDIES & PUBLICATIONS）
 
-## 马克·霍洛维茨博士（Dr. Mark Horowitz），精神病学临床研究研究员
+### 马克·霍洛维茨博士（Dr. Mark Horowitz），精神病学临床研究研究员
 
 [**马克·A. 霍洛维茨，医学博士、哲学博士**](https://markhorowitz.org/)是伦敦的一名精神科医生和研究者，拥有伦敦国王学院精神病学研究所颁发的抗抑郁药作用机制博士学位。当他本人尝试停用这些药物时，他上了一堂短暂而深刻的课——切身体会到戒断的痛苦，以及医学界对这一主题知识的匮乏。此后，他致力于通过学术工作提高人们对精神药物安全减药（deprescribing）这一主题的认识，包括在《柳叶刀·精神病学》（The Lancet Psychiatry）上发表关于如何安全减停抗抑郁药的文章，以及在《美国医学会杂志·精神病学》（JAMA Psychiatry）上发表关于如何减停抗精神病药的文章。他还与英国皇家精神科医学院（Royal College of Psychiatrists）合作，发布了关于如何安全停用抗抑郁药的官方指南。他在英国国家医疗服务体系（NHS）中设有减药门诊（deprescribing clinic），帮助来自全国各地的患者停用精神科药物。
 
-### Horowitz, M. A., & Taylor, D. (2019)
+#### Horowitz, M. A., & Taylor, D. (2019)
 
 Tapering of SSRI treatment to mitigate withdrawal symptoms.（减停 SSRI 治疗以缓解戒断症状。）
 **《柳叶刀·精神病学》（Lancet Psychiatry）**，6(6)，538–546。
 https://doi.org/DOI:https://doi.org/10.1016/S2215-0366(19)30032-X
 
-### Horowitz, M. A., & Taylor, D. (2022)
+#### Horowitz, M. A., & Taylor, D. (2022)
 
 Distinguishing relapse from antidepressant withdrawal: Clinical practice and antidepressant discontinuation studies.（区分复发与抗抑郁药戒断：临床实践与抗抑郁药停药研究。）
 **《英国精神病学进展》（BJPsych Advances）**，28(5)，297–311。
@@ -43,7 +43,7 @@ https://amzn.to/41R0exX
 
 《莫兹利减药指南》是一本综合性资源，为患者安全**减少或停用**（减药，deprescribing）**抗抑郁药**、苯二氮䓬类（benzodiazepines）、加巴喷丁类（gabapentinoids）及 Z 类药物（z-drugs）提供指南，包含所有常用药物的分步指导，涵盖常见陷阱、问题排查、支持性策略等内容。大多数关于精神科药物的正式指南都涉及开始服药或换药，而关于减药的指南极少。最重要的是，**这本书阐述了在临床实践中为何以及如何实施双曲线式减量（hyperbolic tapering）。**
 
-## 安德斯·索伦森博士（Anders Sorenson, PhD），丹麦临床心理学家
+### 安德斯·索伦森博士（Anders Sorenson, PhD），丹麦临床心理学家
 
 [**安德斯·索伦森，哲学博士**](http://www.psykologanders.dk)是丹麦临床心理学家，拥有精神病药物戒断方向的博士学位。他在丹麦的私人诊所专门通过**渐进式双曲线减量（gradual, hyperbolic tapering）**与心理治疗帮助人们停用精神科药物，并帮助人们通过心理治疗避免开始服用精神科药物。他的执业宗旨始终是理解情绪痛苦与"症状"背后的意义，并尽可能帮助人们凭借自己的心智（而非药物）调节困难的情绪、想法与创伤。他还开展研究，评估有关精神病药物戒断的指南现状。
 
@@ -57,7 +57,7 @@ https://amzn.to/41R0exX
 文章：https://digitalcollection.zhaw.ch/bitstream/11475/26458/3/2022_Horowitz-etal_Estimating-risk-of-antidepressant-withdrawal.pdf
 课程：https://www.scientificfreedom.dk/2023/03/27/psychiatric-drug-withdrawal-first-course-in-denmark/
 
-## 彼得·布雷金博士（Dr. Peter Breggin）
+### 彼得·布雷金博士（Dr. Peter Breggin）
 
 "在这本书中，布雷金博士系统地阐述了如何安全地让患者停用精神科药物，书中丰富的案例既展现了其对个体差异和情境差异的细致与敏感，也体现出他深厚的临床经验，以及他关于一种更人道治疗形式的清晰、博学而富有同情心的愿景。在这部著作中，彼得·布雷金博士再次证明，他就是精神病学本应成为、也可以成为的典范。" —— _杰拉尔德·波特，哲学博士，密苏里州斯普林菲尔德森林学院专业心理学院学术事务副校长_
 
@@ -65,7 +65,7 @@ https://amzn.to/41R0exX
 
 著作：https://breggin.com/article-detail/post_detail/a-guide-for-prescribers-therapists-patients-and-their-families
 
-## 阿黛尔·法默（Adele Farmer）
+### 阿黛尔·法默（Adele Farmer）
 
 [**阿黛尔·法默**](https://iipdw.org/board-associates/)是 SurvivingAntidepressants.org 网站的创始人。她居住在美国西海岸，已从软件信息架构与用户体验设计工作中退休。2004 年她停用 10mg 帕罗西汀（paroxetine），用了 11 年时间才从戒断综合征中恢复。自 2004 年起她一直研究精神病药物戒断综合征，并于 2011 年 3 月创立 SurvivingAntidepressants.org 网站。[SurvivingAntidepressants.org](https://SurvivingAntidepressants.org)旨在收集个案病史。该网站拥有超过 12,000 名注册用户，每月浏览量超过 30 万次，收录了患者撰写的 6,000 份自然纵向个案史，并提供 60 多个减量主题（"减量提示：［药物名］"）以及滴定方法（titration）的说明（例如由患者自主操作、每月逐步减量 10% 的双曲线式减量法）。该网站内容在 Facebook 及其他网站上被广泛分享。参见下文网站列表。
 
@@ -73,24 +73,24 @@ https://amzn.to/41R0exX
 **《治疗精神病药理学进展》（Therapeutic Advances in Psychopharmacology）**，11，204512532199127。
 https://doi.org/10.1177/2045125321991274
 
-## Finlayson, A. J., Macoubrie, J., Huff, C., Foster, D. E., & Martin, P. R. (2022)
+### Finlayson, A. J., Macoubrie, J., Huff, C., Foster, D. E., & Martin, P. R. (2022)
 
 Experiences with benzodiazepine use, tapering, and discontinuation: An internet survey.（苯二氮䓬类的使用、减量与停用经历：一项网络调查。）
 **《治疗精神病药理学进展》（Therapeutic Advances in Psychopharmacology）**，12，204512532210823。
 https://doi.org/10.1177/20451253221082386
 
-## Mahase, E. (2019)
+### Mahase, E. (2019)
 
 Antidepressant withdrawal guidance must be updated to reflect evidence.（抗抑郁药戒断指南必须更新以反映最新证据。）**《英国医学杂志》（BMJ）**，l2283。
 https://doi.org/10.1136/bmj.l2283
 
-## Ruhe, H. G., Horikx, A., van Avendonk, M. J., Groeneweg, B. F., & Woutersen-Koch, H. (2019)
+### Ruhe, H. G., Horikx, A., van Avendonk, M. J., Groeneweg, B. F., & Woutersen-Koch, H. (2019)
 
 Tapering of SSRI treatment to mitigate withdrawal symptoms.（减停 SSRI 治疗以缓解戒断症状。）
 **《柳叶刀·精神病学》（The Lancet Psychiatry）**，6(7)，561–562。
 https://doi.org/10.1016/s2215-0366(19)30182-8
 
-## 维基百科（Wikipedia）
+### 维基百科（Wikipedia）
 
 **停药综合征（DISCONTINUATION SYNDROME）**：……2012 年，安全用药实践研究所（Institute for Safe Medical Practices，ISMP）发布了一份题为《度洛西汀与严重戒断症状》（Duloxetine and Serious Withdrawal Symptoms）的报告。该报告强调，早期临床研究发现"突然停药后 40-50% 的患者出现戒断效应，其中 10% 较为严重，而在不良反应监测于一两周后结束时，约一半患者的症状仍未缓解"。
 
@@ -99,13 +99,13 @@ https://doi.org/10.1016/s2215-0366(19)30182-8
 报告结论指出，关于停用度洛西汀的效应，现有信息不足且缺乏明确警示，在许多情况下戒断症状可能"严重、持久，或两者兼有"；并补充说"面向医生和药剂师的处方信息并未提供切合实际的减量计划，也未清楚说明这些反应可能的发生率"。
 https://en.wikipedia.org/wiki/Duloxetine
 
-## **Mad in America**——戒断方案概述
+### **Mad in America**——戒断方案概述
 
 "简而言之，最好的减量方案是让患者能够在避免戒断症状或将之最小化至可耐受、无需大幅调整生活的前提下完成停药。由于每个人的耐受性不同，戒断很可能需要一种以人为中心、近乎量身定制的方法。关于减量速度，专业组织制定的减量指南与源自'亲历者群体'的建议和实践之间存在巨大差异。专业指南通常推荐比亲历者所建议的短得多的减量周期，而降低剂量的方案也可能差异很大。"
 
 https://www.madinamerica.com/withdrawal-protocols-antidepressants/
 
-## **迁延性戒断综合征**（Protracted Withdrawal Syndrome，PAWS，P.A.W.S.，PWS）相关文章
+### **迁延性戒断综合征**（Protracted Withdrawal Syndrome，PAWS，P.A.W.S.，PWS）相关文章
 
 "**结论**：抗抑郁药引起的 PWS 或 PAWS 可能严重且持久，其临床表现具有异质性。长期使用抗抑郁药可能导致多个身体系统受损。尽管躯体症状与情感症状都很常见，但二者在发生上大多互不相关。因此，正确识别和检出 PWS 需要对用药史、戒断综合征持续时间及其各类躯体、情感、睡眠和认知症状进行全面评估。"
 
@@ -125,13 +125,13 @@ https://www.madinamerica.com/withdrawal-protocols-antidepressants/
 14. https://www.health.harvard.edu/blog/discontinuation-syndrome-and-antidepressants-2019040416361
 15. ［付费墙 PAYWALL］ https://www.nytimes.com/2019/03/05/health/depression-withdrawal-drugs.html?rref=collection%2Ftimestopic%2FAntidepressants
 
-## **礼来公司（Eli Lilly）**欣百达（Cymbalta）产品文档（高亮标注版）
+### **礼来公司（Eli Lilly）**欣百达（Cymbalta）产品文档（高亮标注版）
 
 https://breggin.com/admin/fm/source/6905_breggin/antidepressant-drugs-resources/CYMBALTA2015-HIGHLIGHTED.pdf
 
 ---
 
-# 网站及其他资源（WEBSITES AND OTHER RESOURCES）
+## 网站及其他资源（WEBSITES AND OTHER RESOURCES）
 
 **Surviving Antidepressants 网站**
 
@@ -188,7 +188,7 @@ https://prescribeddrug.info
 
 ---
 
-# 药物相互作用查询工具（DRUG INTERACTION CHECKERS）
+## 药物相互作用查询工具（DRUG INTERACTION CHECKERS）
 
 **Medscape.com 药物相互作用查询工具**
 

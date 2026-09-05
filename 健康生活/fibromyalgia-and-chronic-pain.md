@@ -4,15 +4,15 @@ title: "纤维肌痛与慢性疼痛"
 category: 健康生活
 original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-pain/
 ---
-# 纤维肌痛与慢性疼痛（Fibromyalgia and Chronic Pain）
+## 纤维肌痛与慢性疼痛（Fibromyalgia and Chronic Pain）
 
 > 原文链接：https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-pain/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-## 纤维肌痛与慢性疼痛：针对纤维肌痛、慢性疼痛及其他慢性健康问题的非药物替代疗法
+### 纤维肌痛与慢性疼痛：针对纤维肌痛、慢性疼痛及其他慢性健康问题的非药物替代疗法
 
-### 与你可能以为的相反,纤维肌痛（FM）和慢性疼痛确实存在天然、有效的治疗方法。
+#### 与你可能以为的相反,纤维肌痛（FM）和慢性疼痛确实存在天然、有效的治疗方法。
 
 功能医学（Functional Medicine）与整体医学（Holistic Medicine）对慢性健康问题——包括慢性疼痛、纤维肌痛、焦虑和抑郁——的看法与治疗方式,与传统西医截然不同。功能医学会去探寻、并以天然方式处理慢性疾病背后的根本原因。
 
@@ -22,11 +22,11 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 >
 > _在使用血清素类药物的人群中,纤维肌痛非常普遍,因为纤维肌痛的本质,就是由于无法正常代谢血清素,导致体内血清素水平升高。因为 SSRI 就是通过这个机制起作用的,所以它会把纤维肌痛作为一种副作用和后遗效应而产生。这种肌肉组织的收缩,也是为什么血清素类药物常伴随肠道问题的原因。人体 90% 的血清素分布在腹部,当血清素水平升高时,肠道会痉挛收紧,导致排泄过程停滞,从而引起便秘。"_
 
-### 自然健康管理的核心要素:清洁饮食、营养素、补剂、良好的肠道健康,以及其他健康积极的生活方式改变。
+#### 自然健康管理的核心要素:清洁饮食、营养素、补剂、良好的肠道健康,以及其他健康积极的生活方式改变。
 
 自然调理需要时间、投入、坚持与恒心,但这一切都是值得的。药物只能掩盖纤维肌痛背后的根本诱因,而根本的健康问题依然存在,加之药物本身会持续损伤身体、拖垮更多系统(即所谓的伴随疾病)。
 
-### 不要把对自身健康的掌控权,全盘交托给一个能力未知的陌生人。
+#### 不要把对自身健康的掌控权,全盘交托给一个能力未知的陌生人。
 
 请务必审慎地筛选和评估你愿意托付信任的医生或医疗专业人员。无论是功能医学医生还是传统西医,都有好有坏。请做好尽职调查,相信你的直觉。这个医生是否愿意倾听你、把你视为团队的一部分？他/她是否会看着你的眼睛,真正地听你说话？
 
@@ -34,14 +34,14 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 课后作业:看这几部电影!
+#### 课后作业:看这几部电影!
 
 - 《Fat, Sick and Nearly Dead》(《胖、患病、行将就木》)
 - 《Forks Over Knives》(《餐叉胜于手术刀》)
 
 ---
 
-### 功能医学与整体医学 vs. 传统西医
+#### 功能医学与整体医学 vs. 传统西医
 
 - [功能医学旨在弄清疾病如何发生、为何发生,并通过针对每位个体的疾病根本原因来恢复健康。](https://www.ifm.org/functional-medicine/)
 - [什么是整体医学医生?](https://www.holistichelp.net/holistic-doctors.html)
@@ -50,7 +50,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 功能医学对纤维肌痛的观点:根本原因/诱因
+#### 功能医学对纤维肌痛的观点:根本原因/诱因
 
 - [Dr. Murphee(The Fibro Doctor)](http://thefibrodoctor.com/with-fibromyalgiacovering-symptoms-only-leads-to-more-symptoms/)
 - [Dr. Murphee 论纤维肌痛与压力:](https://www.youtube.com/watch?v=0pexqyEmuCM)
@@ -60,14 +60,14 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 如何寻找自然疗法医师
+#### 如何寻找自然疗法医师
 
 - [功能医学学会(The Institute for Functional Medicine)](https://www.functionalmedicine.org/practitioner_search.aspx?id=117)
 - [Sequoia Education Systems](http://functionalmedicinedoctors.com/)
 
 ---
 
-### 传统药物治疗纤维肌痛
+#### 传统药物治疗纤维肌痛
 
 - **Cymbalta 关于纤维肌痛的宣传遭 FDA 警告:对男性无效;对女性疗效被过度夸大**  
   礼来公司(Eli Lilly & Co.)曾受到警告:虽然 Cymbalta(度洛西汀/duloxetine)已获 FDA 批准用于纤维肌痛,但他们将该药用于此类患者的宣传具有误导性,常常夸大疗效,并遗漏或弱化了潜在副作用的相关信息。Cymbalta 并未改善男性患者的任何症状,在所有患者中,FIQ(Fibromyalgia Impact Questionnaire,纤维肌痛影响问卷)疼痛评分也没有显著改善。
@@ -76,13 +76,13 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### Facebook 上的互助支持
+#### Facebook 上的互助支持
 
 - [Fibromyalgia Without Pharma](https://www.facebook.com/groups/515082749122075/?ref=share)
 
 ---
 
-### 应检测或排查的根本诱因/原因
+#### 应检测或排查的根本诱因/原因
 
 (所有这些都可借助自然方式予以处理和调理)
 
@@ -99,7 +99,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 饮食
+#### 饮食
 
 - 希波克拉底有言——"以食为药,以食为医。"
 - [抗炎、止痛饮食(一种生活方式选择):](https://www.facebook.com/notes/cymbalta-hurts-worse/anti-inflammatory-painfighting-diet-a-lifestyle-choice/716119575210460/)
@@ -114,7 +114,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 应避免的食物!
+#### 应避免的食物!
 
 - 酒精
 - 人工甜味剂
@@ -137,21 +137,21 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-## 健康专题 A-Z
+### 健康专题 A-Z
 
-### 针灸
+#### 针灸
 
 - [针灸缓解疼痛](http://www.webmd.com/pain-management/news/20120910/acupuncture-pain-relief)
 
 ---
 
-### 肾上腺疲劳
+#### 肾上腺疲劳
 
 - [《肾上腺疲劳:21 世纪综合征》](http://www.amazon.com/Adrenal-Fatigue-Century-Stress-Syndrome/dp/1890572152)
 
 ---
 
-### 苹果醋
+#### 苹果醋
 
 - [每天使用苹果醋的 15 个理由](http://www.mindbodygreen.com/0-5875/15-Reasons-to-Use-Apple-Cider-Vinegar-Every-Day.html)
 - [苹果醋的妙用](http://www.doctoroz.com/slideshow/surprising-ways-use-apple-cider-vinegar)
@@ -159,7 +159,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 芳香疗法/精油
+#### 芳香疗法/精油
 
 - [https://www.healthline.com/health/essential-oils-for-fibromyalgia](https://www.healthline.com/health/essential-oils-for-fibromyalgia)
 
@@ -168,36 +168,36 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 黑霉菌
+#### 黑霉菌
 
 ---
 
-### 乳房假体疾病
+#### 乳房假体疾病
 
 ---
 
-### 脊椎按摩疗法
+#### 脊椎按摩疗法
 
 - New Life Outlook:  
   [脊医协助缓解疼痛](http://fibromyalgia.newlifeoutlook.com/chiropractor-pain-help/)
 
 ---
 
-### 心理咨询
+#### 心理咨询
 
 - Celebrate Recovery:  
   [基于圣经的 12 步骤项目](http://www.celebraterecovery.com/)
 
 ---
 
-### 认知行为疗法(CBT)
+#### 认知行为疗法(CBT)
 
 - Neurology Advisor:  
   [认知行为疗法对纤维肌痛的益处](https://www.neurologyadvisor.com/topics/pain/benefits-of-cognitive-behavioral-therapy-for-fibromyalgia/)
 
 ---
 
-### 抑郁/焦虑
+#### 抑郁/焦虑
 
 - 阳光——每天 20 分钟
 - 适度运动,如身体状况允许:瑜伽、太极、气功、轻柔拉伸、水中健身、散步
@@ -211,7 +211,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 排毒
+#### 排毒
 
 - 在停药期间进行排毒并不推荐,因为它对已经受创的身体系统较为粗暴,可能引发更多不适的躯体症状。
 - 许多排毒法会产生"冲刷"效应,把储存在体内的毒素重新搅动起来,造成腹部不适。
@@ -220,20 +220,20 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 排除饮食法与食物日记(用于发现食物敏感)
+#### 排除饮食法与食物日记(用于发现食物敏感)
 
 - [http://www.doctoroz.com/article/elimination-diet-printable-one-sheet](http://www.doctoroz.com/article/elimination-diet-printable-one-sheet)
 - [http://www.precisionnutrition.com/elimination-diet](http://www.precisionnutrition.com/elimination-diet)
 
 ---
 
-### 情绪释放技术(EFT)/拍打疗法
+#### 情绪释放技术(EFT)/拍打疗法
 
 - [http://articles.mercola.com/sites/articles/archive/2012/07/21/eft-for-pain-relief.aspx](http://articles.mercola.com/sites/articles/archive/2012/07/21/eft-for-pain-relief.aspx)
 
 ---
 
-### 运动
+#### 运动
 
 - 轻柔拉伸
 - 瑜伽
@@ -244,7 +244,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 眼动脱敏与再加工(EMDR)
+#### 眼动脱敏与再加工(EMDR)
 
 - [http://www.emdrcoach.com/how-to-treat-fibromyalgia/](http://www.emdrcoach.com/how-to-treat-fibromyalgia/)
 - [http://www.ncbi.nlm.nih.gov/pubmed/12455018](http://www.ncbi.nlm.nih.gov/pubmed/12455018)
@@ -252,23 +252,23 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 头痛/偏头痛
+#### 头痛/偏头痛
 
 - [http://articles.mercola.com/sites/articles/archive/2013/08/22/migraine-causes.aspx](http://articles.mercola.com/sites/articles/archive/2013/08/22/migraine-causes.aspx)
 
 ---
 
-### 重金属毒性
+#### 重金属毒性
 
 ---
 
-### 兴趣爱好
+#### 兴趣爱好
 
 - [休闲活动的隐藏益处:爱好可以提供物理治疗、减压、正念](https://www.army.mil/article/109434/Hidden_benefits_of_recreation__Hobbies_can_provide_physical_therapy__stress_relief__mindfulness/)
 
 ---
 
-### 失眠
+#### 失眠
 
 - 镁与钙
 - 肉豆蔻
@@ -291,13 +291,13 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 肠易激综合征
+#### 肠易激综合征
 
 - [http://www.ncbi.nlm.nih.gov/pubmed/25083061](http://www.ncbi.nlm.nih.gov/pubmed/25083061)
 
 ---
 
-### 榨汁与绿色冰沙
+#### 榨汁与绿色冰沙
 
 - 在停药和排毒期间,榨汁与冰沙的引入要循序渐进。如果引入过快,会引发"冲刷",对已经受损的系统造成相当大的负担。
 - 《Fat, Sick and Nearly Dead》
@@ -306,7 +306,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 实验室检测
+#### 实验室检测
 
 - 氨基酸分析
 - 重金属分析
@@ -322,14 +322,14 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 肠漏/肠道菌群失衡
+#### 肠漏/肠道菌群失衡
 
 - [http://draxe.com/4-steps-to-heal-leaky-gut-and-autoimmune-disease/](http://draxe.com/4-steps-to-heal-leaky-gut-and-autoimmune-disease/)
 - [https://www.crohns.net/miva/education/articles/powerhealing_leogalland.shtml](https://www.crohns.net/miva/education/articles/powerhealing_leogalland.shtml)
 
 ---
 
-### 莱姆病
+#### 莱姆病
 
 - 莱姆病概览:  
   [https://www.youtube.com/watch?v=AegNMY0qWEk&spfreload=1](https://www.youtube.com/watch?v=AegNMY0qWEk&spfreload=1)
@@ -342,13 +342,13 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 按摩
+#### 按摩
 
 - [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930706/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930706/)
 
 ---
 
-### 冥想与呼吸练习
+#### 冥想与呼吸练习
 
 - 正念减压疗法:  
   [http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0030052/](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0030052/)
@@ -359,26 +359,26 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### MTHFR 基因突变
+#### MTHFR 基因突变
 
 - [http://www.stopthethyroidmadness.com/mthfr/](http://www.stopthethyroidmadness.com/mthfr/)
 - [http://mthfr.net](http://mthfr.net/)
 
 ---
 
-### 肌筋膜松解术
+#### 肌筋膜松解术
 
 - [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3018656/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3018656/)
 
 ---
 
-### 神经痛/神经病变
+#### 神经痛/神经病变
 
 - 针灸治疗神经病变方案:[https://www.ncbi.nlm.nih.gov/pubmed/29279730](https://www.ncbi.nlm.nih.gov/pubmed/29279730)
 
 ---
 
-### 折扣补剂与有机食品网店
+#### 折扣补剂与有机食品网店
 
 - Swansons——  
   [http://www.swansonvitamins.com](http://www.swansonvitamins.com/)
@@ -391,29 +391,29 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 寄生虫
+#### 寄生虫
 
 - [http://www.mindbodygreen.com/0-11321/10-signs-you-may-have-a-parasite.html](http://www.mindbodygreen.com/0-11321/10-signs-you-may-have-a-parasite.html)
 
 ---
 
-### 物理治疗
+#### 物理治疗
 
 ---
 
-### 益生菌/发酵与培养食物
+#### 益生菌/发酵与培养食物
 
 - [http://www.culturedfoodlife.com](http://www.culturedfoodlife.com/)
 
 ---
 
-### 桑拿/远红外桑拿
+#### 桑拿/远红外桑拿
 
 - [http://mthfr.net/benefits-sauna-sauna/2015/01/13/](http://mthfr.net/benefits-sauna-sauna/2015/01/13/)
 
 ---
 
-### 睡眠
+#### 睡眠
 
 注:若你处于停药阶段,不建议服用影响血清素的补剂。
 
@@ -423,7 +423,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 泡浴
+#### 泡浴
 
 - 泻盐浴——  
   [http://www.saltworks.us/salt_info/epsom-uses-benefits.asp](http://www.saltworks.us/salt_info/epsom-uses-benefits.asp)
@@ -432,7 +432,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 灵性(身心灵整体疗愈!)
+#### 灵性(身心灵整体疗愈!)
 
 - 祷告/每日灵修/查经小组/教会
 - Celebrate Recovery:基于圣经的 12 步骤项目:  
@@ -440,7 +440,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 压力、情感创伤、PTSD、CPTD(复杂性创伤后应激)
+#### 压力、情感创伤、PTSD、CPTD(复杂性创伤后应激)
 
 - [YogaFit for Warriors(为退伍军人设计的瑜伽)](http://www.yogafit.com/trainings/100-hour-warriors-program/)
 - [Dr. Peter Levine,创伤专家](http://www.psychalive.org/author/peter-a-levine/)
@@ -450,7 +450,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 补剂
+#### 补剂
 
 我们本应通过食物摄取所需营养,但由于加工过程和土壤贫化,我们的食物营养已严重不足;加之纤维肌痛患者的免疫系统和消化系统本就功能失常,补剂支持便成为处理根本诱因的重要一环。
 
@@ -470,7 +470,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### T.E.N.S.(经皮神经电刺激)仪
+#### T.E.N.S.(经皮神经电刺激)仪
 
 经皮神经电刺激仪(TENS)是一种用于缓解疼痛的装置,工作原理是通过放置在疼痛部位或其附近的电极,向人体输送微弱的电脉冲。这些电脉冲通过以下两种主要机制来缓解疼痛:
 
@@ -481,7 +481,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 甲状腺
+#### 甲状腺
 
 请访问 [https://yourfibrodoctor.com/](https://yourfibrodoctor.com/),你将在那里获得帮助。
 
@@ -489,7 +489,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 外用软膏、乳膏与精油
+#### 外用软膏、乳膏与精油
 
 - 镁油
 - 山金车(Arnica)
@@ -498,19 +498,19 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 ---
 
-### 志愿服务
+#### 志愿服务
 
 - 志愿服务及其令人惊喜的益处
 
 ---
 
-### 水
+#### 水
 
 - [Water.com](http://healthywater.com/)
 
 ---
 
-## 其他资源
+### 其他资源
 
 - [Dr. Mercola](http://www.mercola.com/)
 - [Dr. Kelly Brogan,整体精神科医生](http://kellybroganmd.com/)

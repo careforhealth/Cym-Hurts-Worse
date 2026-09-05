@@ -4,7 +4,7 @@ title: "停药症状：管理与应对"
 category: 停药症状与应对
 original_url: https://healthwithoutantidepressants.com/managing-withdrawal-symptoms/
 ---
-# 停药症状：管理与应对（Withdrawal symptoms: Manage them）
+## 停药症状：管理与应对（Withdrawal symptoms: Manage them）
 
 > 原文链接：https://healthwithoutantidepressants.com/managing-withdrawal-symptoms/
 > 翻译日期：2026-08-05
@@ -14,7 +14,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 
 **免责声明（Disclaimer）：** 本资料综合了来自网络、书籍、文章、研究以及在线销售产品的公司的信息。所列陈述未经评估，不应视为医疗建议。这些产品并不用于诊断、治疗、治愈或预防任何疾病。如需诊断或治疗，请咨询有资质的医生（qualified physician）。
 
-# 引言（Introduction）
+## 引言（Introduction）
 
 **如果你正在服用其他药物、患有某种疾病，或对本文任何建议或成分有疑虑，请咨询你的（有资质的）医生，自行查阅资料，并核查可能的药物相互作用（interactions）。**
 
@@ -36,7 +36,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 
 **并非所有维生素与补充剂都是一样的。** 请确保你购买的产品来自可靠的品牌，尽可能关注其真实性与检测情况。部分维生素与补充剂可长期无限制服用，但也有些会在肝脏中蓄积并产生毒性。请限制维生素 D3 的摄入量。理想的 D3 来源是阳光以及部分特殊的日晒灯（tanning bed）。
 
-## 一些可能的停药症状（Some possible withdrawal symptoms）
+### 一些可能的停药症状（Some possible withdrawal symptoms）
 
 - 焦虑（Anxiety）
 - 脑部与身体的"放电感"（Brain and body zaps）
@@ -51,12 +51,12 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 恶心（Nausea）
 - 神经痛 / 周围神经病变（Nerve pain / neuropathy）
 - 疼痛（Pain）
-- 急性撤药后综合征（PAWS, Post-Acute Withdrawal Syndrome）
+- 急性戒断后综合征（PAWS, Post-Acute Withdrawal Syndrome）
 - 易怒 / 暴怒（Rage）
 - 不宁腿（Restless legs）
 - 出汗（Sweating）
 
-## 一般性建议：营养（General help: Nutrition）
+### 一般性建议：营养（General help: Nutrition）
 
 **血糖波动与营养素缺乏**（镁与 B 族维生素）可能导致焦虑、易怒、愤怒、暴怒、渴求（甜食、食物、酒精）、疲劳与极度饥饿。
 
@@ -77,13 +77,13 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 饮用诺丽果汁（noni juice）或樱桃汁——但避免人造甜味剂与防腐剂。
 - 尝试发酵类食物与饮品（cultured and fermented foods and drinks）。
 
-### 焦虑（Anxiety）
+#### 焦虑（Anxiety）
 
 **饮食与肠道健康可以带来巨大改变。** 这里有大量相关信息：
 
 [Conquering Anxiety, Depression and Fatigue Without Drugs – the Role of Hypoglycemia](https://www.alternativementalhealth.com/conquering-anxiety-depression-and-fatigue-without-drugs-the-role-of-hypoglycemia-2/)
 
-## 可考虑尝试的治疗方法（Consider these therapies）
+### 可考虑尝试的治疗方法（Consider these therapies）
 
 - 芳香疗法（Aroma Therapy）
 - 瑜伽（Yoga）
@@ -104,7 +104,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 
 [A Vagus Nerve Survival Guide to Combat Fight-or-Flight Urges](https://www.psychologytoday.com/us/blog/the-athletes-way/201705/vagus-nerve-survival-guide-combat-fight-or-flight-urges?fbclid=IwAR31SrXKUeOPVvGK3PqclF5GJn4CVTRHqXZsuVZP-OkdgmgxLxRsUfqq1CI)
 
-## 脑部与身体"放电感"（Brain and body zaps）
+### 脑部与身体"放电感"（Brain and body zaps）
 
 - Omega 3 ——鱼油或亚麻籽油
 - [富含 Omega 3 的食物](https://www.hxbenefit.com/foods-high-in-omega-3.html)
@@ -113,7 +113,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 
 这里有大量关于"脑部放电感"的内容，混杂着缓慢减量（taper）的一般建议。你也许不认同所有内容（对其中一些甚至会嗤之以鼻），但正所谓各取所需，大多数人都能从中有所收获：https://www.medicalnewstoday.com/articles/brain-zaps#home-remedies
 
-## 便秘（Constipation）
+### 便秘（Constipation）
 
 请逐步引入以下方法，直至达到理想效果。
 
@@ -125,9 +125,9 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 热茶 / 热水
 - 芦荟汁（可能引起腹泻）
 
-## 抑郁（Depression）
+### 抑郁（Depression）
 
-饮食与肠道健康是抗击抑郁的关键。详见：[抑郁始于肠道（Depression Begins In Your Gut）](../副作用与危害/depression-begins-in-your-gut.md)
+饮食与肠道健康是抗击抑郁的关键。详见：[抑郁始于肠道（Depression Begins In Your Gut）]({{ '/副作用与危害/depression-begins-in-your-gut/' | relative_url }})
 
 - 烟酸（Niacin）：从小剂量开始。烟酸可能引起不舒服的"潮红反应"。可参考：[https://www.healthline.com/nutrition/niacin-flush](https://www.healthline.com/nutrition/niacin-flush)
 - [腰果](https://www.naturalnews.com/053377_depression_cashews_drug_alternatives.html)
@@ -136,13 +136,13 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - SAD 光疗灯（SAD Light box）
 - 认知行为疗法（CBT）与辨证行为疗法（DBT）：https://www.heretohelp.bc.ca/q-and-a/whats-the-difference-between-cbt-and-dbt
 
-## 头晕 / 眩晕（Dizziness / vertigo）
+### 头晕 / 眩晕（Dizziness / vertigo）
 
 这里有大量相关支持资料：
 
 [Exercises for Vertigo Relief](https://www.healthline.com/health/exercises-for-vertigo)
 
-## 头痛与偏头痛（Headache and migraine）
+### 头痛与偏头痛（Headache and migraine）
 
 请尝试以下方法：
 
@@ -157,7 +157,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 针灸（但部分人可能因针灸这类"排毒"性操作而出现不适）
 - 温和运动（如散步）
 
-### 消化不良（Indigestion）
+#### 消化不良（Indigestion）
 
 如果你正在减量，请服药时搭配一些苹果酱食用。并避免任何乳制品。
 
@@ -166,7 +166,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 生姜（Ginger）
 - 薄荷（Peppermint）
 
-## 炎症（Inflammation）
+### 炎症（Inflammation）
 
 抗炎药物可能与抗抑郁药产生相互作用。
 
@@ -181,11 +181,11 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 迷迭香（Rosemary）
 - 肉桂（Cinnamon）
 
-### 失眠（Insomnia）
+#### 失眠（Insomnia）
 
 失眠本就常见，且随年龄增长愈发普遍。
 
-## 恶心（Nausea）
+### 恶心（Nausea）
 
 - 芦荟汁（Aloe Vera juice）——请缓慢引入，可能引起腹泻。
 - 部分草本茶：洋甘菊（chamomile）、姜（ginger）、薄荷（mint）与乌龙茶（oolong）、柠檬香蜂草（lemon balm）
@@ -193,7 +193,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 薄荷（Peppermint）
 - 穴位按压：[Sea Bands 腕带](https://www.sea-band.com/)
 
-## 神经痛 / 周围神经病变（Nerve pain / neuropathy）
+### 神经痛 / 周围神经病变（Nerve pain / neuropathy）
 
 如常，请在用药前自行核查相互作用。如果你仍在服用 Cymbalta / 度洛西汀（duloxetine），以下部分方法并不适用。
 
@@ -217,7 +217,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 按摩
 - 针灸
 
-## 易怒 / 暴怒（Rage）
+### 易怒 / 暴怒（Rage）
 
 - 每天安排 5 顿少量、高蛋白餐。
 - **保持激素稳定：** 避免大豆蛋白。
@@ -228,11 +228,11 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 
 [The Necessity of Honoring Our and Others' Rage](https://beyondmeds.com/2012/06/08/rage/)
 
-## 不宁腿（Restless legs）
+### 不宁腿（Restless legs）
 
 [https://www.nhs.uk/conditions/restless-legs-syndrome/](https://www.nhs.uk/conditions/restless-legs-syndrome/)
 
-这一资源解释了 _不宁腿综合征（restless leg syndrome）_ 的所有基础知识，并给出了可行的应对建议。请勿考虑再服用更多药物来掩盖由药物引起的停药反应！
+这一资源解释了 _不宁腿综合征（restless leg syndrome）_ 的所有基础知识，并给出了可行的应对建议。请勿考虑再服用更多药物来掩盖由药物引起的戒断反应！
 
 - 反射疗法（Reflexology）
 - 矿物质与电解质滴剂（加入水中）
@@ -240,4 +240,4 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 
 ---
 
-注：原文来源页面的正文在"Restless legs"之后即结束，并未为列表中列出的"排毒反应（Detox）/ 疼痛（Pain）/ 急性撤药后综合征（PAWS）/ 出汗（Sweating）"等设立单独小节——这四个症状仅在"一些可能的停药症状"列表中作为提纲出现。原文末尾残留了一个孤立的 `###` 标记（疑似页面排版残留），无实际内容，未予翻译。
+注：原文来源页面的正文在"Restless legs"之后即结束，并未为列表中列出的"排毒反应（Detox）/ 疼痛（Pain）/ 急性戒断后综合征（PAWS）/ 出汗（Sweating）"等设立单独小节——这四个症状仅在"一些可能的停药症状"列表中作为提纲出现。原文末尾残留了一个孤立的 `###` 标记（疑似页面排版残留），无实际内容，未予翻译。

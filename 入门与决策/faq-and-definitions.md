@@ -4,7 +4,7 @@ title: "常见问答与术语定义"
 category: 入门与决策
 original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 ---
-# 常见问答与术语定义（FAQ and Definitions）
+## 常见问答与术语定义（FAQ and Definitions）
 
 > 原文链接：https://healthwithoutantidepressants.com/faq-and-definitions/
 > 翻译日期：2026-08-05
@@ -18,7 +18,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## 问题列表
+### 问题列表
 
 - **ADDICTIVE（上瘾）** – Cymbalta/度洛西汀会上瘾吗？
 - **AKATHISIA（静坐不能）** – 什么是静坐不能？
@@ -81,7 +81,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## DANGERS（危险性）
+### DANGERS（危险性）
 
 **Cymbalta/度洛西汀到底有多危险？**
 
@@ -91,7 +91,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## WEIGHT（体重）
+### WEIGHT（体重）
 
 **Cymbalta/度洛西汀会引起体重问题吗？**
 
@@ -99,7 +99,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## ADDICTIVE（上瘾）
+### ADDICTIVE（上瘾）
 
 **Cymbalta/度洛西汀会上瘾吗？**
 
@@ -107,7 +107,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## WITHDRAWAL（戒断反应）
+### WITHDRAWAL（戒断反应）
 
 **Cymbalta/度洛西汀存在戒断问题吗？ （详见相关专题）**
 
@@ -115,7 +115,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## EVERY OTHER DAY（隔日服用）
+### EVERY OTHER DAY（隔日服用）
 
 **我能"隔一天吃一次"或一次跳过几天来减量吗？ （详见相关专题）**
 
@@ -123,7 +123,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## OTHER ANTI-DEPRESSANTS（其他抗抑郁药）
+### OTHER ANTI-DEPRESSANTS（其他抗抑郁药）
 
 **如果 Cymbalta/度洛西汀对我原本的问题不起作用，其他抗抑郁药会有效吗？**
 
@@ -131,7 +131,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## ALTERNATIVES（替代方案）
+### ALTERNATIVES（替代方案）
 
 **除了吃药我还能做什么？ （详见相关专题）**
 
@@ -141,13 +141,13 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## SIDE EFFECTS（副作用） （详见副作用专题）**Cymbalta/度洛西汀会导致……（请自行填入关键词）……皮肤、呼吸、疼痛、睡眠的问题吗？会加重（请自行填入关键词）吗？ （详见相关专题）**
+### SIDE EFFECTS（副作用） （详见副作用专题）**Cymbalta/度洛西汀会导致……（请自行填入关键词）……皮肤、呼吸、疼痛、睡眠的问题吗？会加重（请自行填入关键词）吗？ （详见相关专题）**
 
 会的！几乎任何副作用都有可能！
 
 ---
 
-## ENTERIC COATING（肠溶包衣）
+### ENTERIC COATING（肠溶包衣）
 
 **什么是肠溶包衣？**
 
@@ -155,7 +155,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## INTERACTIONS（药物相互作用）
+### INTERACTIONS（药物相互作用）
 
 **我能同时服用 SAM-e、加巴喷丁（Gabapentin）、5-HTP、利必通（Lyrica）等吗？**（只是举例）**（详见相关专题）**
 
@@ -165,7 +165,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## CAPSULES（胶囊）
+### CAPSULES（胶囊）
 
 **我必须用胶囊服用吗？ （详见相关专题）**
 
@@ -181,7 +181,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## PACKAGE INSERT（药品说明书）
+### PACKAGE INSERT（药品说明书）
 
 **我在哪里能找到患者用药说明书？**
 
@@ -191,13 +191,13 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## SWEATING（出汗） （详见副作用专题）**Cymbalta/度洛西汀会引起出汗吗？**
+### SWEATING（出汗） （详见副作用专题）**Cymbalta/度洛西汀会引起出汗吗？**
 
 会的。有时夜间会出大量的汗！
 
 ---
 
-## RECOVERY（恢复）
+### RECOVERY（恢复）
 
 **不安全减量之后恢复需要多久？**
 
@@ -205,7 +205,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## OUT of the SYSTEM（排出体外）
+### OUT of the SYSTEM（排出体外）
 
 **Cymbalta/度洛西汀在体内能停留多久？**
 
@@ -213,7 +213,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## WEIGHT of my DOSE（剂量的实际重量/计数）
+### WEIGHT of my DOSE（剂量的实际重量/计数）
 
 **一旦开始减量，我怎么知道自己实际吃进了多少毫克？**
 
@@ -228,7 +228,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## EYES（眼睛）
+### EYES（眼睛）
 
 **Cymbalta/度洛西汀会影响眼睛吗？（详见副作用专题）**
 
@@ -248,13 +248,13 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## COUNTING and WEIGHING WORRIES（关于数微珠/称重的焦虑）
+### COUNTING and WEIGHING WORRIES（关于数微丸/称重的焦虑）
 
-**如果我对“通过数微珠或称重来确定剂量”特别焦虑，怎么办？**
+**如果我对“通过数微丸或称重来确定剂量”特别焦虑，怎么办？**
 
 请仔细阅读"如何减量（How to taper）"一文。慢慢来，并做好笔记。（详见相关专题）---
 
-## ANGER（愤怒）
+### ANGER（愤怒）
 
 **我能在不服药的情况下管理愤怒吗？（详见副作用专题）**
 
@@ -270,7 +270,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## ELECTROLYTES（电解质）
+### ELECTROLYTES（电解质）
 
 **有人告诉我电解质可能有用。什么是电解质？我能自制吗？**
 
@@ -282,7 +282,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## CHEMICAL IMBALANCE（化学失衡）
+### CHEMICAL IMBALANCE（化学失衡）
 
 **大脑中真的存在"化学失衡"这回事吗？**
 
@@ -290,7 +290,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## FAST TAPER（快速减量）
+### FAST TAPER（快速减量）
 
 **你说的"快速减量"是什么意思？（详见相关专题）**
 
@@ -298,13 +298,13 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## MAGNESIUM（镁剂） （详见相关专题）**我应该选择哪种？**
+### MAGNESIUM（镁剂） （详见相关专题）**我应该选择哪种？**
 
 用于助眠：每晚 400–800 mg。
 
 ---
 
-## AKATHISIA（静坐不能）
+### AKATHISIA（静坐不能）
 
 **什么是静坐不能？（详见相关专题）**
 
@@ -312,17 +312,17 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ---
 
-## BEADS（微珠/微丸）
+### BEADS（微丸/微丸）
 
-**你一直提到的“微珠”是什么？（详见相关专题）**
+**你一直提到的“微丸”是什么？（详见相关专题）**
 
 Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
-**你只能通过数微珠来进行减量。** 一颗 30 mg 胶囊大约包含 180–200 颗微珠；不同胶囊之间会有差异。
+**你只能通过数微丸来进行减量。** 一颗 30 mg 胶囊大约包含 180–200 颗微丸；不同胶囊之间会有差异。
 
 ---
 
-## LISTEN TO YOUR BODY（倾听你的身体）
+### LISTEN TO YOUR BODY（倾听你的身体）
 
 **你说的"倾听你的身体"是什么意思？**
 
@@ -330,7 +330,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## BRIDGING（桥接换药）
+### BRIDGING（桥接换药）
 
 **什么是桥接？（详见相关专题）**
 
@@ -338,7 +338,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## CONFUSION（思维混乱）
+### CONFUSION（思维混乱）
 
 **为什么我的大脑这么"雾蒙蒙"？（详见副作用专题）**
 
@@ -346,13 +346,13 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## COURT（诉讼）
+### COURT（诉讼）
 
 **为什么我们不能把该药的生产商告上法庭？**
 
 你可以尝试——确实有人这么做过。但通常并不值得。它们是大型制药公司，财雄势大。把精力放在自己的康复上。（详见相关专题）---
 
-## POLYPHARMACY（多重用药）
+### POLYPHARMACY（多重用药）
 
 **"多重用药"是什么意思？**
 
@@ -360,31 +360,31 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## FATIGUE（疲劳） （详见副作用专题）**Cymbalta/度洛西汀会引起疲劳吗？**
+### FATIGUE（疲劳） （详见副作用专题）**Cymbalta/度洛西汀会引起疲劳吗？**
 
 会的。特别是在一次"危险减量"之后，疲劳非常常见。
 
 ---
 
-## MUSCLES（肌肉） （详见副作用专题）**Cymbalta/度洛西汀会怎样影响肌肉？**
+### MUSCLES（肌肉） （详见副作用专题）**Cymbalta/度洛西汀会怎样影响肌肉？**
 
 它可能导致肌肉出现微小撕裂，从而引起不同程度的疼痛。它也会以其他方式引起疼痛。
 
 ---
 
-## EMOTIONS（情绪） （详见副作用专题）**Cymbalta/度洛西汀对情绪有什么影响？**
+### EMOTIONS（情绪） （详见副作用专题）**Cymbalta/度洛西汀对情绪有什么影响？**
 
 在服用期间，它可能让情感变得麻木、"关闭"你的情绪。在减量期及之后，随着情绪的"重新上线"，感受可能会比平时更加强烈。
 
 ---
 
-## LIVER（肝脏） （详见副作用专题）**Cymbalta/度洛西汀会影响肝脏吗？**
+### LIVER（肝脏） （详见副作用专题）**Cymbalta/度洛西汀会影响肝脏吗？**
 
 会的，尤其在与其它药物发生相互作用时。
 
 ---
 
-## DOSE（剂量）
+### DOSE（剂量）
 
 **正常剂量是多少？**
 
@@ -392,7 +392,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## CAPSULES（胶囊）
+### CAPSULES（胶囊）
 
 **有哪些规格的胶囊？（详见相关专题）**
 
@@ -400,7 +400,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## LIQUID（液体剂型）
+### LIQUID（液体剂型）
 
 **能买到液体形式的 Cymbalta/度洛西汀吗？**
 
@@ -408,7 +408,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## PAIN（疼痛）
+### PAIN（疼痛）
 
 **Cymbalta/度洛西汀是缓解疼痛还是引起疼痛？**
 
@@ -416,43 +416,43 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## PERCENTAGE FOR TAPERING（减量百分比） （详见相关专题）**为什么要按 5%？为什么偶尔提到 10%？**
+### PERCENTAGE FOR TAPERING（减量百分比） （详见相关专题）**为什么要按 5%？为什么偶尔提到 10%？**
 
 *根据不同情况，经验显示，* 最佳的减量比例是每次最多 5%，每两次减量之间至少间隔 14 天。任何比这更快的都属于*快速*减量。10% 仅适用于：怀孕；发生血清素综合征；服用 Cymbalta/度洛西汀时间非常短。
 
 ---
 
-## CRYING and SOBBING（哭泣和啜泣） （详见副作用专题）**哭泣和啜泣是 Cymbalta/度洛西汀的副作用吗？**
+### CRYING and SOBBING（哭泣和啜泣） （详见副作用专题）**哭泣和啜泣是 Cymbalta/度洛西汀的副作用吗？**
 
 是的，这些是常见的副作用，表现为令人痛苦的号啕大哭。在缓慢减量之后，它们也可能成为长期的戒断症状。
 
 ---
 
-## SIDE EFFECTS（副作用） （详见副作用专题）**Cymbalta/度洛西汀会引起皮肤、呼吸、疼痛、睡眠方面的问题吗？会加重抑郁、自杀念头、焦虑等吗？**
+### SIDE EFFECTS（副作用） （详见副作用专题）**Cymbalta/度洛西汀会引起皮肤、呼吸、疼痛、睡眠方面的问题吗？会加重抑郁、自杀念头、焦虑等吗？**
 
 会的——上述所有问题以及更多都有可能。不要一上来就断定"是 Cymbalta/度洛西汀造成的"，请先排查其他可能性；如果其他都排除了，那么很可能就是它在作祟。
 
 ---
 
-## ITCHING（瘙痒） （详见副作用专题）**Cymbalta/度洛西汀会引起瘙痒吗？**
+### ITCHING（瘙痒） （详见副作用专题）**Cymbalta/度洛西汀会引起瘙痒吗？**
 
 会的，是一种常见的副作用，痒得让人发疯。
 
 ---
 
-## MEMORY（记忆力） （详见副作用专题）**Cymbalta/度洛西汀会影响记忆力吗？**
+### MEMORY（记忆力） （详见副作用专题）**Cymbalta/度洛西汀会影响记忆力吗？**
 
 会的，是常见的副作用。补充 Omega-3 胶囊可能有所帮助。
 
 ---
 
-## JOURNAL（记录日记） （详见相关专题）**为什么要记日记？**
+### JOURNAL（记录日记） （详见相关专题）**为什么要记日记？**
 
 详细记录所有减量细节——日期、百分比、珠子数量——以及期间出现的所有副作用。这样你才能学会"倾听你的身体"，并在需要时调整减量方案。**(Link)**
 
 ---
 
-## DOCTORS（医生）
+### DOCTORS（医生）
 
 **为什么医生们还在不断开 Cymbalta/度洛西汀？**
 
@@ -462,37 +462,37 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## MOUTH（口腔） （详见副作用专题）**Cymbalta/度洛西汀会影响口腔吗？会引起灼热感吗？**
+### MOUTH（口腔） （详见副作用专题）**Cymbalta/度洛西汀会影响口腔吗？会引起灼热感吗？**
 
 会的，是常见的副作用。
 
 ---
 
-## OPENING the capsules（打开胶囊） （详见相关专题）**怎么打开胶囊？**
+### OPENING the capsules（打开胶囊） （详见相关专题）**怎么打开胶囊？**
 
 可以轻轻扭开胶囊，之后重复使用同一颗胶囊。有些人扭开后无法再用。也有的人用刀来切。
 
 ---
 
-## SEROTONIN SYNDROME（血清素综合征） （详见相关专题）**什么是血清素综合征？**
+### SEROTONIN SYNDROME（血清素综合征） （详见相关专题）**什么是血清素综合征？**
 
 这是身体对 Cymbalta/度洛西汀或其他药物产生的一种极为严重的反应，已经危及生命。体内血清素水平已经达到极限，常常是被同时开具了两种或多种同类药物所致。必须立即停药，无论可能带来什么后果。
 
 ---
 
-## SEXUAL PROBLEMS（性问题） （详见副作用专题）**Cymbalta/度洛西汀会影响性生活吗？**
+### SEXUAL PROBLEMS（性问题） （详见副作用专题）**Cymbalta/度洛西汀会影响性生活吗？**
 
 很有可能。它可能影响性欲、亲密关系的能力，以及性行为本身。
 
 ---
 
-## TEETH（牙齿） （详见副作用专题）**Cymbalta/度洛西汀会影响牙齿吗？**
+### TEETH（牙齿） （详见副作用专题）**Cymbalta/度洛西汀会影响牙齿吗？**
 
 会的，是 Cymbalta/度洛西汀的常见作用之一。牙齿可能会碎裂。
 
 ---
 
-## WHEN SHOULD I TAKE CYMBALTA/DULOXETINE?（服药时间）
+### WHEN SHOULD I TAKE CYMBALTA/DULOXETINE?（服药时间）
 
 **早上吃好还是晚上吃好？能不能一天两次？**
 
@@ -500,7 +500,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## STABILISE（稳定下来） （详见相关专题）**你说的"等我稳定下来"是什么意思？**
+### STABILISE（稳定下来） （详见相关专题）**你说的"等我稳定下来"是什么意思？**
 
 - 如果你正在经历*戒断症状*：停止减量、保持当前剂量，直到感觉一切重新"正常"。然后再维持 3 周。
 - 如果你已经*恢复用药（重新加量）*：保持当前剂量，直到感觉一切重新"正常"。然后再维持 3 周。
@@ -509,7 +509,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## FIBROMYALGIA（纤维肌痛） （详见副作用专题）**什么是纤维肌痛？**
+### FIBROMYALGIA（纤维肌痛） （详见副作用专题）**什么是纤维肌痛？**
 
 这是一种导致全身广泛疼痛的慢性疾病，可能有多种原因。其中一个确定的原因就是使用过 Cymbalta/度洛西汀。
 
@@ -519,7 +519,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## HALF-LIFE（半衰期）
+### HALF-LIFE（半衰期）
 
 **什么是半衰期？**
 
@@ -527,30 +527,30 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ---
 
-## INCONTINENCE（排尿/控尿问题） （详见副作用专题）**我的泌尿功能受 Cymbalta/度洛西汀影响吗？**
+### INCONTINENCE（排尿/控尿问题） （详见副作用专题）**我的泌尿功能受 Cymbalta/度洛西汀影响吗？**
 
 会的。排尿起始困难、尿频、排尿中断困难——都可能是它的表现。
 
 ---
 
-## PAWS （详见相关专题）**什么是 PAWS？**
+### PAWS （详见相关专题）**什么是 PAWS？**
 
 Prolonged Acute Withdrawal Syndrome（延长性急性戒断综合征）——通常发生在不安全减量或突然停药之后，表现为显著的戒断症状，可使人虚弱甚至危及生命，并可能持续数月乃至数年。
 
 ---
 
-## ANXIETY（焦虑） （详见相关专题）**我能在不服药的情况下管理焦虑吗？**
+### ANXIETY（焦虑） （详见相关专题）**我能在不服药的情况下管理焦虑吗？**
 
 可以从营养、合适的补充剂与生活方式调整入手。请记住：药品说明书本身就提到，这种药实际上反而可能引起焦虑。
 
 ---
 
-## TINNITUS（耳鸣） （详见副作用专题）**Cymbalta/度洛西汀会引起耳鸣吗？**
+### TINNITUS（耳鸣） （详见副作用专题）**Cymbalta/度洛西汀会引起耳鸣吗？**
 
 会的，是常见的问题之一。
 
 ---
 
-## SLEEP and DREAMS（睡眠与梦境） （详见副作用专题）**Cymbalta/度洛西汀会影响睡眠和梦吗？**
+### SLEEP and DREAMS（睡眠与梦境） （详见副作用专题）**Cymbalta/度洛西汀会影响睡眠和梦吗？**
 
 会的。睡眠可能出现两种极端：要么*怎么也睡不着*，要么*怎么都醒不过来*。服药期间梦通常会消失，而在减量期或停药后又会重新出现——而且常常是带有暴力色彩的梦。

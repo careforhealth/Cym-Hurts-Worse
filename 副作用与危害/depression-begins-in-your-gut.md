@@ -4,14 +4,7 @@ title: "抑郁始于肠道"
 category: 副作用与危害
 original_url: https://healthwithoutantidepressants.com/depression-begins-in-your-gut/
 ---
-
----
-layout: post
-title: "抑郁始于肠道"
-category: 副作用与危害
-original_url: https://healthwithoutantidepressants.com/depression-begins-in-your-gut/
----
-# 抑郁始于肠道（Depression Begins In Your Gut）
+## 抑郁始于肠道（Depression Begins In Your Gut）
 
 > 原文链接：https://healthwithoutantidepressants.com/depression-begins-in-your-gut/
 > 翻译日期：2026-08-05
@@ -25,7 +18,7 @@ original_url: https://healthwithoutantidepressants.com/depression-begins-in-your
 
 颇具讽刺意味的是，带来问题的食物往往正是我们最爱的食物。（再来一块披萨？再来一杯拿铁？）
 
-## 肠道中可能发生的一切——好转或恶化
+### 肠道中可能发生的一切——好转或恶化
 
 存在心理问题的患者，尤其是较为严重的患者，往往严重**缺乏某些营养素**。**膳食补充剂**可以解决这一问题。尤其是氨基酸类补充剂，对抑郁及类似问题有显著帮助。
 
@@ -39,7 +32,7 @@ original_url: https://healthwithoutantidepressants.com/depression-begins-in-your
 
 服用精神科药物所导致的营养素流失，包括：[辅酶 Q10（Coenzyme Q10）](https://optimallivingdynamics.lpages.co/optimal-energy/)、[镁（Magnesium）](https://optimallivingdynamics.lpages.co/optimal-energy/)、[褪黑素（Melatonin）](http://geni.us/d9nIpj)、[维生素 B2（Vitamin B2）](https://optimallivingdynamics.lpages.co/optimal-energy/)、[维生素 B6（Vitamin B6）](https://optimallivingdynamics.lpages.co/optimal-zinc/)、叶酸（Folate）、[维生素 B12（Vitamin B12）](https://optimallivingdynamics.lpages.co/optimal-energy/) —— **这些营养素可能由某一种产品全部补充**……或者另一种产品……又或者在你的情况下根本无人提及。
 
-## 自己的功课，自己来做
+### 自己的功课，自己来做
 
 这是你的大脑、你的身体、你的生活、你的钱。朋友和家人身上有效的方法，未必适用于你。**请让自己成为自身状况的专家。**
 

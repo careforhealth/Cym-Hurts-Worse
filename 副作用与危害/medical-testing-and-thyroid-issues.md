@@ -4,14 +4,7 @@ title: "医学检查与甲状腺问题"
 category: 副作用与危害
 original_url: https://healthwithoutantidepressants.com/medical-testing-and-thyroid-issues/
 ---
-
----
-layout: post
-title: "医学检查与甲状腺问题"
-category: 副作用与危害
-original_url: https://healthwithoutantidepressants.com/medical-testing-and-thyroid-issues/
----
-# 医学检查与甲状腺问题（Medical Testing and Thyroid Issues）
+## 医学检查与甲状腺问题（Medical Testing and Thyroid Issues）
 
 > 原文链接：https://healthwithoutantidepressants.com/medical-testing-and-thyroid-issues/
 > 翻译日期：2026-08-05
@@ -41,7 +34,7 @@ _（原文此处为点击式目录，列出了下文各小节的锚点链接；�
 
 如果你没有诊断出 _桥本氏甲状腺炎（Hashimoto's）_，你可能根本不需要服用甲状腺药物！
 
-## 医学检查
+### 医学检查
 
 **哪些医学检查可以帮助我们找到通常被认为是"情绪障碍"的根本原因？**
 
@@ -59,7 +52,7 @@ _（原文此处为点击式目录，列出了下文各小节的锚点链接；�
 
 **维生素 D 缺乏：** 血液中维生素 D 水平
 
-## 进一步可考虑的检查
+### 进一步可考虑的检查
 
 **所有药物都会影响我们的所有器官，其中一些还可能掩盖潜在的健康问题。** 对于没有专业知识的普通人来说，理解这些是困难的，但这里提供的信息是出于善意的。也许你能从中获得一些有用的认识。
 
@@ -79,11 +72,11 @@ _（原文此处为点击式目录，列出了下文各小节的锚点链接；�
 
 **代谢组合** [https://labtestsonline.org/tests/basic-metabolic-panel-bmp](https://labtestsonline.org/tests/basic-metabolic-panel-bmp)
 
-## 细胞色素 P450（Cytochrome P450）
+### 细胞色素 P450（Cytochrome P450）
 
 细胞色素 P450 是一种帮助体内代谢化学物质的酶。据估计，大约 10% 的人群缺乏这种酶，而在同时服用多种药物时，这就会成为一个很大的问题。更多信息，请参阅 [**《细胞色素 P450 代谢对药物反应、相互作用及不良反应的影响》（The Effect of Cytochrome P450 Metabolism on Drug Response, Interactions, and Adverse Effects）**](https://www.aafp.org/pubs/afp/issues/2007/0801/p391.html)
 
-## 甲状腺功能低下（Low thyroid function）
+### 甲状腺功能低下（Low thyroid function）
 
 甲状腺功能低下与抑郁和焦虑相关联。
 
@@ -91,13 +84,13 @@ _（原文此处为点击式目录，列出了下文各小节的锚点链接；�
 
 如果你的医生说你的结果"没问题"，不要轻信。请索取一份你的检查结果副本，并在 [https://www.facebook.com/groups/FTPO60andover](https://www.facebook.com/groups/FTPO60andover) 中查看，判断你的结果是否真的"没问题"。有些人发现，本可以用甲状腺激素替代疗法治疗他们的问题，却被开了抗抑郁药。
 
-## 营养素缺乏（Nutrient deficiencies）
+### 营养素缺乏（Nutrient deficiencies）
 
 如果你曾经有过饮食失调，你很可能存在营养缺乏。请检测你的 B12 和维生素 D3、钙、镁、红细胞（RBC）、铁四项组合（铁蛋白、铁蛋白饱和度等 4 项）、钾、锌、硒。做一项 4 点唾液测试：你很可能还存在肾上腺疲劳（adrenal fatigue）。
 
 如果你把所有这些都检查并处理好了，再加上饮食清洁，可能会解决你的一部分问题。
 
-## 更多可能的检查
+### 更多可能的检查
 
 - 氨基酸分析
 - 重金属分析

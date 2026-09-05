@@ -4,13 +4,13 @@ title: "良好营养"
 category: 健康生活
 original_url: https://healthwithoutantidepressants.com/good-nutrition/
 ---
-# 良好营养（Good Nutrition）
+## 良好营养（Good Nutrition）
 
 > 原文链接：https://healthwithoutantidepressants.com/good-nutrition/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-## 良好营养的重要性
+### 良好营养的重要性
 
 良好的营养有助于修复身体和大脑：_"人如其食（You are what you eat）。"_
 
@@ -23,21 +23,21 @@ original_url: https://healthwithoutantidepressants.com/good-nutrition/
 
 不要低估你所吃食物的重要性，也不要低估食物对健康的影响。如果你不愿意改变自己的营养方式，看看是否能解决问题，就不要抱怨自己这儿那儿不舒服。
 
-## **饮食与心理健康**
+### **饮食与心理健康**
 
 饮食、营养以及慢性全身性炎症与身体健康和心理健康问题（如焦虑、抑郁、双相情感障碍甚至精神分裂症）息息相关。
 
 清洁饮食（Clean eating）的核心就是为不健康的食物找到健康的替代品。当你逐渐改善饮食习惯后，你的口味会发生变化，你会真的开始*渴望*健康食物。
 
-## **这些页面仅供参考！**
+### **这些页面仅供参考！**
 
 它们不是建议。其中一些建议可能相互矛盾，有些有用，有些则未必。
 
-## **请自行做研究**
+### **请自行做研究**
 
 请自行做出决定。有大量研究证据可供参考。即使某些建议没有明确的来源或研究支持，也并不意味着它就不值得关注。
 
-## **血糖波动与营养素耗竭**
+### **血糖波动与营养素耗竭**
 
 戒断过程中出现的焦虑、易怒、愤怒、暴怒、渴望（糖、食物、酒精）、疲劳和极度饥饿，与血糖波动和营养素耗竭有关。
 
@@ -49,11 +49,11 @@ original_url: https://healthwithoutantidepressants.com/good-nutrition/
 
 [https://healthyeating.sfgate.com/types-carbohydrates-turn-sugar-3322.html](https://healthyeating.sfgate.com/types-carbohydrates-turn-sugar-3322.html)
 
-## **不要吸烟。**
+### **不要吸烟。**
 
 尼古丁会导致血糖快速飙升和下降。
 
-## **抗抑郁药引起的营养素耗竭**
+### **抗抑郁药引起的营养素耗竭**
 
 **药物会让身体流失宝贵的营养素**。这被称为*药物诱导的营养素耗竭（drug-induced nutrient depletion）*。在研究中有大量相关证据。
 
@@ -69,13 +69,13 @@ original_url: https://healthwithoutantidepressants.com/good-nutrition/
 
 合理的营养、补水、适当的补充剂、运动和睡眠，可以显著缩短修复和康复所需的时间。
 
-## **需要避免的食物**
+### **需要避免的食物**
 
 有很多食物和饮料应当避免。它们会造成难以估量的伤害，尤其当身体和大脑承受压力时——服用药物（尤其是精神科药物）会让我们更加脆弱。
 
-详情请参见：[应避免的补剂与食物](../支持与资源/supplements-and-foods-to-avoid.md)
+详情请参见：[应避免的补剂与食物]({{ '/支持与资源/supplements-and-foods-to-avoid/' | relative_url }})
 
-## **可考虑的选择**
+### **可考虑的选择**
 
 尝试碱性饮食：
 
@@ -107,7 +107,7 @@ original_url: https://healthwithoutantidepressants.com/good-nutrition/
 
 > [镁有助于改善经前综合征（PMS）](https://doctorherdmanclinic.com/resources/articles/pms-magnesium/)
 
-## **试试这款简单便宜的抗炎饮品**
+### **试试这款简单便宜的抗炎饮品**
 
 建议每天饮用 2–4 盎司（约 60–120 毫升），每天 4–6 次，加入胡椒和椰子油。
 
@@ -126,7 +126,7 @@ original_url: https://healthwithoutantidepressants.com/good-nutrition/
 - 将水、生姜、柠檬（以及可选的姜黄）和糖一起煮沸 45 分钟。
 - 关火后静置冷却。
 
-## **关于健脑食物的精彩文章**
+### **关于健脑食物的精彩文章**
 
 [http://www.health.harvard.edu/blog/nutritional-psychiatry-your-brain-on-food-201511168626](http://www.health.harvard.edu/blog/nutritional-psychiatry-your-brain-on-food-201511168626)
 
@@ -138,7 +138,7 @@ Omega-3 可能有益于大脑。
 
 它们的作用各不相同，对不同人的影响也不同。**这个图表是一个很好的参考。**（_原网页此处展示了一张"不同类型镁"的对照图_）可能需要花一些时间尝试，看看哪种适合自己。年龄、性别、种族和地域都是重要因素。
 
-## **可以看这些纪录片**
+### **可以看这些纪录片**
 
 **《Fat, Sick and Nearly Dead》（《胖、生病、濒死》）**  
 "本片聚焦两位身体因类固醇、肥胖和疾病而被严重拖垮的男性，记录了他们为挽救健康所采取的严苛康复之路——包括为期两个月的果蔬饮食——的全过程。"
@@ -146,7 +146,7 @@ Omega-3 可能有益于大脑。
 **《Forks Over Knives》（《刀叉下的健康革命》**  
 "纪录片《刀叉下的健康革命》检视了一个颇具颠覆性的观点：那些折磨我们的退行性疾病，大多数甚至全部，都可以通过拒绝动物性食物和加工食品来控制甚至逆转。"
 
-## **延伸阅读**
+### **延伸阅读**
 
 **抗抑郁药会耗竭营养素**：
 

@@ -4,7 +4,7 @@ title: "失去了医疗保险？"
 category: 支持与资源
 original_url: https://healthwithoutantidepressants.com/lost-your-medical-insurance/
 ---
-# 失去了医疗保险？（Lost Your Medical Insurance?）
+## 失去了医疗保险？（Lost Your Medical Insurance?）
 
 > 原文链接：https://healthwithoutantidepressants.com/lost-your-medical-insurance/
 > 翻译日期：2026-08-05

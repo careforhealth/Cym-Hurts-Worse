@@ -4,13 +4,13 @@ title: "从超过 90mg 的剂量开始减量"
 category: 减量方法
 original_url: https://healthwithoutantidepressants.com/tapering-from-90-mg/
 ---
-# 从超过 90mg 的剂量开始减量（Tapering from Above 90mg）
+## 从超过 90mg 的剂量开始减量（Tapering from Above 90mg）
 
 > 原文链接：https://healthwithoutantidepressants.com/tapering-from-90-mg/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-## 背景信息（Background Information）
+### 背景信息（Background Information）
 
 我们对每日服用度洛西汀（duloxetine，又名 Cymbalta 欣百达或各种仿制药品牌）**部分**人群的减量方案建议作出了更新。
 
@@ -22,7 +22,7 @@ original_url: https://healthwithoutantidepressants.com/tapering-from-90-mg/
 
 我们知道，除血清素占用外，去甲肾上腺素的占用同样具有生物学效应，并可能在减量过程中引发戒断反应。其他神经递质也可能参与其中。
 
-## 研究文章（Research article）
+### 研究文章（Research article）
 
 简而言之，以下研究表明，随着度洛西汀剂量的增加，其对受体的占用效率反而下降。这有违直觉——因为我们使用大多数药物的经验是：服得越多，效果越强。
 
@@ -47,7 +47,7 @@ original_url: https://healthwithoutantidepressants.com/tapering-from-90-mg/
 
 这种 SERT 占用率的"双曲线"特征表明：只要剂量降幅够大，足以让药效明显下降，戒断症状就会出现——但并非每一次减量都会触发。
 
-## 超过 90mg 时的减量指南（Tapering Guidelines From More Than 90mg）
+### 超过 90mg 时的减量指南（Tapering Guidelines From More Than 90mg）
 
 基于上述研究、并结合十多年来我们与约 4 万名成员打交道的经验，**如果你每日服用量超过 90mg**，我们建议如下：
 
@@ -74,7 +74,7 @@ original_url: https://healthwithoutantidepressants.com/tapering-from-90-mg/
 
 如果你尝试了这种新的“从超过 90mg 的剂量开始减量”的方法，欢迎反馈效果。**如有任何问题，请务必与我们联系。**
 
-## 注意事项（Caution）
+### 注意事项（Caution）
 
 **我们基于 SERT 占用率数据、为部分人群提出的这种"较大幅度"减量建议，可能引发意料之外的戒断症状，或带来其他不可预见风险。请你务必先理解 SERT 占用率的科学原理，再据此规划安全的减量方案。**
 

@@ -4,7 +4,7 @@ title: "专业医生与互助小组"
 category: 支持与资源
 original_url: https://healthwithoutantidepressants.com/specialist-and-group-support/
 ---
-# 专业医生与互助小组（Specialist and Group Support）
+## 专业医生与互助小组（Specialist and Group Support）
 
 > 原文链接：https://healthwithoutantidepressants.com/specialist-and-group-support/
 > 翻译日期：2026-08-05
@@ -24,15 +24,15 @@ original_url: https://healthwithoutantidepressants.com/specialist-and-group-supp
 
 **请向我们反馈**——无论正面还是负面——你咨询过的任何医生或加入过的任何小组。这样我们才能更好地帮助其他人。
 
-## 整体、功能医学与整合医学执业者
+### 整体、功能医学与整合医学执业者
 
-要找到不开精神药物（psychotropic drugs）处方的医生并不容易，但并非不可能。在线互助小组可以帮上忙，但理想情况下，你会找到一位不仅愿意与你一起寻找病症根源、还会帮助你安全撤药的专科医生。
+要找到不开精神药物（psychotropic drugs）处方的医生并不容易，但并非不可能。在线互助小组可以帮上忙，但理想情况下，你会找到一位不仅愿意与你一起寻找病症根源、还会帮助你安全戒断的专科医生。
 
 我们现在知道，除非遇到非常特殊且紧急的情况，否则绝不应该突然完全停药（cold turkey，即"冷火鸡"式骤停）或减药过快。我们也应当对任何医疗提供者负起核查、再核查的责任，再把信任交给他们。毕竟这是我们的大脑、身体和我们的人生。如果医生没有提供良好的信息和建议，请不要害怕"解雇"他们（我们当中有人真的做过！）。
 
 你可以通过以下资源改进与医学专家打交道的方式：_（原文此处是链接到一篇关于"自我倡导"的文章的占位符；本站暂无对应译文。）_
 
-## 什么是功能医学（functional medicine）？
+### 什么是功能医学（functional medicine）？
 
 功能医学旨在寻找根本原因（root causes），然后用自然方式进行治疗。你可以通过以下链接进一步了解：
 
@@ -40,14 +40,14 @@ original_url: https://healthwithoutantidepressants.com/specialist-and-group-supp
 - [什么是整体疗法医生（holistic doctor）？](https://www.holistichelp.net/holistic-doctors.html)
 - [传统医学治症状；功能医学治根本原因。](https://www.naturalnews.com/033874_fibromyalgia_causes.html)
 
-### 功能医学与纤维肌痛（fibromyalgia）
+#### 功能医学与纤维肌痛（fibromyalgia）
 
 - [Murphee 医生（"纤维肌痛医生"）](http://thefibrodoctor.com/with-fibromyalgiacovering-symptoms-only-leads-to-more-symptoms/)
 - [Murphee 医生谈纤维肌痛与压力：](https://www.youtube.com/watch?v=0pexqyEmuCM)
 - [Bergman 医生——如何逆转纤维肌痛](https://www.youtube.com/watch?v=mY49nmHaano&list=PLJt-PUhxOCK8hGYHLv4mF4PTIXJonCme9)
 - [纤维肌痛解决方案](https://www.youtube.com/watch?v=Qc8M1I7RivQ)
 
-## 寻找替代疗法医生
+### 寻找替代疗法医生
 
 替代疗法医生很难找得到。**浏览以下链接**，看看你或许能幸运地找到什么。即使是在偏远地区，也有可能找到合适的人选。**这些并非推荐**，只是为你提供一个寻找方向上的引导。
 
@@ -62,7 +62,7 @@ original_url: https://healthwithoutantidepressants.com/specialist-and-group-supp
 - 古法/原始饮食资源（Paleo/Primal Resources）也提供搜索功能：[http://primaldocs.com/physician-finder-intro/](http://primaldocs.com/physician-finder-intro/)
 - 如何找到一位功能医学医生（How to Find a Functional Medicine Doctor）：[http://www.happyliving.com/2015/02/06/how-to-find-a-functional-medicine-doctor/](http://www.happyliving.com/2015/02/06/how-to-find-a-functional-medicine-doctor/)
 
-## 个人经验
+### 个人经验
 
 > **"我目前就诊的整合医学（integrative medicine）医生是我接触的第一位功能医学医生。找到他我感到非常幸运，因为我真的不知道自己原本该找什么样的人。我觉得他真的在倾听我，并没有轻视我的经历或我对自身"病情"的感受。与此同时，他温和地引导我认识根本原因，以及如何用自然方式去治疗它们。**
 >
@@ -70,11 +70,11 @@ original_url: https://healthwithoutantidepressants.com/specialist-and-group-supp
 >
 > **请把所有信息都研究透彻，但尽量严格按建议去做。我的医生说要戒掉精制食品……我就彻底戒了。如果他说要每天榨汁……我就每天榨汁！持续与坚持才能带来最好的效果，半吊子只能换来半吊子的结果。我想让自己好起来，所以我全心全意地遵守他的建议，结果我感觉好多了。"**
 
-## 个人推荐
+### 个人推荐
 
 以下推荐大多位于美国。**这些并非推荐**。信息可能已过时，但均已经过核对。
 
-- **Susan J Evans**，南卡罗来纳州（South Carolina）列克星敦（Lexington）Crossroads 心理咨询中心。她是执业护士（APRN）、精神-心理健康临床护理专家（PMHCNS-BC），拥有 30 年从业经验，但目前只看儿童与青少年。（据称她了解欣百达/Cymbalta，即度洛西汀/duloxetine 撤药。即使她不接诊成年人，她也可能会推荐合适的人选。）
+- **Susan J Evans**，南卡罗来纳州（South Carolina）列克星敦（Lexington）Crossroads 心理咨询中心。她是执业护士（APRN）、精神-心理健康临床护理专家（PMHCNS-BC），拥有 30 年从业经验，但目前只看儿童与青少年。（据称她了解欣百达/Cymbalta，即度洛西汀/duloxetine 戒断。即使她不接诊成年人，她也可能会推荐合适的人选。）
 
   - [www.solutionsforlife.org](http://www.solutionsforlife.org)
 
@@ -86,7 +86,7 @@ original_url: https://healthwithoutantidepressants.com/specialist-and-group-supp
 
 - **Jeffrey Comanor**，美国佐治亚州（Georgia）玛丽埃塔（Marietta）——[https://www.kennesawmountainclinic.com/](https://www.kennesawmountainclinic.com/)
 
-- 佐治亚州雅典/亚特兰大/东北地区："**Stephen Brogdon 医生**。他认可欣百达停药综合征（discontinuation syndrome）的存在，并持续鼓励我慢慢减药、倾听自己身体的声音，以及寻找整体/自然的方法来处理撤药和情绪/心理问题。由于我没有保险，他还给我减免了诊费！"
+- 佐治亚州雅典/亚特兰大/东北地区："**Stephen Brogdon 医生**。他认可欣百达停药综合征（discontinuation syndrome）的存在，并持续鼓励我慢慢减药、倾听自己身体的声音，以及寻找整体/自然的方法来处理戒断和情绪/心理问题。由于我没有保险，他还给我减免了诊费！"
 
   - [https://www.castleconnolly.com/top-doctors/stephen-brogdon-psychiatry-cc60512](https://www.castleconnolly.com/top-doctors/stephen-brogdon-psychiatry-cc60512)
 
@@ -102,11 +102,11 @@ original_url: https://healthwithoutantidepressants.com/specialist-and-group-supp
   - Facebook 页面：[https://www.facebook.com/beecroftchiropractic](https://www.facebook.com/beecroftchiropractic)
   - 网站：[http://www.beecroftchiropractic.com.au/](http://www.beecroftchiropractic.com.au/)
 
-## 支持缓慢减药的医生
+### 支持缓慢减药的医生
 
 以下姓名与链接均未经核实，善意提供。请自行做好调查。
 
-他们在撤药社群中被视为引领者，致力于研究如何在我们撤除精神科药物时给予我们最好的支持。如果他们不接收新病人，也有可能接受单次咨询。
+他们在戒断社群中被视为引领者，致力于研究如何在我们撤除精神科药物时给予我们最好的支持。如果他们不接收新病人，也有可能接受单次咨询。
 
 **德国（Germany）：**
 
@@ -140,7 +140,7 @@ original_url: https://healthwithoutantidepressants.com/specialist-and-group-supp
 - **Stuart Shipko 医生**，精神与神经科，加州（CA）帕萨迪纳（Pasadena）西 Bellevue 路 97 号，邮编 91105。电话：626 577 8290
 - **Sandra Steingard 医生**，精神科，佛蒙特州（Vermont）Burlington，Howard Center，Flynn 大道 300 号，邮编 05401。电话：802-488-6200
 
-## 其他互助小组
+### 其他互助小组
 
 **这些并非推荐。** 互助小组在其发展过程中会发生变化。人员会变动，理念和方案也会变化。有些小组可能放任危险的建议出现，有些可能沟通困难，有些或许已不复存在。Facebook（FB）小组可能因未遵守 FB 规定而突然被关闭。
 

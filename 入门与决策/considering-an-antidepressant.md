@@ -4,7 +4,7 @@ title: "正在考虑服用抗抑郁药？"
 category: 入门与决策
 original_url: https://healthwithoutantidepressants.com/considering-an-antidepressant/
 ---
-# 正在考虑服用抗抑郁药？（Considering an Antidepressant?）
+## 正在考虑服用抗抑郁药？（Considering an Antidepressant?）
 
 > 原文链接：https://healthwithoutantidepressants.com/considering-an-antidepressant/
 > 翻译日期：2026-08-05
@@ -30,7 +30,7 @@ original_url: https://healthwithoutantidepressants.com/considering-an-antidepres
 
 大量的个体经历叙述（anecdotal information）同样具有科学分量。我们创始团体 [Cymbalta Hurts Worse](https://www.facebook.com/groups/Cymbaltahurtsworse/)（欣百达伤得更重）的经验可追溯至 2013 年。该群组的管理员和版主已审阅了大约 40,000 名希望停用欣百达®（Cymbalta®）或仿制药度洛西汀（duloxetine）的用户的帖子。大家的共识是：这种药物本身过于危险，不应用于任何治疗。
 
-# 为什么欣百达/度洛西汀这么糟糕？
+## 为什么欣百达/度洛西汀这么糟糕？
 
 ### ***注意："欣百达®"已停产***
 
@@ -38,7 +38,7 @@ original_url: https://healthwithoutantidepressants.com/considering-an-antidepres
 
 度洛西汀是一种 SNRI，即选择性 5-羟色胺和去甲肾上腺素再摄取抑制剂（selective serotonin and norepinephrine reuptake inhibitor）。简单来说，它会干扰人体吸收 5-羟色胺（serotonin）和去甲肾上腺素（norepinephrine）的能力。有些医生错误地认为这种干扰可以减轻抑郁和其他问题，但这一观点并没有确凿的证据。我们认为，研究已经证明（参见我们的[权威资料页面](https://healthwithoutantidepressants.com/authorities/)），这种药物和其他抗抑郁药的效果并不比"安慰剂"（即糖丸）更好。这一事实现在正逐渐浮出水面。
 
-## 发明者礼来公司（Eli Lilly）也承认它很危险
+### 发明者礼来公司（Eli Lilly）也承认它很危险
 
 发明这种药物的礼来公司，被迫在正式的产品说明书中承认大量可怕的副作用 [https://pi.lilly.com/us/cymbalta-pi.pdf](https://pi.lilly.com/us/cymbalta-pi.pdf)
 
@@ -46,19 +46,19 @@ original_url: https://healthwithoutantidepressants.com/considering-an-antidepres
 
 自 2013 年以来，我们这个群组已经见识了所有这些副作用，甚至更多。
 
-## 但不要只听他们的一面之词
+### 但不要只听他们的一面之词
 
 Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，截至 2024 年已积累了约 40,000 名成员。数十万条帖子为我们在本网站所介绍的"逐步减量法"（Gradual Taper）奠定了基础。请阅读成员们在这些主题下的帖子。以下内容不含姓名或可识别身份的信息，且是随时间随机收集的。点击进入相应页面：
 
-### [来自 CHW：症状](https://healthwithoutantidepressants.com/from-chw-symptoms/)
+#### [来自 CHW：症状](https://healthwithoutantidepressants.com/from-chw-symptoms/)
 
-### [来自 CHW：骤然停药（"Cold Turkey"）](https://healthwithoutantidepressants.com/from-chw-cold-turkey/)
+#### [来自 CHW：骤然停药（"Cold Turkey"）](https://healthwithoutantidepressants.com/from-chw-cold-turkey/)
 
-### [来自 CHW：糟糕的医生减量方案](https://healthwithoutantidepressants.com/from-chw-bad-tapers/)
+#### [来自 CHW：糟糕的医生减量方案](https://healthwithoutantidepressants.com/from-chw-bad-tapers/)
 
-### [来自 CHW：成功的逐步减量案例](https://healthwithoutantidepressants.com/from-chw-successes/)
+#### [来自 CHW：成功的逐步减量案例](https://healthwithoutantidepressants.com/from-chw-successes/)
 
-## 半衰期很短
+### 半衰期很短
 
 由于这种药物会干扰大脑的运作方式，它与你可能熟悉的多数其他药物不同。例如，它从体内排出得非常快，平均仅 12 小时就会排出约 50%。这使得它的"半衰期"（half-life）在所有精神药物中属于最短之列。这也意味着你每天都处于戒断（withdrawal）的边缘。
 
@@ -66,7 +66,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 正因如此，严格遵守每日的服药时间安排至关重要。有些人发现把剂量一分为二、早晚各服一半（相隔 12 小时）会有所缓解。遗憾的是，很少有医生理解缓慢、逐步减量的必要性，所以我们在这里为您提供支持。许多医疗专业人士建议快速、大幅度减量或隔日服药，这两种做法都会导致可怕的戒断反应。请继续阅读以了解解决方案。
 
-## 双曲线效应（Hyperbolic Effect）
+### 双曲线效应（Hyperbolic Effect）
 
 这种药物对您身体的作用是"双曲线式"的，这意味着**较低**剂量产生的效果反而大于较高剂量。这与我们所熟悉和使用的大多数药物不同。我们知道，两剂布洛芬（如美林 Motrin）的效果约为一剂的 2 倍。但对于欣百达/度洛西汀，您大脑中的受体发生了改变，只需极少量的药物就能产生这种变化。请看下方不同剂量下 5-羟色胺效应的图表。
 
@@ -90,7 +90,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 显然，只需一点点就能带来巨大差别。同样是增加 10mg：从 10mg 增加到 20mg 能使疗效提高 **15%**，而从 50mg 增加到 60mg 只提高了 **2%**！这就是为什么 90mg 和 120mg 的剂量似乎毫无意义。
 
-## 处方过频、剂量过高
+### 处方过频、剂量过高
 
 根据 ClinCalc 的数据 [https://clincalc.com/DrugStats/Drugs/Duloxetine](https://clincalc.com/DrugStats/Drugs/Duloxetine)，截至 2021 年，仅美国就有约 4,444,533 名患者在使用欣百达/度洛西汀！这约占当时美国总人口的 1.34%！
 
@@ -108,29 +108,29 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 - 美国疾病控制与预防中心（CDC）：[https://www.cdc.gov/nchs/products/databriefs/db283.htm](https://www.cdc.gov/nchs/products/databriefs/db283.htm)
 - 美国国家心理健康研究所（NIMH）：[https://www.nimh.nih.gov/health/topics/depression](https://www.nimh.nih.gov/health/topics/depression)
 
-### 剂量超标
+#### 剂量超标
 
 我们看到有医生开出 90mg 和 120mg 的剂量，这令我们震惊，因为就连发明者礼来公司也不推荐如此高的剂量。由于该药呈双曲线效应——见上文——这些超量剂量没有任何临床价值。据礼来公司称，对于该药设计的多数适应症，60mg 是最大有效剂量。以上全部来自礼来的产品说明书 [https://pi.lilly.com/us/cymbalta-pi.pdf](https://pi.lilly.com/us/cymbalta-pi.pdf)
 
-### 抑郁症
+#### 抑郁症
 
 ![礼来-抑郁症剂量](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-depressive-disorder-300x43.png)
 
-### 纤维肌痛
+#### 纤维肌痛
 
 ![礼来-纤维肌痛剂量](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-fibromyalgia-dosage-300x78.png)
 
-### 广泛性焦虑障碍
+#### 广泛性焦虑障碍
 
 ![礼来-广泛性焦虑障碍剂量](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-GAD-300x48.png)
 
-### 神经病理性疼痛
+#### 神经病理性疼痛
 
 ![礼来-神经病理性疼痛剂量](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-neuropathic-pain-300x49.png)
 
 请注意，所有这些适应症都注明 60mg 是最大有效剂量。这些高剂量使停药变得复杂，因为从高剂量减下来需要长得多的减量时间，而且症状可能更严重。
 
-## 停药很复杂
+### 停药很复杂
 
 尽管各种出版物轻描淡写地谈论停药的复杂性，但它们普遍承认，这不是一种应该一次性全部停用的药物。所有权威机构——包括原生产厂商礼来公司——都承认，必须缓慢停药才能避免剧烈的副作用。礼来欣百达的正式文件 [https://pi.lilly.com/us/cymbalta-pi.pdf](https://pi.lilly.com/us/cymbalta-pi.pdf) 非常明确地指出，停药应采用我们网站上介绍的这种缓慢减量法：
 
@@ -161,7 +161,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 **请注意：** 在没有首先检查相互作用或其他问题、并对该物质进行彻底研究之前，切勿在您的身体健康或心理健康治疗计划中自行停药、开始用药或添加任何药物或补充剂。
 
-# 医生、无知与常见的错误信息
+## 医生、无知与常见的错误信息
 
 **看起来，医生们对快速减量导致的可怕副作用知之甚少。** 虽然每个人的情况不同，但我们相信，大多数人的戒断症状严重程度与停药速度成正比。
 
@@ -193,7 +193,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 我们一遍又一遍地听到这些证言。正是这些，促使我们编写了**逐步减量法**（Gradual Taper）并提供了用于管理剂量下调的在线计算器。
 
-# 自己做研究
+## 自己做研究
 
 **我们信任医生告诉我们该怎么做。** 我们中的许多人——甚至大多数人——期望我们的医生无所不知。我们让他们告诉我们该吃什么药、该加量还是减量、该以何种方式停药。
 
@@ -203,7 +203,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 **在与医生讨论用药时，我们每个人都必须发挥积极作用。我们可以——而且应该——自己做研究。**
 
-# 知情同意（Informed consent）
+## 知情同意（Informed consent）
 
 这个链接指向一本由 MIA 博主兼精神科医生斯图尔特·希普科（Stuart Shipko）博士编写的电子书。这本书篇幅不长，价格也不贵。
 
@@ -216,7 +216,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 他接着说："《知情同意》并不是一本关于这些药物的全面专著；相反，它复述了我在接诊时通常向患者提供的信息。如果您正在考虑开始或停用 SSRI 抗抑郁药，您会发现这些信息很有帮助。"
 
-## 你可以反问医生的问题
+### 你可以反问医生的问题
 
 当医生这样说的时候……请这样问。
 
@@ -284,7 +284,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 **各位，请反客为主。你的医生有义务告知你信息。**
 
-# **为什么永远不要服用欣百达**
+## **为什么永远不要服用欣百达**
 
 欣百达有一长串严重的潜在副作用。
 

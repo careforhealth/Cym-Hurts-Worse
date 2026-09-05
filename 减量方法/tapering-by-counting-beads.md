@@ -4,13 +4,13 @@ title: "数微丸法减量"
 category: 减量方法
 original_url: https://healthwithoutantidepressants.com/tapering-by-counting-beads/
 ---
-# 数微丸法减量（Tapering by Counting Beads）
+## 数微丸法减量（Tapering by Counting Beads）
 
 > 原文链接：https://healthwithoutantidepressants.com/tapering-by-counting-beads/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-# 减量方法（METHODS OF TAPERING）
+## 减量方法（METHODS OF TAPERING）
 
 在运营一个拥有超过 45,000 名成员的 Facebook 小组多年之后，本网站运营者总结记录出一种可以缓慢戒断这种药物的方法。我们称之为**渐进式减量法（GRADUAL TAPER Method）**。
 
@@ -39,7 +39,7 @@ original_url: https://healthwithoutantidepressants.com/tapering-by-counting-bead
 
 我们是一场草根运动的一部分，致力于提高人们对以下内容的认识：所有影响血清素的药物的危害；营养、肠道健康、饮食以及其他健康生活方式选择的益处；以及寻找焦虑、抑郁、疼痛及慢性疼痛性疾病根本病因的必要性。对许多人来说，这将是他们第一次接触到与制药行业和传统医学所传达的信息相左的内容。我们希望每个人都能敞开思路、拓展视野，并从本网站上的资料开始自己的研究。
 
-## 计算器（THE CALCULATORS）
+### 计算器（THE CALCULATORS）
 
 计算器在线地址如下：
 
@@ -47,19 +47,17 @@ original_url: https://healthwithoutantidepressants.com/tapering-by-counting-bead
 
 你可以选择在线计算器（可打印），或 Excel 电子表格，二者任选其一。
 
-# 数微丸法（COUNTING BEADS）
+## 数微丸法（COUNTING BEADS）
 
 **严格遵循**所有关于减量前准备的说明。
 
 **开始记录你的日志**，并保持日志持续更新。
 
-## 一些工具（SOME TOOLS）
+### 一些工具、胶囊规格与微丸选择（SOME TOOLS / CAPSULE SIZES / BEADS TO USE）
 
-## 胶囊规格（CAPSULE SIZES）
+_译者注：原文这一部分主要由工具、胶囊规格与微丸的实物照片构成，无文字说明，请直接查看[原站页面](https://healthwithoutantidepressants.com/tapering-by-counting-beads/)中的图片。_
 
-## 使用的微丸（BEADS TO USE）
-
-## 计算当前瓶装胶囊的平均值（GET AN AVERAGE FOR THIS BOTTLE）
+### 计算当前瓶装胶囊的平均值（GET AN AVERAGE FOR THIS BOTTLE）
 
 **计算每粒胶囊的平均微丸数**。不同瓶（不同批次）之间的胶囊微丸数量会有差异。我们需要计算**平均微丸数**：该数值会用于 Excel 电子表格或[**在线减量计算器**](https://healthwithoutantidepressants.com/calculators/)来完成你的首次减量计算。**每粒胶囊所含的微丸数都不一样**。使用平均值有助于保证剂量的稳定性。
 
@@ -67,7 +65,7 @@ original_url: https://healthwithoutantidepressants.com/tapering-by-counting-bead
 
 将这 3 个数值输入计算器，由它来计算平均值。_你也可以手算或用普通计算器来算，但这种方法容易出错，因此不推荐。_
 
-## 选择你的减量方案（CHOOSE YOUR TAPER）
+### 选择你的减量方案（CHOOSE YOUR TAPER）
 
 **选择减量比例**。2.5%、3% 或 **5%** 都是不错的起点。实践表明，超过 5% 的减量比例更容易引发戒断反应。
 
@@ -77,7 +75,7 @@ original_url: https://healthwithoutantidepressants.com/tapering-by-counting-bead
 
 所有减量法的关键在于：你数的是**实际服用的微丸数**，而不是从胶囊中取出的微丸数。原因在于，每粒胶囊所含的微丸数通常都不一样。**你每次都必须保证微丸数准确。**
 
-## 开始数微丸（START COUNTING）
+### 开始数微丸（START COUNTING）
 
 拧开胶囊。**将所有微丸**倒出胶囊。将正确数量的微丸**装回**原胶囊或一粒新的空胶囊中。计算器会告诉你需要多少颗。**务必仔细清点。**
 
@@ -89,13 +87,13 @@ original_url: https://healthwithoutantidepressants.com/tapering-by-counting-bead
 
 **请记住**，首次减量后应至少维持 21–28 天，以观察身体的耐受情况。克制加快速度的冲动。**坚持你的计划表**。
 
-# 数微丸教学视频（COUNTING VIDEO）
+## 数微丸教学视频（COUNTING VIDEO）
 
 **数微丸的操作视频**。注意，该视频设有年龄限制，因此你需要点击确认你理解该视频*"可能不适合部分观众"*：
 
 [**https://www.youtube.com/watch?v=D2ygU342xoc**](https://www.youtube.com/watch?v=D2ygU342xoc)
 
-# 称重法备选方案（WEIGHING ALTERNATIVE!）
+## 称重法备选方案（WEIGHING ALTERNATIVE!）
 
 如果你采用数微丸法后，觉得数几百颗微丸并不适合你，那么另一种选择就是使用天平来称量。一位组员反馈，使用这种方法，他能在 15 分钟内配好 14 粒胶囊。当微丸重量降到较低水平（约 50 颗）时，你就必须切换为数微丸法，因为天平无法精确称量这么小的量。称重法请参阅：
 

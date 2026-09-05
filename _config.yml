@@ -1,7 +1,7 @@
 # Site settings
 title: "健康无抗抑郁药"
 tagline: "科学减量 · 温柔康复 · 重获健康生活"
-description: "Health Without Antidepressants 中文翻译合集 — 38 篇科学减量、停药应对与健康生活指南"
+description: "Health Without Antidepressants 中文翻译合集 — 37 篇科学减量、停药应对与健康生活指南"
 url: "https://careforhealth.github.io"
 baseurl: "/Cym-Hurts-Worse"
 lang: zh-CN
@@ -59,37 +59,37 @@ categories_meta:
     slug: 入门与决策
     icon: compass
     color: pine
-    desc: 服药 / 停药前的决策参考、FAQ 与研究资料
+    desc: 服药 / 停药前的决策参考、FAQ 与研究资料，帮助你做出知情选择。
   - name: 减量方法
     slug: 减量方法
     icon: chart
     color: clay
-    desc: 数微丸法、称重法、高剂量减量与计算工具
+    desc: 数微丸法、称重法、高剂量减量与计算工具 — 安全减量的实操指南。
   - name: 停药症状与应对
     slug: 停药症状与应对
     icon: heart
     color: rose
-    desc: 波动窗口期、静坐不能、恢复用药与应对策略
+    desc: 波动与窗口期、静坐不能、恢复用药 — 了解症状，学会温柔应对。
   - name: 副作用与危害
     slug: 副作用与危害
     icon: shield
     color: amber
-    desc: Cymbalta 副作用、肠道、甲状腺、妊娠与体重
+    desc: Cymbalta 副作用、肠道、甲状腺、妊娠与体重 — 了解药物可能带来的风险。
   - name: 社区经验
     slug: 社区经验
     icon: chat
     color: sage
-    desc: CHW 社区真实经历：教训、突然停药与成功故事
+    desc: 来自 CHW 社区的真实经历 — 错误减量的教训、突然停药的故事与成功经验。
   - name: 健康生活
     slug: 健康生活
     icon: leaf
     color: moss
-    desc: 营养、饮食、睡眠、疼痛管理与快乐指南
+    desc: 营养、饮食、睡眠、疼痛管理与快乐指南 — 不靠药物也能滋养身心。
   - name: 支持与资源
     slug: 支持与资源
     icon: hands
     color: sky
-    desc: 家人朋友、医生互助、医保、危机安全与参考资源
+    desc: 家人朋友、医生互助、医保、补剂提醒、危机安全与权威参考资源。
 
 # Exclude
 exclude:

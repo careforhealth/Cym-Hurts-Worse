@@ -4,7 +4,7 @@ title: "如何变得快乐"
 category: 健康生活
 original_url: https://healthwithoutantidepressants.com/how-to-be-happy/
 ---
-# 如何变得快乐（How to be Happy）
+## 如何变得快乐（How to be Happy）
 
 > 原文链接：https://healthwithoutantidepressants.com/how-to-be-happy/
 > 翻译日期：2026-08-05
@@ -45,7 +45,7 @@ Finally, don't beat yourself up about the things that you'd like to do but know 
 
 ---
 
-## 可以尝试的事（Things to try）
+### 可以尝试的事（Things to try）
 
 下面这张表保留了原文的打分结构：最左列是建议条目，右边三列分别是 **NEVER !!（从不！）**、**Maybe（也许）**、**YES !!（是的！）**，最右列是 **Successful 1 – 10（成功率 1–10 分）**。你可以一边读一边在心里打分；如果想到清单上没有的条目，请直接补在最下方。
 

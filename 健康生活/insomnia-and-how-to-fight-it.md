@@ -4,13 +4,13 @@ title: "失眠及应对方法"
 category: 健康生活
 original_url: https://healthwithoutantidepressants.com/insomnia-and-how-to-fight-it/
 ---
-# 失眠及应对方法（Insomnia and How To Manage It）
+## 失眠及应对方法（Insomnia and How To Manage It）
 
 > 原文链接：https://healthwithoutantidepressants.com/insomnia-and-how-to-fight-it/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-度洛西汀（Duloxetine）在破坏睡眠方面"很有一套"。有些人可能仅仅在服用度洛西汀时就会出现失眠这种副作用；另一些人则可能在减药过快、骤然停药（cold turkey，即未经逐步减量直接停药）或仅是逐渐减量的过程中，把失眠当作一种撤药症状来经历。
+度洛西汀（Duloxetine）在破坏睡眠方面"很有一套"。有些人可能仅仅在服用度洛西汀时就会出现失眠这种副作用；另一些人则可能在减药过快、骤然停药（cold turkey，即未经逐步减量直接停药）或仅是逐渐减量的过程中，把失眠当作一种戒断症状来经历。
 
 **警惕治疗失眠的药物和膳食补充剂**
 
@@ -82,7 +82,7 @@ original_url: https://healthwithoutantidepressants.com/insomnia-and-how-to-fight
 
 挑战那些随着时间推移而形成的、关于睡眠和失眠问题的消极态度也是有益的。关键在于识别自我挫败的想法，并将其替换为更积极的想法。请记住，[学习如何停止担忧](https://www.helpguide.org/articles/anxiety/how-to-stop-worrying.htm)需要时间和练习。你可能会发现，把自己的想法写下来会有所帮助——记下脑海中冒出的消极念头，以及你该如何反驳它们。看到这些消极念头如此频繁地出现，你也许会感到惊讶。请保持耐心，必要时寻求支持。
 
-#### **许多失眠者能够在就寝时入睡，但几个小时后就会醒来。他们难以重新入睡，常常一躺就是几个小时。如果你也属于这种情况，下面的建议也许对你有帮助：**
+### **许多失眠者能够在就寝时入睡，但几个小时后就会醒来。他们难以重新入睡，常常一躺就是几个小时。如果你也属于这种情况，下面的建议也许对你有帮助：**
 
 **不要钻进自己的脑子里胡思乱想**
 
@@ -116,7 +116,7 @@ original_url: https://healthwithoutantidepressants.com/insomnia-and-how-to-fight
 
 这些[音频冥想](https://www.helpguide.org/home-pages/audio-meditations.htm)会有所帮助。
 
-## **应对失眠的替代方法——来自同伴的建议**
+### **应对失眠的替代方法——来自同伴的建议**
 
 下面这份精彩的清单来自 [Cymbalta Hurts Worse](https://www.facebook.com/groups/Cymbaltahurtsworse/) 的成员们。感谢众多贡献者！这些建议聚焦于用自然的方式来管理睡眠。
 

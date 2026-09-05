@@ -4,26 +4,26 @@ title: "减量支持"
 category: 减量方法
 original_url: https://healthwithoutantidepressants.com/taper-support/
 ---
-# 减量支持（Taper Support）
+## 减量支持（Taper Support）
 
 > 原文链接：https://healthwithoutantidepressants.com/taper-support/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-# 减量支持（Taper-Support）
+## 减量支持（Taper-Support）
 
 CHW（Cymbalta Hurts Worse，度洛西汀减量互助社区）的实时论坛现已迁移至 Reddit 平台运行。以下说明将帮助你在曾位于 Facebook 的受审核论坛基础上，完成设置并开始使用。
 
-# 方案一：在手机上安装 Reddit 应用
+## 方案一：在手机上安装 Reddit 应用
 
-## **第 1 步** —— 下载 Reddit 应用
+### **第 1 步** —— 下载 Reddit 应用
 
 - 前往手机的应用商店（Apple App Store 或 Google Play Store）
 - 搜索 **REDDIT**
 - 点击"**获取**（Get）"或"**安装**（Install）"
 - 安装完成后打开应用
 
-## **第 2 步** —— 创建账号
+### **第 2 步** —— 创建账号
 
 - 点击"**继续**（Continue）"或"**注册**（Sign Up）"
 - 你可以使用电子邮件地址注册，也可以使用 Google/Apple 账号登录（但后者通常安全性较低）
@@ -31,7 +31,7 @@ CHW（Cymbalta Hurts Worse，度洛西汀减量互助社区）的实时论坛现
 - 创建一个强度足够、且未用于其他任何登录的"密码"
 - 系统可能会让你选择感兴趣的话题——可以跳过此步骤
 
-## **第 3 步** —— 找到 CHW 社区
+### **第 3 步** —— 找到 CHW 社区
 
 - 点击顶部的"**搜索图标**"（放大镜）
 - 输入："**Cymbalta Hurts Worse**"
@@ -40,7 +40,7 @@ CHW（Cymbalta Hurts Worse，度洛西汀减量互助社区）的实时论坛现
 
 现在你就是会员了！所有加入申请和发帖请求都会经过审核，方式与在 FB 群组中相同。请耐心等待。
 
-## **第 4 步** —— 发布你的第一条帖子
+### **第 4 步** —— 发布你的第一条帖子
 
 - 进入 CHW 社区后（你还会看到……），点击手机屏幕底部中间或顶部的"+"（加号）或"创建"（Create）按钮
 - 选择"帖子"（Post）
@@ -54,28 +54,28 @@ CHW（Cymbalta Hurts Worse，度洛西汀减量互助社区）的实时论坛现
 
 你的帖子现在处于审核状态。一旦我们批准，你就会在信息流中看到它，和 FB 上一样。
 
-# 方案二：在电脑浏览器中使用 Reddit
+## 方案二：在电脑浏览器中使用 Reddit
 
-## **第 1 步** —— 打开平台
+### **第 1 步** —— 打开平台
 
 - 打开任意网页浏览器（Chrome、Firefox、Safari、Edge 等任何浏览器均可）
 - 访问 [**https://reddit.com**](https://reddit.com)
 
-## **第 2 步** —— 创建账号
+### **第 2 步** —— 创建账号
 
 - 点击"**开始使用**（Get Started）"或"**注册**（Sign Up）"按钮（右上角）
 - 输入你的电子邮件地址
 - 选择一个"用户名"和强度足够、独一无二的"密码"
 - 你可能需要查看邮箱中的确认链接——点击它完成验证
 
-## **第 3 步** —— 找到 CHW 社区
+### **第 3 步** —— 找到 CHW 社区
 
 - 点击页面顶部的"搜索栏"
 - 输入："**Cymbalta Hurts Worse**"
 - 从搜索结果中点击 CHW 社区
 - 在右侧点击"加入"（Join）按钮
 
-## **第 4 步** —— 发布你的第一条帖子
+### **第 4 步** —— 发布你的第一条帖子
 
 - 进入 CHW 社区后，点击"创建帖子"（Create Post）按钮（位于右侧）
 - 选择"**帖子**"（Post）
@@ -86,7 +86,7 @@ CHW（Cymbalta Hurts Worse，度洛西汀减量互助社区）的实时论坛现
 
 你的帖子现在处于审核状态。一旦我们批准，你就会在信息流中看到它，和 FB 上一样。
 
-# 给新平台用户的一些小提示
+## 给新平台用户的一些小提示
 
 https://www.reddit.com/r/CymbaltaHurtsWorse/ | 我们社区的完整名称
 

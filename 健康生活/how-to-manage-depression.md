@@ -4,19 +4,19 @@ title: "如何管理抑郁"
 category: 健康生活
 original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 ---
-# 如何管理抑郁（How to manage depression）
+## 如何管理抑郁（How to manage depression）
 
 > 原文链接：https://healthwithoutantidepressants.com/how-to-manage-depression/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-## 改善情绪的十个日常方法——不用药物
+### 改善情绪的十个日常方法——不用药物
 
 **10 个简单、有科学依据、你可以每天去做的小事**
 
 如果你正在与抑郁相处，每天做的那些看似不起眼的小事，加起来会有大不同。这些方法没有一样是"速效解药"，但合在一起，它们可以真正改变你的状态。以下是有研究支持的十项实践，可以帮助你变得更稳定、更平静、更像你自己。
 
-### 1. 动起来——以适合你的方式
+#### 1. 动起来——以适合你的方式
 
 运动是改善情绪最有效的方法之一。2024 年发表在《英国医学杂志》（British Medical Journal）上的一项大型研究发现，散步、慢跑、瑜伽和力量训练都有助于缓解抑郁。运动得越多，帮助越大——但任何形式的活动都比完全不运动要好。
 
@@ -26,7 +26,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：Noetel 等人，《英国医学杂志》2024 — 运动对抑郁的效果：系统综述与网状荟萃分析（Effect of exercise for depression: systematic review and network meta-analysis）
 
-### 2. 吃能减轻炎症的食物
+#### 2. 吃能减轻炎症的食物
 
 你吃的东西会影响你的感受。2025 年的一项综合多项研究的综述发现，采用抗炎饮食——尤其是地中海式饮食——有助于改善抑郁症状。
 
@@ -36,7 +36,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：抗炎饮食与心理健康：范围综述，《营养学前沿》（Frontiers in Nutrition）2026
 
-### 3. 照顾好你的肠道
+#### 3. 照顾好你的肠道
 
 你的肠道和大脑时时刻刻都在"对话"。科学家把这称为"肠—脑轴"（gut-brain axis, GBA）。当肠道健康时，它会向大脑发送有益于情绪的信号。
 
@@ -46,7 +46,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：抑郁的饮食干预：综述与实践建议，PMC（PubMed Central）2025
 
-### 4. 晒早晨的阳光
+#### 4. 晒早晨的阳光
 
 光是改善情绪最简单的工具之一。每天早晨接受 15–30 分钟的自然阳光，可以帮助你校准身体的"内在时钟"（生物钟），进而影响睡眠、精力和情绪。
 
@@ -56,7 +56,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：非药物多模态干预的最新进展，PMC 2025
 
-### 5. 练习正念或冥想
+#### 5. 练习正念或冥想
 
 正念认知疗法（Mindfulness-Based Cognitive Therapy, MBCT）可以减轻抑郁症状并预防复发。大量证据显示，它的疗效与持续服用抗抑郁药物相当。正式的冥想练习（即使每天只做 10–20 分钟）似乎能够通过改变大脑处理负面侵入性思绪（negative intrusive thoughts）的方式来降低其密度。
 
@@ -66,7 +66,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：Kuyken 等人，《美国医学会杂志·精神病学》（JAMA Psychiatry）——MBCT 复发预防试验；Kabat-Zinn，《多舛的生命》
 
-### 6. 写下"小确幸"
+#### 6. 写下"小确幸"
 
 这一条简单但强大。每天写下几件给你带来快乐或安慰的小事——可能是一杯热茶、一通朋友的电话、一个好觉、孩子的一个笑容。
 
@@ -76,7 +76,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：Lyubomirsky, S.——关于感恩与幸福感的研究，加州大学河滨分校（University of California, Riverside）
 
-### 7. 为小胜利肯定自己
+#### 7. 为小胜利肯定自己
 
 抑郁常常让人觉得自己做得远远不够。对抗这种感受的一个方法是：把"你确实做了的事"写下来——哪怕你觉得很小。洗了个澡。做了一顿饭。发了一封邮件。出去散了步。
 
@@ -86,7 +86,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：Akhtar 等人，2025——抑郁治疗的非药物干预（Non-pharmacological interventions for the treatment of depression）
 
-### 8. 找到让自己笑的方式
+#### 8. 找到让自己笑的方式
 
 笑是一剂良药——字面意义上。研究显示，光是"预期会笑"就能让 β-内啡肽（天然的"快乐激素"）升高 27%，让生长激素（有助于免疫系统）升高 87%。笑还能降低皮质醇（压力激素）水平。
 
@@ -94,7 +94,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：Berk 等人，《美国医学科学杂志》（American Journal of the Medical Sciences）——笑对压力激素的影响
 
-### 9. 减少糖和加工食品
+#### 9. 减少糖和加工食品
 
 糖与抑郁之间的关联正在被更多证据所揭示。2024 年的一项研究发现，高糖、高加工食品的饮食会促进大脑炎症，从而可能让抑郁加重。
 
@@ -104,7 +104,7 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：Qi 等人，《营养学前沿》2024——饮食中的饱和脂肪与抑郁风险（dietary saturated fat and depression risk）
 
-### 10. 建立连接——与人、与自然、或与比你更大的事物
+#### 10. 建立连接——与人、与自然、或与比你更大的事物
 
 连接是心理健康最强有力的"燃料"之一。研究显示，孤独是抑郁的一个主要风险因素。反过来，与他人、与自然、与某种使命感建立连接，则能保护你的情绪。
 
@@ -114,6 +114,6 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 
 来源：Holt-Lunstad 等人，《PLOS 医学》（PLOS Medicine）——社会关系与死亡风险（social relationships and mortality risk）
 
-## 来自 HWA 的一点说明
+### 来自 HWA 的一点说明
 
 我们专注于自然、非药物的心理健康路径。这些工具是通往"感觉好一点"的真实道路——一次一天，慢慢来。

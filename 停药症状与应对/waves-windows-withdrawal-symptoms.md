@@ -4,13 +4,13 @@ title: "波动、窗口期与停药症状"
 category: 停药症状与应对
 original_url: https://healthwithoutantidepressants.com/waves-windows-withdrawal-symptoms/
 ---
-# 波动、窗口期与停药症状（Waves, Windows, Withdrawal Symptoms）
+## 波动、窗口期与停药症状（Waves, Windows, Withdrawal Symptoms）
 
 > 原文链接：https://healthwithoutantidepressants.com/waves-windows-withdrawal-symptoms/
 > 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
-## 模式
+### 模式
 
 大多数人都以为康复会沿一条直线进行——就像骨折，愈合时间可预测。然而，抗抑郁药停药并非如此。每个人的情况都不同，症状因人而异，持续时间也各异。
 
@@ -24,7 +24,7 @@ original_url: https://healthwithoutantidepressants.com/waves-windows-withdrawal-
 
 ---
 
-## 波动
+### 波动
 
 所谓"波动"，是指症状突然加重的阶段。它可以表现为身体上的，也可以是情绪上的，也可以两者兼有。
 
@@ -38,7 +38,7 @@ original_url: https://healthwithoutantidepressants.com/waves-windows-withdrawal-
 
 ---
 
-## 窗口期
+### 窗口期
 
 "窗口期"是症状缓解的阶段。第一次出现时，会让人感觉"终于过去了"。事实并非如此，但它确实是真实的缓解——也是你可以利用的一段时光。
 
@@ -48,7 +48,7 @@ original_url: https://healthwithoutantidepressants.com/waves-windows-withdrawal-
 
 ---
 
-## 正念
+### 正念
 
 在波动期越多地运用正念，波动往往会越短。我们的思维运行在反馈环路上——一个念头引发下一个念头。正念让你能够打断这一循环。
 
@@ -56,7 +56,7 @@ original_url: https://healthwithoutantidepressants.com/waves-windows-withdrawal-
 
 ---
 
-## 是停药反应——还是其他问题？
+### 是戒断反应——还是其他问题？
 
 停药症状可能与其他疾病的表现相似：纤维肌痛（fibromyalgia）、多发性硬化症（MS）、双相情感障碍（bipolar disorder）、广泛性焦虑障碍（GAD）、抑郁、焦虑等等。要分辨差异并不容易。
 
@@ -73,7 +73,7 @@ original_url: https://healthwithoutantidepressants.com/waves-windows-withdrawal-
 
 ---
 
-## 常见的停药症状
+### 常见的停药症状
 
 以下并非完整列表：
 
