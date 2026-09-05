@@ -1,0 +1,19 @@
+---
+layout: null
+---
+[
+  {% assign docs = site.pages | concat: site.posts %}
+  {% assign first = true %}
+  {% for doc in docs %}
+    {% if doc.title and doc.url != "/search.json" and doc.title != "搜索" and doc.layout == "post" %}
+      {% unless first %},{% endunless %}
+      {
+        "title": {{ doc.title | jsonify }},
+        "category": {{ doc.category | default: "" | jsonify }},
+        "url": {{ doc.url | relative_url | jsonify }},
+        "excerpt": {{ doc.content | strip_html | strip_newlines | truncate: 160 | jsonify }}
+      }
+      {% assign first = false %}
+    {% endif %}
+  {% endfor %}
+]

@@ -1,0 +1,47 @@
+---
+layout: default
+---
+{% assign cat_pages = site.pages | where: "category", page.category_name | sort: "title" %}
+<section class="cat-hero color-{{ page.color | default: 'pine' }}">
+  <div class="container">
+    <nav class="crumbs"><a href="{{ '/' | relative_url }}">首页</a><span>/</span><span>{{ page.title }}</span></nav>
+    <div class="cat-hero-inner">
+      <span class="card-icon big">{% include icon.html name=page.icon %}</span>
+      <div>
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.description }}</p>
+        <span class="count-pill">{{ cat_pages | size }} 篇文章</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container narrow">
+    <div class="article-list">
+      {% for p in cat_pages %}
+        {% unless p.title == "搜索" or p.url contains "/index" %}
+        <a class="article-row" href="{{ p.url | relative_url }}">
+          <span class="row-index">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+          <span class="row-body">
+            <strong>{{ p.title }}</strong>
+            <span class="row-url">{{ p.original_url | default: p.url | remove: "https://" | truncate: 60 }}</span>
+          </span>
+          <span class="row-arrow">{% include icon.html name='arrow' %}</span>
+        </a>
+        {% endunless %}
+      {% endfor %}
+    </div>
+
+    <div class="cat-nav">
+      <a href="{{ '/' | relative_url }}" class="btn ghost">← 返回首页</a>
+      <div class="cat-siblings">
+        {% for meta in site.categories_meta %}
+          {% if meta.name != page.category_name %}
+          <a href="{{ '/' | append: meta.slug | append: '/' | relative_url }}" class="sib">{{ meta.name }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
