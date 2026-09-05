@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 ## 常见问答与术语定义（FAQ and Definitions）
 
 > 原文链接：https://healthwithoutantidepressants.com/faq-and-definitions/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 > 这些问题都很简单，答案大多简短。
@@ -260,7 +259,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 可以的，饮食会很有帮助。糖、乳制品和加工食品都对大脑健康不利。
 
-晚上尝试服用 400–800 mg 甘氨酸镁。据说益母草（Leonurus）茶效果神奇。
+晚上尝试服用 400–800 mg 甘氨酸镁。据说益母草（Leonurus）茶效果神奇。（编者按：镁剂、益母草可能与镇静药、降压药、抗凝药相互作用，益母草对孕妇、哺乳期、甲状腺及心血管疾病患者有风险，请先咨询医生或药师，不要自行按此剂量服用。）
 
 保持较高的 Omega-3 水平。如果你是素食者，可以找到素食来源的 Omega-3。
 
@@ -300,7 +299,7 @@ original_url: https://healthwithoutantidepressants.com/faq-and-definitions/
 
 ### MAGNESIUM（镁剂） （详见相关专题）**我应该选择哪种？**
 
-用于助眠：每晚 400–800 mg。
+用于助眠：每晚 400–800 mg。（编者按：剂量因人而异，且镁剂可能与多种药物相互作用，请咨询医生或药师后再决定是否使用。）
 
 ---
 
@@ -476,7 +475,7 @@ Cymbalta/度洛西汀胶囊里装着微小的珠粒或微丸（pellets）。
 
 ### SEROTONIN SYNDROME（血清素综合征） （详见相关专题）**什么是血清素综合征？**
 
-这是身体对 Cymbalta/度洛西汀或其他药物产生的一种极为严重的反应，已经危及生命。体内血清素水平已经达到极限，常常是被同时开具了两种或多种同类药物所致。必须立即停药，无论可能带来什么后果。
+这是身体对 Cymbalta/度洛西汀或其他药物产生的一种极为严重的反应，已经危及生命。体内血清素水平已经达到极限，常常是被同时开具了两种或多种同类药物所致。必须立即停药，无论可能带来什么后果。（编者按：疑似血清素综合征属于急症，请立即前往急诊或拨打 120，由医生决定停药与监护方案，不要自行观察等待。）
 
 ---
 

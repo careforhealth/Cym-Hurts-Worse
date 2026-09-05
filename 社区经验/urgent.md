@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/urgent/
 ## Facebook 群组"Cymbalta Hurts Worse"紧急通知（URGENT Notice）
 
 > 原文链接：https://healthwithoutantidepressants.com/urgent/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 **Facebook** 对其"社区标准"（Community Standards）的适用已经变得更加难以预测。搜索和标签可能无法正常工作。群组和成员可能暂时或无限期地消失。FB 群组 ***Cymbalta Hurts Worse***（**CHW**）建立了这个网站，用以保存该群组十多年来、超过 45,000 名成员所积累的经验知识。

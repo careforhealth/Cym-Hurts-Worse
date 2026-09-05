@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 ## 纤维肌痛与慢性疼痛（Fibromyalgia and Chronic Pain）
 
 > 原文链接：https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-pain/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ### 纤维肌痛与慢性疼痛：针对纤维肌痛、慢性疼痛及其他慢性健康问题的非药物替代疗法
@@ -155,7 +154,7 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 - [每天使用苹果醋的 15 个理由](http://www.mindbodygreen.com/0-5875/15-Reasons-to-Use-Apple-Cider-Vinegar-Every-Day.html)
 - [苹果醋的妙用](http://www.doctoroz.com/slideshow/surprising-ways-use-apple-cider-vinegar)
-- 海盐 1/6 茶匙 + 10 盎司水,每天 6 次
+- 海盐 1/6 茶匙 + 10 盎司水,每天 6 次（编者按：高盐水饮用有高血压、肾病、水肿风险，切勿照做；如尝试任何偏方请先咨询医生或药师。）
 
 ---
 

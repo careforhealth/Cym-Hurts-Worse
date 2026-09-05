@@ -7,8 +7,8 @@ original_url: https://healthwithoutantidepressants.com/lost-your-medical-insuran
 ## 失去了医疗保险？（Lost Your Medical Insurance?）
 
 > 原文链接：https://healthwithoutantidepressants.com/lost-your-medical-insurance/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
+> （编者按：本页主要适用美国医保与药房体系，无中国医保与购药指引。在中国的读者如缺药，切勿自行断药或网购不明渠道药物，请立即联系开方医院、药房或社区卫生中心。）
 
 **写给美国（USA）读者：**
 

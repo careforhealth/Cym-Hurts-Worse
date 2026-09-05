@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/a-chronic-pain-diet/
 ## 慢性疼痛饮食（A Chronic Pain Diet）
 
 > 原文链接：https://healthwithoutantidepressants.com/a-chronic-pain-diet/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ## 引言

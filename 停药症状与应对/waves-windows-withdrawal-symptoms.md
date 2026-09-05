@@ -7,8 +7,8 @@ original_url: https://healthwithoutantidepressants.com/waves-windows-withdrawal-
 ## 波动、窗口期与停药症状（Waves, Windows, Withdrawal Symptoms）
 
 > 原文链接：https://healthwithoutantidepressants.com/waves-windows-withdrawal-symptoms/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
+> （编者按：文中“黑暗的冲动”、自伤念头指戒断期的痛苦体验；如出现相关念头请立即联系信任的人或医生、拨打 120，不要独自硬撑。）
 
 ### 模式
 

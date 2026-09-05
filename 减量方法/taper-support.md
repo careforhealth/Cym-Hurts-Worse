@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/taper-support/
 ## 减量支持（Taper Support）
 
 > 原文链接：https://healthwithoutantidepressants.com/taper-support/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ## 减量支持（Taper-Support）

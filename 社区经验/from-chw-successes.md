@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/from-chw-successes/
 ## 来自 CHW：成功经验（From CHW: Successes）
 
 > 原文链接：https://healthwithoutantidepressants.com/from-chw-successes/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 _[编者按：以下为社区成员的真实分享，已对部分加粗强调、语法和拼写进行了修改，并适当添加了颜色标记。本文为度洛西汀（Duloxetine）减量互助社区（Cymbalta Hurts Worse, CHW）的"成功经验"合集，所有内容均来自该互助群的成员。文中"邪恶 C""C""Cymb""D""Dul""D^Lox"等均为度洛西汀（Duloxetine，商品名 Cymbalta/欣百达）的社区内部用语。]_

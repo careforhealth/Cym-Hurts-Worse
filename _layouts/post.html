@@ -18,9 +18,14 @@ layout: default
       {% endif %}
       <h1>{{ page.title }}</h1>
       {% if page.original_url %}
-      <p class="original-link">原文：<a href="{{ page.original_url }}" target="_blank" rel="noopener">{{ page.original_url }} ↗</a></p>
+      <p class="original-link">原文：<a href="{{ page.original_url }}" target="_blank" rel="noopener">查看英文原文 ↗</a></p>
       {% endif %}
     </header>
+
+    <div class="article-disclaimer" style="margin-top:0;margin-bottom:20px;">
+      <span class="w-icon">!</span>
+      <p><strong>先看这里：</strong>内容仅供信息参考，不构成医疗建议。调药 / 停药 / 加补剂前请先咨询医生或药师。如出现自杀或自伤念头、想伤害他人、高热、肌肉强直、抽搐、意识混乱、坐立难安伴强烈冲动，请立即拨打 120 或前往急诊，也可参阅 <a href="{{ '/支持与资源/crisis-and-safety-planning/' | relative_url }}">危机与安全计划</a>。</p>
+    </div>
 
     <div class="article-content" id="articleContent">
       {{ content }}

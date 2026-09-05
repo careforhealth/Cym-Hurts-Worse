@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/good-nutrition/
 ## 良好营养（Good Nutrition）
 
 > 原文链接：https://healthwithoutantidepressants.com/good-nutrition/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ### 良好营养的重要性
@@ -109,7 +108,7 @@ original_url: https://healthwithoutantidepressants.com/good-nutrition/
 
 ### **试试这款简单便宜的抗炎饮品**
 
-建议每天饮用 2–4 盎司（约 60–120 毫升），每天 4–6 次，加入胡椒和椰子油。
+建议每天饮用 2–4 盎司（约 60–120 毫升），每天 4–6 次，加入胡椒和椰子油。（编者按：本方含添加糖，与减糖建议矛盾；糖尿病、高血糖、高血压、孕妇哺乳期及服药者切勿照方饮用，咨询医生或营养师后再定。）
 
 **原料：**
 

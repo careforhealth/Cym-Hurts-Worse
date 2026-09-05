@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/depression-begins-in-your
 ## 抑郁始于肠道（Depression Begins In Your Gut）
 
 > 原文链接：https://healthwithoutantidepressants.com/depression-begins-in-your-gut/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 肠道中可能发生的一切——无论是好转还是恶化——都与我们息息相关。**血清素（Serotonin）是维持情绪平衡的关键神经递质。人体内 90% 的血清素是由肠道产生的**，因此肠道常被称为"[第二大脑](https://www.scientificamerican.com/article/gut-second-brain/)"。正如俗语所说——"我的直觉反应是……"

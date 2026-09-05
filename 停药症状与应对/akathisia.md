@@ -7,8 +7,8 @@ original_url: https://healthwithoutantidepressants.com/akathisia/
 ## 静坐不能（Akathisia）
 
 > 原文链接：https://healthwithoutantidepressants.com/akathisia/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
+> （编者按：本篇含强烈的自杀与痛苦描述，如感不适请跳过并求助；如出现自杀/自伤念头、想伤害他人或无法静坐伴强烈冲动，请立即拨打 120 或前往急诊。）
 
 ## 什么是静坐不能？
 

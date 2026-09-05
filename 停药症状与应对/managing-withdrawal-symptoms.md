@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 ## 停药症状：管理与应对（Withdrawal symptoms: Manage them）
 
 > 原文链接：https://healthwithoutantidepressants.com/managing-withdrawal-symptoms/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ---
@@ -129,7 +128,7 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 
 饮食与肠道健康是抗击抑郁的关键。详见：[抑郁始于肠道（Depression Begins In Your Gut）]({{ '/副作用与危害/depression-begins-in-your-gut/' | relative_url }})
 
-- 烟酸（Niacin）：从小剂量开始。烟酸可能引起不舒服的"潮红反应"。可参考：[https://www.healthline.com/nutrition/niacin-flush](https://www.healthline.com/nutrition/niacin-flush)
+- 烟酸（Niacin）：从小剂量开始。烟酸可能引起不舒服的"潮红反应"，大剂量烟酸及高剂量维生素 B6 有神经毒性等风险，孕哺乳期、肝肾疾病、服抗凝药或抗抑郁药者请先咨询医生。可参考：[https://www.healthline.com/nutrition/niacin-flush](https://www.healthline.com/nutrition/niacin-flush)
 - [腰果](https://www.naturalnews.com/053377_depression_cashews_drug_alternatives.html)
 - 阳光——尽量每天照射至少 20 分钟
 - 适度运动：瑜伽、太极、气功、温和拉伸、普拉提、水中健身、散步
@@ -154,6 +153,8 @@ original_url: https://healthwithoutantidepressants.com/managing-withdrawal-sympt
 - 复合 B 族维生素（B-complex vitamins）
 - 冷敷
 - 瑜伽
+
+（编者按：精油、助眠补剂及非处方药可能与度洛西汀相互作用，孕哺乳期、肝肾疾病及联用抗凝药或抗抑郁药者请先咨询医生或药师，并参考本站《应避免的补剂与食物》。）
 - 针灸（但部分人可能因针灸这类"排毒"性操作而出现不适）
 - 温和运动（如散步）
 

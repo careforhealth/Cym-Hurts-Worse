@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/supplements-and-foods-to-
 ## 应避免的补剂与食物（Supplements and Foods To Avoid）
 
 > 原文链接：https://healthwithoutantidepressants.com/supplements-and-foods-to-avoid/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 本页面主要影响仍在服用 Cymbalta（度洛西汀/duloxetine）的人群。由于一些复杂的医学原因，这些警示同样可能适用于近期刚停药者。该清单多年前由 _CHW_（Cymbalta Hurts Worse，度洛西汀受害者互助组织）群组本着善意整理而成，本文同样以善意再现其编辑更新后的版本。
@@ -56,7 +55,7 @@ _如果你正在研究补剂、药物及其服用时间，这条链接可能有�
 
 **食物中的色氨酸：** 我们建议避免任何升高色氨酸的补剂或食物，但 [https://www.medicalnewstoday.com/articles/l-trytophan-supplements#other-sources](https://www.medicalnewstoday.com/articles/l-trytophan-supplements#other-sources) 认为，作为日常饮食的一部分，食物中的色氨酸是安全的。
 
-若你希望格外谨慎，上述文章列出富含色氨酸的食物包括：火鸡、金枪鱼、坚果、种子、香蕉、乳制品、红肉、贝类和大豆制品。我们建议避开它们，但至少应了解它们可能产生的影响。
+若你希望格外谨慎，上述文章列出富含色氨酸的食物包括：火鸡、金枪鱼、坚果、种子、香蕉、乳制品、红肉、贝类和大豆制品。我们建议避开它们，但至少应了解它们可能产生的影响。（编者按：日常饮食中的色氨酸一般是安全的，无需为服药而忌口整类食物，以免营养不良；真正需警惕的是 5-HTP、色氨酸、SAMe、圣约翰草等补剂与抗抑郁药联用，切勿自行联用，如需调整饮食请咨询医生或营养师。）
 
 **SAMe（S-腺苷甲硫氨酸）** "不要将 SAMe 与处方抗抑郁药同服。"
 

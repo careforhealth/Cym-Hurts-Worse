@@ -63,7 +63,7 @@
       return (d.title + ' ' + d.category + ' ' + d.excerpt).toLowerCase().indexOf(q) !== -1;
     }).slice(0, 8);
     if (!hits.length) {
-      results.innerHTML = '<li class="no-hit">没有找到「' + q.replace(/</g, '&lt;') + '」，换个关键词试试（如：失眠 / 微丸 / 体重）</li>';
+      results.innerHTML = '<li class="no-hit">没有找到「' + q.replace(/</g, '&lt;') + '」，换个关键词试试（如：睡眠 / 头晕 / 焦虑）。如感不适请先看<a href="' + baseurl + '/支持与资源/crisis-and-safety-planning/">危机与安全计划</a></li>';
     } else {
       results.innerHTML = hits.map(function (d) {
         return '<li><a href="' + d.url + '"><strong>' + d.title + '</strong><span>' + d.category + ' · ' + d.excerpt.slice(0, 60) + '…</span></a></li>';

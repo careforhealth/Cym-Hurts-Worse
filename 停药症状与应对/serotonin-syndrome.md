@@ -7,12 +7,11 @@ original_url: https://healthwithoutantidepressants.com/serotonin-syndrome/
 ## 血清素综合征（Serotonin Syndrome）
 
 > 原文链接：https://healthwithoutantidepressants.com/serotonin-syndrome/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ### 什么是血清素综合征？
 
-血清素综合征（serotonin syndrome）是一种可能从轻微到致命的严重药物反应。它可由欣百达（Cymbalta）或任何其他影响血清素（serotonin）的药物（包括补充剂）引发。血清素是人体自然产生的化学物质，对神经细胞和大脑的正常运作至关重要。但是血清素过多会引发一系列症状，程度从轻微（如寒战和腹泻）到严重（如肌肉强直、发热和癫痫发作）不等。重度血清素综合征可导致死亡。如果你出现血清素综合征的症状，请立即停用欣百达并寻求医疗救治。
+血清素综合征（serotonin syndrome）是一种可能从轻微到致命的严重药物反应。它可由欣百达（Cymbalta）或任何其他影响血清素（serotonin）的药物（包括补充剂）引发。血清素是人体自然产生的化学物质，对神经细胞和大脑的正常运作至关重要。但是血清素过多会引发一系列症状，程度从轻微（如寒战和腹泻）到严重（如肌肉强直、发热和癫痫发作）不等。重度血清素综合征可导致死亡。如果你怀疑出现血清素综合征（如高热、肌肉强直、意识混乱、抽搐、心律不齐等），请立即前往急诊或拨打 120，不要等待下一次门诊，是否停药及如何停由急诊医生决定。
 
 即使你以前从未服用过精神药物（psychotropic drugs），仍有可能发生血清素综合征。
 

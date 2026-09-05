@@ -18,6 +18,10 @@ layout: default
 
 <section class="section">
   <div class="container narrow">
+    <div class="article-disclaimer" style="margin-top:0;margin-bottom:20px;">
+      <span class="w-icon">!</span>
+      <p>信息参考，非医嘱。减量 / 停药请和医生一起定。如感不适或有危机想法，请参阅 <a href="{{ '/支持与资源/crisis-and-safety-planning/' | relative_url }}">危机与安全计划</a>。</p>
+    </div>
     <div class="article-list">
       {% for p in cat_pages %}
         {% unless p.title == "搜索" or p.url contains "/index" %}

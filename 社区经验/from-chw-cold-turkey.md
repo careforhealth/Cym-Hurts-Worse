@@ -7,8 +7,8 @@ original_url: https://healthwithoutantidepressants.com/from-chw-cold-turkey/
 ## 来自 CHW：突然停药经历（From CHW: Cold Turkey）
 
 > 原文链接：https://healthwithoutantidepressants.com/from-chw-cold-turkey/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
+> （编者按：本篇为病友经历分享，文中“请恢复用药”“10mg”等为患者个人说法。恢复用药有血清素综合征、血压波动等风险，切勿按帖中剂量自行吃回；如已停药并出现严重症状，请就医或前往急诊。）
 
 ---
 

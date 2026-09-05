@@ -8,7 +8,6 @@ original_url: https://healthwithoutantidepressants.com/weight-gain-from-psychotr
 ## 精神类药物所致体重增加（Weight Gain From Psychotropic Drugs）
 
 > 原文链接：https://healthwithoutantidepressants.com/weight-gain-from-psychotropic-drugs/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 在 Facebook 上的 CHW 小组中，我们听到许多人在服用抗抑郁药后出现明显的体重增加，而这种增加似乎与热量摄入并无关联。其实这种现象有其明确的生理机制。

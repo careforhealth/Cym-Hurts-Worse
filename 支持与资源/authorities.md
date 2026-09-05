@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/authorities/
 ## 权威资料与参考资源（Authorities）
 
 > 原文链接：https://healthwithoutantidepressants.com/authorities/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 以下列举了用于制定 **"欣百达更痛苦"（Cymbalta Hurts Worse，CHW）渐进式减量法（Gradual Taper）** 的部分权威资料。此处所列的权威人士与本网站并无直接关联，我们列出他们仅为说明本网站"渐进式减量法"所依据的资料来源。

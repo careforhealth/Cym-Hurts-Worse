@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/medical-testing-and-thyro
 ## 医学检查与甲状腺问题（Medical Testing and Thyroid Issues）
 
 > 原文链接：https://healthwithoutantidepressants.com/medical-testing-and-thyroid-issues/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 _（原文此处为点击式目录，列出了下文各小节的锚点链接；为便于阅读，已按原文顺序罗列于下方。）_

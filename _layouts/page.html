@@ -5,6 +5,10 @@ layout: default
   <div class="container narrow">
     <nav class="crumbs"><a href="{{ '/' | relative_url }}">首页</a><span>/</span><span class="current">{{ page.title }}</span></nav>
     <header class="post-head"><h1>{{ page.title }}</h1></header>
+    <div class="article-disclaimer" style="margin-top:0;margin-bottom:20px;">
+      <span class="w-icon">!</span>
+      <p>内容仅供信息参考，不构成医疗建议。如感不适或有危机想法，请参阅 <a href="{{ '/支持与资源/crisis-and-safety-planning/' | relative_url }}">危机与安全计划</a>。</p>
+    </div>
     <div class="article-content">{{ content }}</div>
   </div>
 </article>

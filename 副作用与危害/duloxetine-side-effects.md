@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/duloxetine-side-effects/
 ## Cymbalta/度洛西汀的副作用（Side effects of Cymbalta/duloxetine）
 
 > 原文链接：https://healthwithoutantidepressants.com/duloxetine-side-effects/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 Cymbalta（中文名"欣百达"）是 duloxetine（度洛西汀）的商品名。关于度洛西汀副作用的药物学信息，可在 [Drugs.com 的 Cymbalta Side Effects 页面](https://www.drugs.com/sfx/cymbalta-side-effects.html)查阅。

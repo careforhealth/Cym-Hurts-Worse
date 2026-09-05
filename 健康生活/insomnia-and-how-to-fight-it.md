@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/insomnia-and-how-to-fight
 ## 失眠及应对方法（Insomnia and How To Manage It）
 
 > 原文链接：https://healthwithoutantidepressants.com/insomnia-and-how-to-fight-it/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 度洛西汀（Duloxetine）在破坏睡眠方面"很有一套"。有些人可能仅仅在服用度洛西汀时就会出现失眠这种副作用；另一些人则可能在减药过快、骤然停药（cold turkey，即未经逐步减量直接停药）或仅是逐渐减量的过程中，把失眠当作一种戒断症状来经历。

@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-du
 ## 妊娠与 Cymbalta/度洛西汀（Pregnancy and Cymbalta/duloxetine）
 
 > 原文链接：https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-duloxetine/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ---
@@ -18,7 +17,7 @@ original_url: https://healthwithoutantidepressants.com/pregnancy-and-cymbalta-du
 
 在理想情况下，人们应当在尝试怀孕前就安全地逐渐停用所有抗抑郁药，但我们并非生活在理想世界。考虑到这一点，我们为您整理了最新文章清单，帮助您了解在妊娠期间服用抗抑郁药的利弊以及各种"如果"。
 
-如果您已经怀孕，由于发生严重戒断反应的高风险，立即开始逐步减量（gradual taper）可能是明智之举。
+如果您已经怀孕，切勿自行减量或停药。请立即联系产科医生和开方医生，共同权衡继续用药与减量的利弊后再定方案。
 
 务必告诉您的医生或产科医生您正在服用的所有处方药、非处方药以及任何保健品。建议使用 [药物相互作用检查工具](https://www.drugs.com/drug_interactions.html) 来检查所有药物之间是否存在不良相互作用。
 

@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/bipolar-disorder/
 ## 双相情感障碍（Bipolar Disorder）
 
 > 原文链接：https://healthwithoutantidepressants.com/bipolar-disorder/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ### 双相情感障碍的诊断是主观的。

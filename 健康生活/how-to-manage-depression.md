@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/how-to-manage-depression/
 ## 如何管理抑郁（How to manage depression）
 
 > 原文链接：https://healthwithoutantidepressants.com/how-to-manage-depression/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ### 改善情绪的十个日常方法——不用药物

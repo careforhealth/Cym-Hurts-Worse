@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/from-chw-symptoms/
 ## 来自 CHW：症状经验（From CHW: Symptoms）
 
 > 原文链接：https://healthwithoutantidepressants.com/from-chw-symptoms/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ### 前言
@@ -662,7 +661,7 @@ _"微笑背后是一颗受伤的心。笑声背后是我正在崩塌。
 
 ---
 
-**我被开了 C 用于止痛，它没起作用，我还经历了不会消退的副作用**。如果你才服药第二周，（两周是个分水岭），**你很可能可以冷火鸡式停掉而不会有什么不良后果**——如果我是你，**我就会这么做**，而不是等着副作用发展出来，或者陷入试着停这个药的噩梦。
+**我被开了 C 用于止痛，它没起作用，我还经历了不会消退的副作用**。（编者按：以下为患者个人经历分享，即使只服药 1–2 周也可能出现不适，切勿自行骤停，请咨询开方医生或药师后再决定。）
 
 ---
 

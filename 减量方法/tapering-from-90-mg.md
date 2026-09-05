@@ -7,7 +7,6 @@ original_url: https://healthwithoutantidepressants.com/tapering-from-90-mg/
 ## 从超过 90mg 的剂量开始减量（Tapering from Above 90mg）
 
 > 原文链接：https://healthwithoutantidepressants.com/tapering-from-90-mg/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
 
 ### 背景信息（Background Information）
@@ -57,12 +56,12 @@ original_url: https://healthwithoutantidepressants.com/tapering-from-90-mg/
 2. **从未**经历过度洛西汀或其他精神类药物骤然大剂量减量或直接停药（"cold turkey"，即"冷火鸡"式突然断药）；
 3. **不经常**调整剂量。
 
-**并且**你每日服用度洛西汀超过 90mg——那么请**立即将剂量降至 90mg**。
+**并且**你每日服用度洛西汀超过 90mg——那么请**立即将剂量降至 90mg**。（编者按：任何大幅调量都有较高的戒断风险，请先咨询开方医生或药师，不要自行一次性大减；以下为原文方案，仅供与医生讨论时参考。）
 
 若你**确实满足**以上全部 3 个条件，我们建议按以下步骤进行：
 
 1. **立即将剂量减至 90mg**，并在该剂量上维持 60 天。在这 60 天里，以及整个减量过程中，请保留你现有的处方，以备需要回调剂量。
-   - 如果你目前的剂量**超过 120mg**，请每 60 天减 30mg，逐步降至 90mg。
+   - 如果你目前的剂量**超过 120mg**，请每 60 天减 30mg，逐步降至 90mg。（编者按：30mg 属于大幅调整，务必由医生评估，出现戒断症状请暂停并就医。）
 
 <!-- THE END -->
 
@@ -75,6 +74,8 @@ original_url: https://healthwithoutantidepressants.com/tapering-from-90-mg/
 如果你尝试了这种新的“从超过 90mg 的剂量开始减量”的方法，欢迎反馈效果。**如有任何问题，请务必与我们联系。**
 
 ### 注意事项（Caution）
+
+**本页不是医嘱。调药前请咨询医生；如出现自杀或自伤念头、癫痫、高热、意识混乱、静坐不能加重，请立即前往急诊。**
 
 **我们基于 SERT 占用率数据、为部分人群提出的这种"较大幅度"减量建议，可能引发意料之外的戒断症状，或带来其他不可预见风险。请你务必先理解 SERT 占用率的科学原理，再据此规划安全的减量方案。**
 

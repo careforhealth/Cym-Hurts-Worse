@@ -7,8 +7,8 @@ original_url: https://healthwithoutantidepressants.com/for-family-and-friends/
 ## 给家人与朋友（For Family and Friends）
 
 > 原文链接：https://healthwithoutantidepressants.com/for-family-and-friends/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
+> （编者按：如家人出现具体自杀/伤人计划、幻觉支配行为或无法保证安全，请立即陪同就医或拨打 120，不要让其独处或开车，并移除危险物品。）
 
 ## 突然停用抗抑郁药会发生什么？
 

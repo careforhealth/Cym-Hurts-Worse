@@ -7,8 +7,8 @@ original_url: https://healthwithoutantidepressants.com/from-chw-bad-tapers/
 ## 来自 CHW：错误减量案例（From CHW: Bad Tapers）
 
 > 原文链接：https://healthwithoutantidepressants.com/from-chw-bad-tapers/
-> 翻译日期：2026-08-05
 > 说明：本文译自 healthwithoutantidepressants.com（"无抗抑郁药"健康信息网站），仅供信息参考，不构成医疗建议。
+> （编者按：本篇为病友经历合集，含自杀相关表述；文中“毒药”等为患者情绪化用语。如出现自杀/自伤念头请立即求助，见《危机与安全计划》。）
 
 ### PREFACE（引言）
 

@@ -19,7 +19,7 @@ layout: default
     <div class="search-wrap" id="search">
       <div class="search-box">
         <span class="search-icon">{% include icon.html name='search' %}</span>
-        <input type="search" id="homeSearch" placeholder="搜索：静坐不能 / 数微丸 / 失眠 / 体重增加…" autocomplete="off" aria-label="搜索文章">
+        <input type="search" id="homeSearch" placeholder="搜索：睡不着 / 头晕脑电击 / 焦虑心慌 / 体重增加…" autocomplete="off" aria-label="搜索文章">
         <kbd>37 篇</kbd>
       </div>
       <ul class="search-results" id="searchResults" hidden></ul>
@@ -117,8 +117,6 @@ layout: default
       <h2>一座中文的<br>减量知识小图书馆</h2>
       <p>本站收录 <a href="https://healthwithoutantidepressants.com/browse-site-contents" target="_blank" rel="noopener">Health Without Antidepressants</a> 全部 37 篇正文的简体中文翻译，原站面向抗抑郁药 / 度洛西汀（Cymbalta）使用者，关注安全减量与替代疗法。</p>
       <div class="about-tags">
-        <span>翻译 2026-08-05</span>
-        <span>校对 2026-08-17</span>
         <span>保留原文链接可溯源</span>
       </div>
     </div>
@@ -146,12 +144,19 @@ layout: default
 <section class="section support-section" id="support">
   <div class="container">
     <div class="support-card">
+      <span class="eyebrow">病友互助</span>
+      <h2 id="group">加入度洛西丁互助社区</h2>
+      <p>打开小红书扫码，加入群聊，和走在同一条路上的病友互相陪伴。进群后先看群公告，理性交流、互相尊重，保护隐私请勿发真实姓名电话。</p>
+      <!-- 群二维码约 28 天有效，过期请替换 sharing/xiaohongshu-group.jpg 并更新下方日期 -->
+      <img class="group-qr" src="{{ '/sharing/xiaohongshu-group.jpg' | relative_url }}" alt="小红书度洛西丁互助社区群二维码" loading="lazy">
+      <p class="support-note">该二维码 28 天内有效（2026年10月4日前），过期后站长会及时更新。</p>
+      <hr class="support-divider">
       <span class="eyebrow">温柔支持</span>
       <h2>请作者喝杯咖啡</h2>
-      <p>这个中文站是利用业余时间一点点翻译、校对、整理出来的，后续还有网站维护和域名 / 服务器费用。如果你觉得这里对你有帮助、条件也允许，欢迎请作者喝杯咖啡。</p>
-      <p class="support-note">完全自愿，不影响阅读。先照顾好自己最重要。</p>
-      <img src="{{ '/sharing/coffee.jpg' | relative_url }}" alt="微信鼓励码" loading="lazy">
-      <p class="support-thanks">感谢一路相伴 🙏</p>
+      <p>完全自愿，不影响阅读。先照顾好自己最重要。如果你觉得这里对你有帮助、条件也允许，欢迎请作者喝杯咖啡。</p>
+      <p class="support-note">这个中文站是利用业余时间翻译、整理和维护的，还有一定的网站维护费用。</p>
+      <img src="{{ '/sharing/coffee.jpg' | relative_url }}" alt="打赏二维码（自愿）" loading="lazy">
+      <p class="support-thanks">感谢一路相伴</p>
     </div>
   </div>
 </section>
