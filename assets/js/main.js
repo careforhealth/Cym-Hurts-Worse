@@ -39,7 +39,8 @@
   if (!input || !results) return;
 
   var index = null;
-  var base = document.querySelector('link[rel="stylesheet"]');
+  // 注意：head 里第一个 rel=stylesheet 是 Google Fonts，必须按 href 精确定位本站 CSS
+  var base = document.querySelector('link[href*="/assets/css/main.css"]');
   // 从 CSS 路径推断 baseurl： /Cym-Hurts-Worse/assets/css/main.css -> /Cym-Hurts-Worse
   var baseurl = '';
   if (base) {
