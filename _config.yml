@@ -1,23 +1,26 @@
 # Site settings
 title: "健康无抗抑郁药"
-description: "Health Without Antidepressants 中文翻译合集"
-url: ""
-baseurl: ""
+tagline: "科学减量 · 温柔康复 · 重获健康生活"
+description: "Health Without Antidepressants 中文翻译合集 — 38 篇科学减量、停药应对与健康生活指南"
+url: "https://careforhealth.github.io"
+baseurl: "/Cym-Hurts-Worse"
+lang: zh-CN
+author: 健康无抗抑郁药翻译组
+original_site: https://healthwithoutantidepressants.com/browse-site-contents
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  toc_levels: 2..3
 permalink: pretty
 
-# Plugins
+# Plugins (GitHub Pages 白名单)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:categories/:title/
+  - jekyll-sitemap
 
 # Defaults
 defaults:
@@ -49,6 +52,44 @@ navigation:
     url: /健康生活/
   - title: 支持与资源
     url: /支持与资源/
+
+# 分类元数据（供首页/分类页使用）
+categories_meta:
+  - name: 入门与决策
+    slug: 入门与决策
+    icon: compass
+    color: pine
+    desc: 服药 / 停药前的决策参考、FAQ 与研究资料
+  - name: 减量方法
+    slug: 减量方法
+    icon: chart
+    color: clay
+    desc: 数微丸法、称重法、高剂量减量与计算工具
+  - name: 停药症状与应对
+    slug: 停药症状与应对
+    icon: heart
+    color: rose
+    desc: 波动窗口期、静坐不能、恢复用药与应对策略
+  - name: 副作用与危害
+    slug: 副作用与危害
+    icon: shield
+    color: amber
+    desc: Cymbalta 副作用、肠道、甲状腺、妊娠与体重
+  - name: 社区经验
+    slug: 社区经验
+    icon: chat
+    color: sage
+    desc: CHW 社区真实经历：教训、突然停药与成功故事
+  - name: 健康生活
+    slug: 健康生活
+    icon: leaf
+    color: moss
+    desc: 营养、饮食、睡眠、疼痛管理与快乐指南
+  - name: 支持与资源
+    slug: 支持与资源
+    icon: hands
+    color: sky
+    desc: 家人朋友、医生互助、医保、危机安全与参考资源
 
 # Exclude
 exclude:

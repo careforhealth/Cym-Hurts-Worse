@@ -1,17 +1,19 @@
-<header class="site-header">
+<header class="site-header" id="siteHeader">
   <div class="header-container">
-    <a href="{{ '/' | relative_url }}" class="site-logo">
-      <span class="logo-icon">&#x1F3E5;</span>
-      <span class="logo-text">健康无抗抑郁药</span>
+    <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="首页">
+      <span class="logo-mark">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z"/><path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/></svg>
+      </span>
+      <span class="logo-text">健康无抗抑郁药<small>Health Without ADs · 中文版</small></span>
     </a>
-    <nav class="main-nav">
-      <button class="nav-toggle" aria-label="Toggle navigation">
+    <nav class="main-nav" aria-label="主导航">
+      <button class="nav-toggle" id="navToggle" aria-label="展开菜单" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
-      <ul class="nav-list">
+      <ul class="nav-list" id="navList">
         {% for item in site.navigation %}
         <li class="nav-item">
-          <a href="{{ item.url | relative_url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">
+          <a href="{{ item.url | relative_url }}" class="nav-link {% if page.url == item.url or page.url contains item.url and item.url != '/' %}active{% endif %}">
             {{ item.title }}
           </a>
         </li>
@@ -20,9 +22,3 @@
     </nav>
   </div>
 </header>
-<script>
-document.querySelector('.nav-toggle').addEventListener('click', function() {
-  document.querySelector('.nav-list').classList.toggle('open');
-  this.classList.toggle('active');
-});
-</script>

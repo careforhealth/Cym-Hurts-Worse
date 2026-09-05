@@ -1,77 +1,142 @@
 ---
 layout: default
 ---
+<!-- HERO -->
 <section class="hero">
+  <div class="hero-bg" aria-hidden="true">
+    <span class="blob blob-1"></span>
+    <span class="blob blob-2"></span>
+    <span class="blob blob-3"></span>
+  </div>
   <div class="hero-container">
-    <div class="hero-content">
-      <h1 class="hero-title">{{ page.title }}</h1>
-      <p class="hero-subtitle">{{ site.description }}</p>
-      <div class="hero-warning">
-        <span class="warning-icon">&#x26A0;&#xFE0F;</span>
-        <p>所有内容仅供信息参考，不构成医疗建议。任何停药/用药决策请务必咨询专业医生。</p>
+    <div class="hero-badge">
+      <span class="pulse-dot"></span>
+      38 篇中文翻译 · 7 大主题 · 持续更新
+    </div>
+    <h1 class="hero-title">科学减量，<em>温柔康复</em><br>重获健康生活</h1>
+    <p class="hero-subtitle">Health Without Antidepressants 中文翻译合集 — 从做决策、定计划、应对停药症状，到重建身心，一步一步陪你走。</p>
+
+    <div class="search-wrap" id="search">
+      <div class="search-box">
+        <span class="search-icon">{% include icon.html name='search' %}</span>
+        <input type="search" id="homeSearch" placeholder="搜索：静坐不能 / 数微丸 / 失眠 / 体重增加…" autocomplete="off" aria-label="搜索文章">
+        <kbd>38 篇</kbd>
+      </div>
+      <ul class="search-results" id="searchResults" hidden></ul>
+    </div>
+
+    <div class="hero-stats">
+      <div class="stat"><strong>38</strong><span>翻译文章</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><strong>7</strong><span>主题分类</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><strong>4</strong><span>步入门路径</span></div>
+    </div>
+
+    <div class="hero-warning">
+      <span class="w-icon">!</span>
+      <p>所有内容仅供信息参考，不构成医疗建议。任何停药 / 用药决策请务必咨询专业医生。如有危机请立即寻求帮助 → <a href="{{ '/支持与资源/crisis-and-safety-planning/' | relative_url }}">危机与安全计划</a></p>
+    </div>
+  </div>
+</section>
+
+<!-- JOURNEY -->
+<section class="section journey-section">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">新手入门路径</span>
+      <h2>不知道从哪开始？跟着这四步走</h2>
+      <p>为第一次来的你准备的学习顺序，读完就能建立完整认知。</p>
+    </div>
+    <ol class="journey-grid">
+      <li class="journey-card">
+        <span class="step-no">01</span>
+        <h3>了解与决策</h3>
+        <p>先搞清抗抑郁药的作用、争议与替代选择，再做决定。</p>
+        <a href="{{ '/入门与决策/' | relative_url }}" class="j-link">开始了解 {% include icon.html name='arrow' %}</a>
+      </li>
+      <li class="journey-card">
+        <span class="step-no">02</span>
+        <h3>制定减量计划</h3>
+        <p>数微丸法、称重法、计算器，找到适合你的缓慢减量节奏。</p>
+        <a href="{{ '/减量方法/' | relative_url }}" class="j-link">学习方法 {% include icon.html name='arrow' %}</a>
+      </li>
+      <li class="journey-card">
+        <span class="step-no">03</span>
+        <h3>应对停药症状</h3>
+        <p>波动与窗口期、静坐不能、恢复用药，提前知道怎么应对。</p>
+        <a href="{{ '/停药症状与应对/' | relative_url }}" class="j-link">查看应对 {% include icon.html name='arrow' %}</a>
+      </li>
+      <li class="journey-card">
+        <span class="step-no">04</span>
+        <h3>重建健康生活</h3>
+        <p>营养、睡眠、疼痛管理与情绪照顾，长久滋养自己。</p>
+        <a href="{{ '/健康生活/' | relative_url }}" class="j-link">重建生活 {% include icon.html name='arrow' %}</a>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<!-- CATEGORIES -->
+<section class="section categories-section" id="categories">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">7 大主题</span>
+      <h2>按主题浏览全部文章</h2>
+      <p>每个卡片下是该分类的文章，点击直达全文。</p>
+    </div>
+    <div class="categories-grid">
+      {% for meta in site.categories_meta %}
+      {% assign cat_pages = site.pages | where: "category", meta.name | sort: "title" %}
+      <article class="category-card color-{{ meta.color }}">
+        <a class="card-top" href="{{ '/' | append: meta.slug | append: '/' | relative_url }}">
+          <span class="card-icon">{% include icon.html name=meta.icon %}</span>
+          <span class="card-count">{{ cat_pages | size }} 篇</span>
+        </a>
+        <h3><a href="{{ '/' | append: meta.slug | append: '/' | relative_url }}">{{ meta.name }}</a></h3>
+        <p class="card-desc">{{ meta.desc }}</p>
+        <ul class="card-articles">
+          {% for p in cat_pages limit: 6 %}
+            {% unless p.title == "搜索" %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+            {% endunless %}
+          {% endfor %}
+        </ul>
+        <a class="card-more" href="{{ '/' | append: meta.slug | append: '/' | relative_url }}">进入「{{ meta.name }}」{% include icon.html name='arrow' %}</a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section class="section about-section">
+  <div class="container about-grid">
+    <div class="about-text">
+      <span class="eyebrow">关于本站</span>
+      <h2>一座中文的<br>减量知识小图书馆</h2>
+      <p>本站收录 <a href="https://healthwithoutantidepressants.com/browse-site-contents" target="_blank" rel="noopener">Health Without Antidepressants</a> 全部 38 篇文章的简体中文翻译，原站面向抗抑郁药 / 度洛西汀（Cymbalta）使用者，关注安全减量与替代疗法。</p>
+      <div class="about-tags">
+        <span>翻译 2026-08-05</span>
+        <span>校对 2026-08-17</span>
+        <span>保留原文链接可溯源</span>
       </div>
     </div>
-  </div>
-</section>
-
-<section class="categories-section">
-  <div class="categories-container">
-    <div class="categories-grid">
-      <a href="{{ '/入门与决策/' | relative_url }}" class="category-card category-intro">
-        <div class="card-icon">&#x1F3AF;</div>
-        <h3>入门与决策</h3>
-        <p>帮助你了解抗抑郁药，做出知情决策</p>
-        <span class="article-count">4 篇文章</span>
-      </a>
-      <a href="{{ '/减量方法/' | relative_url }}" class="category-card category-taper">
-        <div class="card-icon">&#x1F4C9;</div>
-        <h3>减量方法</h3>
-        <p>安全减量的实操指南和工具</p>
-        <span class="article-count">5 篇文章</span>
-      </a>
-      <a href="{{ '/停药症状与应对/' | relative_url }}" class="category-card category-withdrawal">
-        <div class="card-icon">&#x1F61F;</div>
-        <h3>停药症状与应对</h3>
-        <p>了解和应对停药过程中可能出现的症状</p>
-        <span class="article-count">5 篇文章</span>
-      </a>
-      <a href="{{ '/副作用与危害/' | relative_url }}" class="category-card category-side-effects">
-        <div class="card-icon">&#x26A0;&#xFE0F;</div>
-        <h3>副作用与危害</h3>
-        <p>了解抗抑郁药可能带来的风险</p>
-        <span class="article-count">7 篇文章</span>
-      </a>
-      <a href="{{ '/社区经验/' | relative_url }}" class="category-card category-community">
-        <div class="card-icon">&#x1F4AC;</div>
-        <h3>社区经验</h3>
-        <p>来自 CHW 社区的真实经历分享</p>
-        <span class="article-count">5 篇文章</span>
-      </a>
-      <a href="{{ '/健康生活/' | relative_url }}" class="category-card category-health">
-        <div class="card-icon">&#x1F957;</div>
-        <h3>健康生活</h3>
-        <p>替代疗法、营养和生活方式建议</p>
-        <span class="article-count">6 篇文章</span>
-      </a>
-      <a href="{{ '/支持与资源/' | relative_url }}" class="category-card category-support">
-        <div class="card-icon">&#x1F3E5;</div>
-        <h3>支持与资源</h3>
-        <p>获取帮助和支持的渠道</p>
-        <span class="article-count">6 篇文章</span>
-      </a>
-    </div>
-  </div>
-</section>
-
-<section class="about-section">
-  <div class="about-container">
-    <h2>关于本站</h2>
-    <div class="about-content">
-      <p>本站收录了 <a href="https://healthwithoutantidepressants.com/browse-site-contents" target="_blank" rel="noopener">Health Without Antidepressants</a> 网站全部 38 篇文章的简体中文翻译。</p>
-      <p>该网站面向抗抑郁药/度洛西汀(Cymbalta)使用者，关注减量与替代疗法。</p>
-      <div class="translation-info">
-        <span>翻译日期：2026-08-05</span>
-        <span>校对修订：2026-08-17</span>
+    <div class="about-cards">
+      <div class="mini-card">
+        <span class="mini-icon">{% include icon.html name='book' %}</span>
+        <strong>保留原文结构</strong>
+        <p>标题层级、列表、引用、表格与超链接完整保留。</p>
+      </div>
+      <div class="mini-card">
+        <span class="mini-icon">{% include icon.html name='check' %}</span>
+        <strong>术语中英对照</strong>
+        <p>医学 / 药学名词首次出现附英文原文。</p>
+      </div>
+      <div class="mini-card">
+        <span class="mini-icon">{% include icon.html name='heart' %}</span>
+        <strong>温柔的提醒</strong>
+        <p>每篇文章附免责声明，鼓励你与医生一起决策。</p>
       </div>
     </div>
   </div>

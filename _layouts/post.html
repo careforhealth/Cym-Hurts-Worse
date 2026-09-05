@@ -1,27 +1,58 @@
 ---
 layout: default
 ---
+{% assign related = site.pages | where: "category", page.category | sort: "title" %}
 <article class="article-page">
-  <div class="article-container">
-    <div class="article-header">
-      <div class="article-meta">
-        {% if page.category %}
-        <a href="{{ '/' | relative_url }}" class="back-link">&larr; 返回首页</a>
-        <span class="category-badge">{{ page.category }}</span>
-        {% endif %}
-      </div>
-      <h1 class="article-title">{{ page.title }}</h1>
-    </div>
-    <div class="article-content">
+  <div class="container narrow">
+    <nav class="crumbs">
+      <a href="{{ '/' | relative_url }}">首页</a><span>/</span>
+      {% if page.category %}
+      <a href="{{ '/' | append: page.category | append: '/' | relative_url }}">{{ page.category }}</a><span>/</span>
+      {% endif %}
+      <span class="current">{{ page.title }}</span>
+    </nav>
+
+    <header class="post-head">
+      {% if page.category %}
+      <a class="category-badge" href="{{ '/' | append: page.category | append: '/' | relative_url }}">{{ page.category }}</a>
+      {% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.original_url %}
+      <p class="original-link">原文：<a href="{{ page.original_url }}" target="_blank" rel="noopener">{{ page.original_url }} ↗</a></p>
+      {% endif %}
+    </header>
+
+    <div class="article-content" id="articleContent">
       {{ content }}
     </div>
-    <div class="article-footer">
-      <div class="article-nav">
-        <a href="{{ '/' | relative_url }}" class="nav-btn">&larr; 返回首页</a>
-      </div>
-      <div class="article-disclaimer">
-        <p>&#x26A0;&#xFE0F; 所有内容仅供信息参考，不构成医疗建议。任何停药/用药决策请务必咨询专业医生。</p>
-      </div>
+
+    <div class="article-disclaimer">
+      <span class="w-icon">!</span>
+      <p><strong>温柔提醒：</strong>所有内容仅供信息参考，不构成医疗建议。任何停药 / 用药决策请务必咨询专业医生。如感不适或有危机想法，请立即联系医生或参阅 <a href="{{ '/支持与资源/crisis-and-safety-planning/' | relative_url }}">危机与安全计划</a>。</p>
     </div>
+
+    {% if page.category %}
+    <section class="related">
+      <h2>同主题继续读</h2>
+      <div class="related-grid">
+        {% assign shown = 0 %}
+        {% for p in related %}
+          {% if p.url != page.url and p.title != "搜索" and shown < 3 %}
+          <a class="related-card" href="{{ p.url | relative_url }}">
+            <span class="r-cat">{{ p.category }}</span>
+            <strong>{{ p.title }}</strong>
+            <span class="r-more">阅读全文 {% include icon.html name='arrow' %}</span>
+          </a>
+          {% assign shown = shown | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      </div>
+      <div class="related-foot">
+        <a href="{{ '/' | append: page.category | append: '/' | relative_url }}" class="btn ghost">查看「{{ page.category }}」全部</a>
+        <a href="{{ '/' | relative_url }}" class="btn primary">← 返回首页</a>
+      </div>
+    </section>
+    {% endif %}
   </div>
 </article>
+<button class="back-top" id="backTop" aria-label="回到顶部">↑</button>
