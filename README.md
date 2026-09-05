@@ -66,37 +66,6 @@
 
 发现翻译错误或想帮忙校对？欢迎提 [Issue](https://github.com/careforhealth/Cym-Hurts-Worse/issues) 或 Pull Request。
 
-## 🛠 给开发者：本地预览 & 自己部署
-
-本站基于 **Jekyll + GitHub Pages**，主题为自定义简约主题。
-
-**本地预览：**
-
-```bash
-bundle install
-bundle exec jekyll serve
-# 访问 http://localhost:4000/Cym-Hurts-Worse/
-```
-
-**目录结构：**
-
-```
-├── _config.yml        # Jekyll 配置
-├── _layouts/          # 页面模板（home / post / category / page）
-├── _includes/         # 页头页脚、图标
-├── assets/            # CSS / JS
-├── index.md           # 首页
-├── 入门与决策/        # 4 篇
-├── 减量方法/          # 5 篇
-├── 停药症状与应对/    # 5 篇
-├── 副作用与危害/      # 6 篇
-├── 社区经验/          # 5 篇
-├── 健康生活/          # 6 篇
-└── 支持与资源/        # 6 篇
-```
-
-想部署一份自己的？Fork 本仓库 → Settings → Pages → Source 选 `main`（或 GitHub Actions 的 `jekyll.yml`），几分钟即可上线。详见 [Actions 配置](./.github/workflows/)。
-
 ## 🙏 版权与致谢
 
 - 原创内容版权归 [Health Without Antidepressants](https://healthwithoutantidepressants.com/) 及原作者所有，本仓库仅做**中文翻译、学习交流用**。
