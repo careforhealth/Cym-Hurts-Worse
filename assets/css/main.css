@@ -233,6 +233,12 @@ img{max-width:100%;height:auto;border-radius:var(--radius-sm)}
 .back-top{position:fixed;right:22px;bottom:22px;width:46px;height:46px;border-radius:50%;border:1px solid var(--line);background:var(--pine);color:#fff;font-size:1.1rem;cursor:pointer;box-shadow:var(--shadow-lg);opacity:0;pointer-events:none;transition:.3s;z-index:90}
 .back-top.show{opacity:1;pointer-events:auto}
 
+/* ---------- Comments (Waline) ---------- */
+.comments{margin-top:44px;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:clamp(22px,4vw,36px);box-shadow:var(--shadow)}
+.comments h2{font-family:var(--serif);font-size:1.35rem;margin-bottom:8px}
+.comments-desc{font-size:.84rem;color:var(--muted);margin-bottom:18px}
+#waline{--waline-theme-color:#1E4D3F;--waline-active-color:#B85A28;--waline-font-size:15px;--waline-border-radius:12px;text-align:left}
+
 /* ---------- Footer ---------- */
 .site-footer{background:var(--pine-deep);color:#CFC6B4;margin-top:0}
 .footer-container{max-width:var(--max);margin:0 auto;padding:56px 24px 24px}

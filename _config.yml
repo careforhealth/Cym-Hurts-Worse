@@ -91,6 +91,10 @@ categories_meta:
     color: sky
     desc: 家人朋友、医生互助、医保、补剂提醒、危机安全与权威参考资源。
 
+# Waline 评论（https://waline.js.org）
+waline:
+  server_url: https://chwdiscuss.vercel.app
+
 # Exclude
 exclude:
   - README.md
