@@ -58,11 +58,6 @@
 ## 📖 关于翻译
 
 - **原文来源**：[healthwithoutantidepressants.com/browse-site-contents](https://healthwithoutantidepressants.com/browse-site-contents)
-- **翻译日期**：2026-08-05（2026-08-17 校对修订）
-- **翻译规范**：
-  - 保留原文 `#` / `##` / `###` 标题层级、列表、引用块、表格与链接
-  - 专有名词用「中文译名 + 英文原文」形式
-  - 原文 URL 保留英文原样，方便溯源
 
 发现翻译错误或想帮忙校对？欢迎提 [Issue](https://github.com/careforhealth/Cym-Hurts-Worse/issues) 或 Pull Request。
 
