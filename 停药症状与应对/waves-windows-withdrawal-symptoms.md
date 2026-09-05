@@ -22,6 +22,8 @@ original_url: https://healthwithoutantidepressants.com/waves-windows-withdrawal-
 
 早期阶段，症状可能持续不断；随着时间推移，它们往往会逐渐呈现出这种模式。没有任何可预测的时间表——但知道这种模式存在，本身就有帮助。
 
+![波动与窗口期模式示意图]({{ '/assets/img/waves-windows/Waves-and-Windows.jpg' | relative_url }})
+
 ---
 
 ### 波动

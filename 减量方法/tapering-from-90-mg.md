@@ -44,6 +44,8 @@ original_url: https://healthwithoutantidepressants.com/tapering-from-90-mg/
 
 下图为上文引用的 2022 年 Sørensen、Ruhé、Munkholm 论文中的原图：
 
+![剂量-SERT 占用率双曲曲线图]({{ '/assets/img/taper-90mg/hyperbolic-curve.jpg' | relative_url }})
+
 这种 SERT 占用率的"双曲线"特征表明：只要剂量降幅够大，足以让药效明显下降，戒断症状就会出现——但并非每一次减量都会触发。
 
 ### 超过 90mg 时的减量指南（Tapering Guidelines From More Than 90mg）

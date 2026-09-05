@@ -41,7 +41,7 @@ original_url: https://healthwithoutantidepressants.com/considering-an-antidepres
 
 发明这种药物的礼来公司，被迫在正式的产品说明书中承认大量可怕的副作用 [https://pi.lilly.com/us/cymbalta-pi.pdf](https://pi.lilly.com/us/cymbalta-pi.pdf)
 
-![礼来公司警告](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-warnings-218x300.png)
+![礼来公司警告]({{ '/assets/img/considering/lilly-warnings.png' | relative_url }})
 
 自 2013 年以来，我们这个群组已经见识了所有这些副作用，甚至更多。
 
@@ -69,7 +69,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 这种药物对您身体的作用是"双曲线式"的，这意味着**较低**剂量产生的效果反而大于较高剂量。这与我们所熟悉和使用的大多数药物不同。我们知道，两剂布洛芬（如美林 Motrin）的效果约为一剂的 2 倍。但对于欣百达/度洛西汀，您大脑中的受体发生了改变，只需极少量的药物就能产生这种变化。请看下方不同剂量下 5-羟色胺效应的图表。
 
-![欣百达/度洛西汀的双曲线效应图](https://healthwithoutantidepressants.com/wp-content/uploads/2023/03/47.png)
+![欣百达/度洛西汀的双曲线效应图]({{ '/assets/img/considering/hyperbolic-47.png' | relative_url }})
 
 图表来自 Anders Sorenson 博士：[https://www.nature.com/articles/s41380-021-01285-w](https://www.nature.com/articles/s41380-021-01285-w)
 
@@ -113,19 +113,19 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 #### 抑郁症
 
-![礼来-抑郁症剂量](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-depressive-disorder-300x43.png)
+![礼来-抑郁症剂量]({{ '/assets/img/considering/lilly-depressive-disorder.png' | relative_url }})
 
 #### 纤维肌痛
 
-![礼来-纤维肌痛剂量](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-fibromyalgia-dosage-300x78.png)
+![礼来-纤维肌痛剂量]({{ '/assets/img/considering/lilly-fibromyalgia-dosage.png' | relative_url }})
 
 #### 广泛性焦虑障碍
 
-![礼来-广泛性焦虑障碍剂量](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-GAD-300x48.png)
+![礼来-广泛性焦虑障碍剂量]({{ '/assets/img/considering/lilly-GAD.png' | relative_url }})
 
 #### 神经病理性疼痛
 
-![礼来-神经病理性疼痛剂量](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-neuropathic-pain-300x49.png)
+![礼来-神经病理性疼痛剂量]({{ '/assets/img/considering/lilly-neuropathic-pain.png' | relative_url }})
 
 请注意，所有这些适应症都注明 60mg 是最大有效剂量。这些高剂量使停药变得复杂，因为从高剂量减下来需要长得多的减量时间，而且症状可能更严重。
 
@@ -133,11 +133,11 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 尽管各种出版物轻描淡写地谈论停药的复杂性，但它们普遍承认，这不是一种应该一次性全部停用的药物。所有权威机构——包括原生产厂商礼来公司——都承认，必须缓慢停药才能避免剧烈的副作用。礼来欣百达的正式文件 [https://pi.lilly.com/us/cymbalta-pi.pdf](https://pi.lilly.com/us/cymbalta-pi.pdf) 非常明确地指出，停药应采用我们网站上介绍的这种缓慢减量法：
 
-![礼来-停药说明](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-discontinuing-300x38.png)
+![礼来-停药说明]({{ '/assets/img/considering/lilly-discontinuing.png' | relative_url }})
 
 礼来用了大量篇幅论述停药的并发症，并将其命名为"停药综合征"（Discontinuation Syndrome）：
 
-![礼来-停药综合征](https://healthwithoutantidepressants.com/wp-content/uploads/lilly-discontinuation-syndrome-300x107.png)
+![礼来-停药综合征]({{ '/assets/img/considering/lilly-discontinuation-syndrome.png' | relative_url }})
 
 其他权威机构也持同样看法。
 
@@ -152,7 +152,7 @@ Facebook 群组"**Cymbalta Hurts Worse**"（简称 CHW）在过去十年间，�
 
 我们建议采用"反向双曲线式减量法"（reverse hyperbolic tapering），即每两周或更长时间，按上一个剂量的固定百分比减量。这充分考虑到了大脑在低剂量变化时更强烈的反应。该图表由本网站上的[在线计算器](https://healthwithoutantidepressants.com/calculators/)生成。
 
-![缓慢减量示意图](https://healthwithoutantidepressants.com/wp-content/uploads/2023/06/slow-taper-300x131.png)
+![缓慢减量示意图]({{ '/assets/img/considering/slow-taper.png' | relative_url }})
 
 一些缺乏知识的医生会采用大幅度减量或隔日服药的方式进行快速停药。我们有成千上万条帖子详细记录了这种错误做法带来的可怕副作用。
 

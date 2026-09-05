@@ -66,9 +66,13 @@ original_url: https://healthwithoutantidepressants.com/weighing/
 
 我们曾测试过三台价格从 7 美元到 25 美元不等的电子秤。其中两台较便宜的、号称"专业级"的秤，在极小重量下无法分辨毫克级的差异。**这两款不推荐使用。**
 
+![各种毫克秤对照]({{ '/assets/img/weighing/01.jpg' | relative_url }})
+
 #### 经济型电子秤（Affordable Scale）
 
 我们最推荐的是 **SmartWeigh GEM20**。测试结果显示，它在低至约 50 颗微丸时仍能保持准确。这似乎是我们所有需求中性价比最高的一款。
+
+![SmartWeigh GEM20 推荐秤]({{ '/assets/img/weighing/02.jpg' | relative_url }})
 
 在 Amazon 等网站上，这款型号的叫法多种多样，售价在 $25–$50 之间。**所有外观相似的产品很可能都是完全一样的，只是卖家不同**。尽量找价格最低的下单即可。截至 2024 年 6 月，最优惠的价格（约 US$15.75）在这里：
 
@@ -77,6 +81,8 @@ original_url: https://healthwithoutantidepressants.com/weighing/
 这不是联盟营销链接，我们不收取任何佣金。如果该链接失效，请发邮件告知：[info@healthwithoutantidepressants.com](mailto:info@healthwithoutantidepressants.com)。
 
 Amazon 上的商品信息经常变动，你也可以直接搜索 **"GEM20"** 或 **"GEM 20"**。
+
+![亚马逊同款搜索示意]({{ '/assets/img/weighing/gem20.png' | relative_url }})
 
 电子秤自带两节劣质电池，请购买几节优质的 Energizer AA 电池替换使用。**新电池对保证电子秤准确度至关重要**。随秤附带的称量小碗用于称重非常好用，镊子我们则不使用。
 
@@ -96,13 +102,19 @@ Amazon 上的商品信息经常变动，你也可以直接搜索 **"GEM20"** 或
 
 我们使用一个在厨房里找到的小碗，类似的容器都可以用上。这是整个流程中最简单的一步！
 
+![盛微丸的小碗]({{ '/assets/img/weighing/05.jpg' | relative_url }})
+
 ### 空胶囊（THE CAPSULES）
 
 你未必一定需要额外的空胶囊。当我们仍在服用 60 mg 剂量时，会重复使用原处方胶囊——它们是 1 号（Size 1），便于操作。因此如果你的处方是 60 mg，很可能不需要额外购买空胶囊，除非你在开胶囊时不慎弄破了几粒。
 
 现在我们使用的是药房配发的 20 mg 胶囊，它非常小，因此改用 1 号空胶囊。在 Amazon 上搜索 **"empty medicine capsules"** 即可购买。**请注意不要使用"肠溶型"（enteric）空胶囊**，因为里面的微丸本身已经是肠溶包衣的。所以一定不要买肠溶型。
 
+![明胶空胶囊]({{ '/assets/img/weighing/06.png' | relative_url }})
+
 我们推荐使用 1 号。
+
+![1 号空胶囊]({{ '/assets/img/weighing/07.jpg' | relative_url }})
 
 市面上的空胶囊基本都差不多，选最便宜的即可。
 
@@ -128,15 +140,27 @@ Amazon 上的商品信息经常变动，你也可以直接搜索 **"GEM20"** 或
 
 长按电源键（Power），直至屏幕显示 **CAL**。
 
+![长按电源键进入校准]({{ '/assets/img/weighing/08.jpg' | relative_url }})
+
 屏幕显示 CAL 后，松开按钮。
+
+![屏幕显示 CAL]({{ '/assets/img/weighing/09.jpg' | relative_url }})
 
 稍等片刻，屏幕会显示 **10.000**。
 
+![屏幕显示 10.000]({{ '/assets/img/weighing/10.jpg' | relative_url }})
+
 这是提示你需要在该位置放上相应的校准砝码。请先放上其中一个砝码。
+
+![放置第一枚砝码]({{ '/assets/img/weighing/11.jpg' | relative_url }})
 
 几秒钟后，秤会识别到并提示放上第二个砝码，使总重达到 20 g。将第二枚砝码与第一枚一起放上，等待。
 
+![放置第二枚砝码]({{ '/assets/img/weighing/12.jpg' | relative_url }})
+
 几秒钟后，屏幕会显示 **"PASS"**。如果没有显示，请查阅说明书再试一次。
+
+![校准通过显示 PASS]({{ '/assets/img/weighing/13.jpg' | relative_url }})
 
 恭喜你，可以开始使用了！
 
@@ -144,33 +168,61 @@ Amazon 上的商品信息经常变动，你也可以直接搜索 **"GEM20"** 或
 
 我们用一小块**锡纸（铝箔）**制作一个支架，将胶囊底壳立起来，方便往里倒微丸。
 
+![锡纸胶囊支架]({{ '/assets/img/weighing/14.jpg' | relative_url }})
+
 取一粒完整的空胶囊，把锡纸包裹在它周围塑形。可能需要多试几次，才能让它稳稳地立起来。
 
+![空胶囊立于锡纸支架中]({{ '/assets/img/weighing/15.jpg' | relative_url }})
+
 反复调整锡纸的形状，做到大致相似即可。我们的第一个支架被捏得皱巴巴的，但照样用了一年多。
+
+![成形可用的支架]({{ '/assets/img/weighing/16.jpg' | relative_url }})
 
 ### 折叠倾倒纸盘（FOLD YOUR POURING PLATE）
 
 将微丸重新装回空胶囊时，大多数人第一反应是使用漏斗。我们试过，但效果不好。后来我们改用**折叠的纸质餐盘**，效果一直很满意。
 
+![折好的倾倒纸盘]({{ '/assets/img/weighing/17.jpg' | relative_url }})
+
 准备一个**纸质餐盘**。建议选便宜的、"防油"（grease resistant）款式的餐盘——太厚的不容易折叠。
+
+![薄纸质餐盘]({{ '/assets/img/weighing/18.jpg' | relative_url }})
 
 先把边缘的褶皱部分剪掉：
 
+![剪掉边缘褶皱]({{ '/assets/img/weighing/19.jpg' | relative_url }})
+
 对折一次，用硬物压实折痕：
+
+![对折并压实]({{ '/assets/img/weighing/20.jpg' | relative_url }})
 
 在折起的状态下，用笔画出类似半个心形的图案：
 
+![画出半个心形]({{ '/assets/img/weighing/21.jpg' | relative_url }})
+
 沿图案剪下。形状完全不必规整。
+
+![沿线剪下]({{ '/assets/img/weighing/22.jpg' | relative_url }})
 
 展开后，在"心形"顶部的中央位置捏一下：
 
+![顶部中央捏一下]({{ '/assets/img/weighing/23.jpg' | relative_url }})
+
 将中央捏出的部分向内折叠、压实，做出一个挡边——它能防止微丸从后方滚落！
+
+![折出防滚挡边]({{ '/assets/img/weighing/24.jpg' | relative_url }})
 
 大致做成这个样子就行，不必强求一模一样。
 
+![挡边大致效果]({{ '/assets/img/weighing/25.jpg' | relative_url }})
+
 再把折起状态下"心形"的最尖端剪掉一小口，方便微丸滚入胶囊壳。
 
+![剪掉心形尖端]({{ '/assets/img/weighing/26.jpg' | relative_url }})
+
 大致是这个样子：
+
+![纸盘倾倒嘴成品]({{ '/assets/img/weighing/27.jpg' | relative_url }})
 
 恭喜你，所有工具已经准备齐全。
 
@@ -202,45 +254,81 @@ Amazon 上的商品信息经常变动，你也可以直接搜索 **"GEM20"** 或
 
 计算器填好后，打印出前一两页，开始准备称量。
 
+![批量操作前的准备]({{ '/assets/img/weighing/29.jpg' | relative_url }})
+
 ## 批量称重操作（DOING A BATCH）
 
 本示例中，我们使用的是药房配发的 20 mg 胶囊，体积很小。如果你使用的是 30 mg 或 60 mg 胶囊，体积会更大。在我们使用 60 mg 期间，经常直接重复使用处方原装的胶囊壳。除非开壳时偶尔弄破一两粒，否则无需另购空胶囊。一旦熟练之后，掰开胶囊就不会有问题了。
 
 我们此前已经做过几轮，本次示例展示的是从 20 mg 起步时的典型操作。**你看到的具体数字会与这里不同！**
 
+![20mg 起步剂量示例]({{ '/assets/img/weighing/30.jpg' | relative_url }})
+
 本轮的目标重量是 **0.100 g**，相当于原始剂量的 83%。我**用指甲**掐住胶囊壳边缘，旋转拧开密封圈。你能看到盖子上留下的压痕。在 60 mg 胶囊上，凹痕没有这么深。
+
+![拧开的胶囊]({{ '/assets/img/weighing/31.jpg' | relative_url }})
 
 拧开胶囊后，将所有内容物倒入小碗中。
 
+![微丸倒入小碗]({{ '/assets/img/weighing/32.jpg' | relative_url }})
+
 这是两周剂量的全部内容物，**所有胶囊的内容物**都集中在了碗中。
+
+![两周剂量的全部微丸]({{ '/assets/img/weighing/33.jpg' | relative_url }})
 
 接下来，把一粒**空胶囊的底壳**架到支架上。
 
+![空胶囊底壳架上支架]({{ '/assets/img/weighing/34.jpg' | relative_url }})
+
 我们通常会**先把所有用到的空胶囊底壳都架好**，再开始称重。电子秤会超时（timeout）——如果你动作太慢的话，所以**提前把所有东西准备就绪**。
+
+![预先架好所有底壳]({{ '/assets/img/weighing/35.jpg' | relative_url }})
 
 整个起始的工作台大致是这个样子。
 
+![工作台全景]({{ '/assets/img/weighing/36.jpg' | relative_url }})
+
 然后，用**右手**拿镊子把微丸拨到秤上的小托盘里。
+
+![用镊子拨珠上秤]({{ '/assets/img/weighing/37.jpg' | relative_url }})
 
 如果称出的重量比目标值高了几千分之一克（例如目标是 0.100，实际是 0.103），就用镊子挑出几颗。如果超出太多，就把部分微丸倒回小碗中。
 
 这就是称量的目标——**0.100 g**。
 
+![秤上的实际读数：0.100 g]({{ '/assets/img/weighing/38.jpg' | relative_url }})
+
 _请记住：这个重量**与剂量完全无关**。虽然重量和剂量都用毫克（mg）来计量，但单位重量的微丸中所含的实际药量要少得多。这一 0.100 g（原文误写为 0.100mg，按上下文应为 0.100 g）重量的微丸中，实际只含有约 0.017 mg 的药物有效成分。_
 
 接下来，将微丸倒入倾倒纸盘，**保持水平或略微向后倾斜**。微丸会乖乖地停在纸盘上……
 
+![微丸倒入倾倒纸盘]({{ '/assets/img/weighing/39.jpg' | relative_url }})
+
 看！
+
+![纸盘上排好的微丸]({{ '/assets/img/weighing/40.jpg' | relative_url }})
 
 然后，把微丸倒入胶囊壳中，**用手指抵住胶囊口上方的纸盘**（即靠在纸盘上的那一侧），防止微丸溢出。当时只能腾出一只手拍照，所以只拍到了这一步。
 
+![微丸倒入胶囊壳]({{ '/assets/img/weighing/41.jpg' | relative_url }})
+
 这就是成品：
+
+![装好的胶囊]({{ '/assets/img/weighing/42.jpg' | relative_url }})
 
 盖上胶囊顶壳，听到"咔哒"一声扣合。
 
+![扣上胶囊顶壳]({{ '/assets/img/weighing/43.jpg' | relative_url }})
+
 Voilà！一粒称量好的胶囊就完成了。
 
+![完成的一粒胶囊]({{ '/assets/img/weighing/44.jpg' | relative_url }})
+
 这是两周剂量所剩余的微丸。
+
+![两周剩余的微丸]({{ '/assets/img/weighing/45.jpg' | relative_url }})
+
+![两周操作的全部成果]({{ '/assets/img/weighing/46.jpg' | relative_url }})
 
 ## 其他方法（OTHER METHODS）
 
@@ -265,6 +353,8 @@ Voilà！一粒称量好的胶囊就完成了。
 ### 低剂量时的药物效应（EFFECTS AT LOW DOSES）
 
 Cymbalta / 度洛西汀（duloxetine）的一个特点是：**在低剂量时反而更有效**，随着剂量升高，疗效会逐渐减弱。请注意下图中"占用率"（Occupancy，即药效）从 0 攀升到 20 mg 的过程非常陡峭，之后曲线趋于平缓：
+
+![低剂量双曲效应图]({{ '/assets/img/weighing/47.png' | relative_url }})
 
 [https://www.nature.com/articles/s41380-021-01285-w.pdf](https://www.nature.com/articles/s41380-021-01285-w.pdf)
 

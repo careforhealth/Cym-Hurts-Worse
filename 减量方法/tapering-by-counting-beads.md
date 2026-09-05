@@ -54,7 +54,11 @@ original_url: https://healthwithoutantidepressants.com/tapering-by-counting-bead
 
 ### 一些工具、胶囊规格与微丸选择（SOME TOOLS / CAPSULE SIZES / BEADS TO USE）
 
-_译者注：原文这一部分主要由工具、胶囊规格与微丸的实物照片构成，无文字说明，请直接查看[原站页面](https://healthwithoutantidepressants.com/tapering-by-counting-beads/)中的图片。_
+![数微丸所需工具]({{ '/assets/img/counting-beads/tools.jpg' | relative_url }})
+
+![胶囊规格对照]({{ '/assets/img/counting-beads/capsule-sizes.jpg' | relative_url }})
+
+![可使用的微丸示例]({{ '/assets/img/counting-beads/beads-to-use.jpg' | relative_url }})
 
 ### 计算当前瓶装胶囊的平均值（GET AN AVERAGE FOR THIS BOTTLE）
 
@@ -79,6 +83,8 @@ _译者注：原文这一部分主要由工具、胶囊规格与微丸的实物�
 拧开胶囊。**将所有微丸**倒出胶囊。将正确数量的微丸**装回**原胶囊或一粒新的空胶囊中。计算器会告诉你需要多少颗。**务必仔细清点。**
 
 舀取微丸：
+
+![舀取微丸操作]({{ '/assets/img/counting-beads/scoop-up.jpg' | relative_url }})
 
 **每次至少配制几天的用量**。这会花费时间和精力，但会越来越顺手。可以把它变成一件"仪式感"的事——播放你喜欢的音乐或电台节目可能会有帮助。必要时请他人协助。你可能会惊讶地发现，有不少人愿意帮你。
 

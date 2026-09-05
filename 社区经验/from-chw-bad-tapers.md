@@ -30,6 +30,8 @@ original_url: https://healthwithoutantidepressants.com/from-chw-bad-tapers/
 
 **所有这些帖子都指向同一个问题——医生不理解停用此药到底需要怎么做。他们采用诸如"隔日服药"、"大幅减量"等方法，而这些方法恰恰是该药品生产厂家所明确反对的。该群组十多年来的经验总结出了"逐步减量法"（Gradual Taper method）。请知悉：您读到的每一个人的帖子背后，都得到过该 Facebook 群组中那些"超人般"的管理员所提供的专业指导。下面所引用的错误线性减量的例子虽然说的是西酞普兰（Citalopram），但与度洛西汀（Cymbalta/duloxetine）直接相关。**
 
+![错误的线性减量示例]({{ '/assets/img/bad-tapers/linear-taper.jpg' | relative_url }})
+
 **为求清晰和简洁，仅对原文做了少量编辑，任何加粗均为强调所加。**
 
 _{编者注：**通过"隔日服药"停药所带来的严重症状，可能需要相当长一段时间才会显现**。虽然这种做法并非医生指示，但它是医生最常用的方法。加粗为强调所加。}_

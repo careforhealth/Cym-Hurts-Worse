@@ -35,7 +35,12 @@ original_url: https://healthwithoutantidepressants.com/fibromyalgia-and-chronic-
 
 #### 课后作业:看这几部电影!
 
+[![《Fat, Sick and Nearly Dead》]({{ '/assets/img/fibromyalgia/fat-sick-nearly-dead.jpg' | relative_url }})](https://www.youtube.com/watch?v=q1z5WjjVL5c)
+
 - 《Fat, Sick and Nearly Dead》(《胖、患病、行将就木》)
+
+[![《Forks Over Knives》]({{ '/assets/img/fibromyalgia/forks-over-knives.jpg' | relative_url }})](https://www.youtube.com/watch?v=DZb-35oV_7E)
+
 - 《Forks Over Knives》(《餐叉胜于手术刀》)
 
 ---
